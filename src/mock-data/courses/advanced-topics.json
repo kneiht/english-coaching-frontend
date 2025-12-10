@@ -1,4 +1,85 @@
 [
+
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-1-vocab",
+    "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+    "description": "Vocabulary",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-2-vocab",
+    "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
+    "description": "Vocabulary",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-3-vocab",
+    "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
+    "description": "Vocabulary",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-4-reading",
+    "lessonDisplay": "Lesson 4: Reading",
+    "description": "Reading",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-5-listening",
+    "lessonDisplay": "Lesson 5: Listening",
+    "description": "Listening",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-6-shadowing",
+    "lessonDisplay": "Lesson 6: Shadowing",
+    "description": "Shadowing",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-7-writing",
+    "lessonDisplay": "Lesson 7: Writing",
+    "description": "Writing",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "music-language-we-all-speak",
+    "unitDisplay": "Music – Language We All Speak",
+    "lesson": "lesson-8-presentation",
+    "lessonDisplay": "Lesson 8: Presentation",
+    "description": "Presentation",
+    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+  },
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
@@ -241,4 +322,5 @@
     "description": "Presentation",
     "bg": "https://storage.chillteacher.com/backgrounds/lessons/multiple-intelligence-theory.webp"
   }
+  
 ]

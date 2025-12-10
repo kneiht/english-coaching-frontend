@@ -1,0 +1,235 @@
+{
+  "lesson-1-vocab": {
+    "background": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg",
+    "title": "Music – Language We All Speak",
+    "description": "Lesson 1: Vocabulary - Part 1",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "video", "id": "youtube-lesson" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "youtube-lesson",
+          "url": "https://youtu.be/BXx6jqf9nyM",
+          "title": "Video bài giảng"
+        }
+      ]
+    },
+    "vocab": [
+      {
+        "word": "universal",
+        "phonics": "/ˌjuːnɪˈvɜːrsl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/universal.webp",
+        "vietnameseMeaning": "phổ biến, chung cho tất cả",
+        "sampleSentence": "Music is a universal language.",
+        "vietnameseTranslation": "Âm nhạc là một ngôn ngữ phổ biến.",
+        "wordPronunciation": "universal.wav",
+        "sentencePronunciation": "music-is-a-universal-language.wav"
+      },
+      {
+        "word": "ability",
+        "phonics": "/əˈbɪləti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/ability.webp",
+        "vietnameseMeaning": "khả năng, năng lực",
+        "sampleSentence": "She has the ability to learn quickly.",
+        "vietnameseTranslation": "Cô ấy có khả năng học hỏi nhanh chóng.",
+        "wordPronunciation": "ability.wav",
+        "sentencePronunciation": "she-has-the-ability-to-learn-quickly.wav"
+      },
+      {
+        "word": "formal",
+        "phonics": "/ˈfɔːrml/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/formal.webp",
+        "vietnameseMeaning": "trang trọng, chính quy",
+        "sampleSentence": "They received formal training in music.",
+        "vietnameseTranslation": "Họ đã nhận được sự đào tạo chính quy về âm nhạc.",
+        "wordPronunciation": "formal.wav",
+        "sentencePronunciation": "they-received-formal-training-in-music.wav"
+      },
+      {
+        "word": "mystery",
+        "phonics": "/ˈmɪstəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mystery.webp",
+        "vietnameseMeaning": "điều bí ẩn",
+        "sampleSentence": "The origin of the universe remains a mystery.",
+        "vietnameseTranslation": "Nguồn gốc của vũ trụ vẫn là một điều bí ẩn.",
+        "wordPronunciation": "mystery.wav",
+        "sentencePronunciation": "the-origin-of-the-universe-remains-a-mystery.wav"
+      },
+      {
+        "word": "obvious",
+        "phonics": "/ˈɑːbviəs/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/obvious.webp",
+        "vietnameseMeaning": "rõ ràng, hiển nhiên",
+        "sampleSentence": "It was obvious that he was tired.",
+        "vietnameseTranslation": "Rõ ràng là anh ấy đã mệt.",
+        "wordPronunciation": "obvious.wav",
+        "sentencePronunciation": "it-was-obvious-that-he-was-tired.wav"
+      },
+      {
+        "word": "communicate",
+        "phonics": "/kəˈmjuːnɪkeɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/communicate.webp",
+        "vietnameseMeaning": "giao tiếp, truyền đạt",
+        "sampleSentence": "Dolphins communicate with each other using sounds.",
+        "vietnameseTranslation": "Cá heo giao tiếp với nhau bằng âm thanh.",
+        "wordPronunciation": "communicate.wav",
+        "sentencePronunciation": "dolphins-communicate-with-each-other-using-sounds.wav"
+      },
+      {
+        "word": "complex",
+        "phonics": "/ˈkɑːmpleks/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/complex.webp",
+        "vietnameseMeaning": "phức tạp",
+        "sampleSentence": "The human brain is a complex organ.",
+        "vietnameseTranslation": "Bộ não con người là một cơ quan phức tạp.",
+        "wordPronunciation": "complex.wav",
+        "sentencePronunciation": "the-human-brain-is-a-complex-organ.wav"
+      },
+      {
+        "word": "organize",
+        "phonics": "/ˈɔːrɡənaɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/organize.webp",
+        "vietnameseMeaning": "tổ chức, sắp xếp",
+        "sampleSentence": "We need to organize a meeting.",
+        "vietnameseTranslation": "Chúng ta cần tổ chức một cuộc họp.",
+        "wordPronunciation": "organize.wav",
+        "sentencePronunciation": "we-need-to-organize-a-meeting.wav"
+      },
+      {
+        "word": "society",
+        "phonics": "/səˈsaɪəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/society.webp",
+        "vietnameseMeaning": "xã hội",
+        "sampleSentence": "Education is important for modern society.",
+        "vietnameseTranslation": "Giáo dục rất quan trọng đối với xã hội hiện đại.",
+        "wordPronunciation": "society.wav",
+        "sentencePronunciation": "education-is-important-for-modern-society.wav"
+      },
+      {
+        "word": "essential",
+        "phonics": "/ɪˈsenʃl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/essential.webp",
+        "vietnameseMeaning": "thiết yếu, quan trọng",
+        "sampleSentence": "Water is essential for life.",
+        "vietnameseTranslation": "Nước rất thiết yếu cho sự sống.",
+        "wordPronunciation": "essential.wav",
+        "sentencePronunciation": "water-is-essential-for-life.wav"
+      },
+      {
+        "word": "decade",
+        "phonics": "/ˈdekeɪd/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/decade.webp",
+        "vietnameseMeaning": "thập kỷ",
+        "sampleSentence": "Technology has changed over the last decade.",
+        "vietnameseTranslation": "Công nghệ đã thay đổi trong thập kỷ qua.",
+        "wordPronunciation": "decade.wav",
+        "sentencePronunciation": "technology-has-changed-over-the-last-decade.wav"
+      },
+      {
+        "word": "publications",
+        "phonics": "/ˌpʌblɪˈkeɪʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/publications.webp",
+        "vietnameseMeaning": "ấn phẩm, sự xuất bản",
+        "sampleSentence": "The library has many recent publications.",
+        "vietnameseTranslation": "Thư viện có nhiều ấn phẩm gần đây.",
+        "wordPronunciation": "publications.wav",
+        "sentencePronunciation": "the-library-has-many-recent-publications.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        { "sentence": "Music is a _____ language.", "word": "universal" },
+        { "sentence": "She has the _____ to learn quickly.", "word": "ability" },
+        { "sentence": "They received _____ training in music.", "word": "formal" },
+        { "sentence": "The origin of the universe remains a _____.", "word": "mystery" },
+        { "sentence": "It was _____ that he was tired.", "word": "obvious" },
+        { "sentence": "Dolphins _____ with each other using sounds.", "word": "communicate" },
+        { "sentence": "The human brain is a _____ organ.", "word": "complex" },
+        { "sentence": "We need to _____ a meeting.", "word": "organize" },
+        { "sentence": "Education is important for modern _____.", "word": "society" },
+        { "sentence": "Water is _____ for life.", "word": "essential" },
+        { "sentence": "Technology has changed over the last _____.", "word": "decade" },
+        { "sentence": "The library has many recent _____.", "word": "publications" }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "Music – Language We All Speak" },
+              { "tag": "br" },
+              { "text": "Lesson 1: Vocabulary - Part 1" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              { "tag": "li", "children": [{ "text": "Xem video bài giảng." }] },
+              { "tag": "li", "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }] },
+              {
+                "tag": "li",
+                "children": [
+                  { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi kết quả cho giáo viên, quan trọng là các hoạt động trắc nghiệm và nghe." }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." }
+                ]
+              }
+            ]
+          },
+          { "tag": "p", "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" }, "children": [{ "text": "Chúc các em học tốt!" }] }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,233 @@
+{
+  "lesson-2-vocab": {
+    "background": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg",
+    "title": "Music – Language We All Speak",
+    "description": "Lesson 2: Vocabulary - Part 2",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "youtube-lesson",
+          "url": "https://youtu.be/BXx6jqf9nyM",
+          "title": "Video bài giảng"
+        }
+      ]
+    },
+    "vocab": [
+      {
+        "word": "neuroscience",
+        "phonics": "/ˈnʊroʊsaɪəns/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/neuroscience.webp",
+        "vietnameseMeaning": "khoa học thần kinh",
+        "sampleSentence": "Neuroscience studies the brain and nervous system.",
+        "vietnameseTranslation": "Khoa học thần kinh nghiên cứu não bộ và hệ thần kinh.",
+        "wordPronunciation": "neuroscience.wav",
+        "sentencePronunciation": "neuroscience-studies-the-brain-and-nervous-system.wav"
+      },
+      {
+        "word": "intricately",
+        "phonics": "/ˈɪntrɪkətli/",
+        "partOfSpeech": "adv",
+        "image": "https://storage.chillteacher.com/images-words/intricately.webp",
+        "vietnameseMeaning": "một cách phức tạp, rắc rối",
+        "sampleSentence": "The patterns were intricately designed.",
+        "vietnameseTranslation": "Các hoa văn được thiết kế một cách phức tạp.",
+        "wordPronunciation": "intricately.wav",
+        "sentencePronunciation": "the-patterns-were-intricately-designed.wav"
+      },
+      {
+        "word": "expert",
+        "phonics": "/ˈekspɜːrt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/expert.webp",
+        "vietnameseMeaning": "chuyên gia",
+        "sampleSentence": "He is an expert in computer science.",
+        "vietnameseTranslation": "Anh ấy là một chuyên gia về khoa học máy tính.",
+        "wordPronunciation": "expert.wav",
+        "sentencePronunciation": "he-is-an-expert-in-computer-science.wav"
+      },
+      {
+        "word": "emphasize",
+        "phonics": "/ˈemfəsaɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/emphasize.webp",
+        "vietnameseMeaning": "nhấn mạnh",
+        "sampleSentence": "The teacher emphasized the importance of homework.",
+        "vietnameseTranslation": "Giáo viên nhấn mạnh tầm quan trọng của bài tập về nhà.",
+        "wordPronunciation": "emphasize.wav",
+        "sentencePronunciation": "the-teacher-emphasized-the-importance-of-homework.wav"
+      },
+      {
+        "word": "physical dimension",
+        "phonics": "/ˈfɪzɪkl dɪˈmenʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/physical-dimension.webp",
+        "vietnameseMeaning": "kích thước vật lý",
+        "sampleSentence": "We measured the physical dimension of the box.",
+        "vietnameseTranslation": "Chúng tôi đã đo kích thước vật lý của cái hộp.",
+        "wordPronunciation": "physical-dimension.wav",
+        "sentencePronunciation": "we-measured-the-physical-dimension-of-the-box.wav"
+      },
+      {
+        "word": "abstract",
+        "phonics": "/ˈæbstrækt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/abstract.webp",
+        "vietnameseMeaning": "trừu tượng",
+        "sampleSentence": "Love is an abstract concept.",
+        "vietnameseTranslation": "Tình yêu là một khái niệm trừu tượng.",
+        "wordPronunciation": "abstract.wav",
+        "sentencePronunciation": "love-is-an-abstract-concept.wav"
+      },
+      {
+        "word": "preference",
+        "phonics": "/ˈprefrəns/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/preference.webp",
+        "vietnameseMeaning": "sự ưa thích, ưu tiên",
+        "sampleSentence": "I have a preference for tea over coffee.",
+        "vietnameseTranslation": "Tôi có sự ưa thích trà hơn là cà phê.",
+        "wordPronunciation": "preference.wav",
+        "sentencePronunciation": "i-have-a-preference-for-tea-over-coffee.wav"
+      },
+      {
+        "word": "analyze",
+        "phonics": "/ˈænəlaɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/analyze.webp",
+        "vietnameseMeaning": "phân tích",
+        "sampleSentence": "Scientists analyze data to find answers.",
+        "vietnameseTranslation": "Các nhà khoa học phân tích dữ liệu để tìm câu trả lời.",
+        "wordPronunciation": "analyze.wav",
+        "sentencePronunciation": "scientists-analyze-data-to-find-answers.wav"
+      },
+      {
+        "word": "reveal",
+        "phonics": "/rɪˈviːl/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/reveal.webp",
+        "vietnameseMeaning": "tiết lộ, bộc lộ",
+        "sampleSentence": "The study reveals interesting facts about sleep.",
+        "vietnameseTranslation": "Nghiên cứu tiết lộ những sự thật thú vị về giấc ngủ.",
+        "wordPronunciation": "reveal.wav",
+        "sentencePronunciation": "the-study-reveals-interesting-facts-about-sleep.wav"
+      },
+      {
+        "word": "frequency pattern",
+        "phonics": "/ˈfriːkwənsi ˈpætərn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/frequency-pattern.webp",
+        "vietnameseMeaning": "mô hình tần số",
+        "sampleSentence": "The frequency pattern of the sound changed.",
+        "vietnameseTranslation": "Mô hình tần số của âm thanh đã thay đổi.",
+        "wordPronunciation": "frequency-pattern.wav",
+        "sentencePronunciation": "the-frequency-pattern-of-the-sound-changed.wav"
+      },
+      {
+        "word": "musical scale",
+        "phonics": "/ˈmjuːzɪkl skeɪl/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/musical-scale.webp",
+        "vietnameseMeaning": "thang âm nhạc",
+        "sampleSentence": "The piano is tuned to the chromatic musical scale.",
+        "vietnameseTranslation": "Đàn piano được lên dây theo thang âm nhạc bán cung.",
+        "wordPronunciation": "musical-scale.wav",
+        "sentencePronunciation": "the-piano-is-tuned-to-the-chromatic-musical-scale.wav"
+      },
+      {
+        "word": "mimic",
+        "phonics": "/ˈmɪmɪk/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/mimic.webp",
+        "vietnameseMeaning": "bắt chước",
+        "sampleSentence": "Parrots can mimic human speech.",
+        "vietnameseTranslation": "Vẹt có thể bắt chước tiếng người.",
+        "wordPronunciation": "mimic.wav",
+        "sentencePronunciation": "parrots-can-mimic-human-speech.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        { "sentence": "_____ studies the brain and nervous system.", "word": "neuroscience" },
+        { "sentence": "The patterns were _____ designed.", "word": "intricately" },
+        { "sentence": "He is an _____ in computer science.", "word": "expert" },
+        { "sentence": "The teacher _____ the importance of homework.", "word": "emphasize" },
+        { "sentence": "We measured the _____ _____ of the box.", "word": "physical dimension" },
+        { "sentence": "Love is an _____ concept.", "word": "abstract" },
+        { "sentence": "I have a _____ for tea over coffee.", "word": "preference" },
+        { "sentence": "Scientists _____ data to find answers.", "word": "analyze" },
+        { "sentence": "The study _____ interesting facts about sleep.", "word": "reveal" },
+        { "sentence": "The _____ _____ of the sound changed.", "word": "frequency pattern" },
+        { "sentence": "The piano is tuned to the chromatic _____ _____.", "word": "musical scale" },
+        { "sentence": "Parrots can _____ human speech.", "word": "mimic" }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "Music – Language We All Speak" },
+              { "tag": "br" },
+              { "text": "Lesson 2: Vocabulary - Part 2" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              { "tag": "li", "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }] },
+              {
+                "tag": "li",
+                "children": [
+                  { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi kết quả cho giáo viên, quan trọng là các hoạt động trắc nghiệm và nghe." }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." }
+                ]
+              }
+            ]
+          },
+          { "tag": "p", "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" }, "children": [{ "text": "Chúc các em học tốt!" }] }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}
+

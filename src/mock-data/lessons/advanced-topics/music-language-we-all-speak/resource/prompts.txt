@@ -1,0 +1,172 @@
+[
+  {
+    "object": "universal",
+    "prompt": "a cinematic photograph of a glowing earth globe surrounded by diverse hands from different cultures connected by golden threads of light, representing global connection",
+    "filename": "universal.png"
+  },
+  {
+    "object": "ability",
+    "prompt": "a dynamic sports photograph of a rock climber reaching for a difficult hold on a steep cliff face, showing strength and skill, natural light",
+    "filename": "ability.png"
+  },
+  {
+    "object": "formal",
+    "prompt": "a photograph of a neatly set elegant dinner table with fine china, crystal glasses, and silverware in a grand dining room, black tie atmosphere",
+    "filename": "formal.png"
+  },
+  {
+    "object": "mystery",
+    "prompt": "a moody photograph of an old, ornate locked wooden chest covered in cobwebs in a dimly lit, foggy attic. A single beam of light hits the lock.",
+    "filename": "mystery.png"
+  },
+  {
+    "object": "obvious",
+    "prompt": "a photograph of a bright red apple sitting alone on a clean white pedestal in an empty room, extremely clear and unmistakable.",
+    "filename": "obvious.png"
+  },
+  {
+    "object": "communicate",
+    "prompt": "a candid photograph of two people smiling and engaged in deep conversation at a cafe table, using hand gestures, warm afternoon light",
+    "filename": "communicate.png"
+  },
+  {
+    "object": "complex",
+    "prompt": "a detailed macro photograph of the intricate gears and cogs inside an antique mechanical watch movement",
+    "filename": "complex.png"
+  },
+  {
+    "object": "organize",
+    "prompt": "a satisfying photograph of a perfectly tidy desk with color-coded stationery, labelled folders, and neatly arranged notebooks",
+    "filename": "organize.png"
+  },
+  {
+    "object": "society",
+    "prompt": "an aerial photograph of a bustling city square filled with people walking in different directions, surrounded by diverse architecture",
+    "filename": "society.png"
+  },
+  {
+    "object": "essential",
+    "prompt": "a minimalist photograph of a glass of clean water, a loaf of bread, and a small plant on a wooden table, representing basic needs",
+    "filename": "essential.png"
+  },
+  {
+    "object": "decade",
+    "prompt": "a creative photograph of ten antique calendar pages lined up, showing years from 2010 to 2020, aging paper texture",
+    "filename": "decade.png"
+  },
+  {
+    "object": "publications",
+    "prompt": "a photograph of a stack of freshly printed academic journals and magazines on a library table, with a printing press in the blurred background",
+    "filename": "publications.png"
+  },
+  {
+    "object": "neuroscience",
+    "prompt": "a scientific visualization of glowing blue and purple neural pathways and synapses firing in a biological network, resembling a human brain structure",
+    "filename": "neuroscience.png"
+  },
+  {
+    "object": "intricately",
+    "prompt": "a macro photograph of a piece of handmade lace or embroidery showing extremely fine, detailed, and complex thread patterns",
+    "filename": "intricately.png"
+  },
+  {
+    "object": "expert",
+    "prompt": "a portrait photograph of an experienced craftsman with focused eyes working on a violin, surrounded by tools in a workshop",
+    "filename": "expert.png"
+  },
+  {
+    "object": "emphasize",
+    "prompt": "a photograph of an open book where one specific sentence is highlighted with a bright yellow marker, making it stand out",
+    "filename": "emphasize.png"
+  },
+  {
+    "object": "physical dimension",
+    "prompt": "a photograph of a tape measure wrapped around a large wooden shipping crate, showing measurement markings, industrial setting",
+    "filename": "physical-dimension.png"
+  },
+  {
+    "object": "abstract",
+    "prompt": "a photograph of a modern abstract sculpture made of floating geometric glass and metal shapes casting colorful shadows on a white wall",
+    "filename": "abstract.png"
+  },
+  {
+    "object": "preference",
+    "prompt": "a photograph of a person's hand reaching to choose a red apple over a green apple from a fruit bowl",
+    "filename": "preference.png"
+  },
+  {
+    "object": "analyze",
+    "prompt": "a photograph of a scientist looking intently at complex data graphs and charts on multiple computer screens in a research lab",
+    "filename": "analyze.png"
+  },
+  {
+    "object": "reveal",
+    "prompt": "a photograph of a heavy velvet curtain being pulled back to show a hidden, glowing doorway behind it, dramatic lighting",
+    "filename": "reveal.png"
+  },
+  {
+    "object": "frequency pattern",
+    "prompt": "a visualization of sound waves on a digital oscilloscope screen, showing repeating high and low peaks in neon green lines",
+    "filename": "frequency-pattern.png"
+  },
+  {
+    "object": "musical scale",
+    "prompt": "a close-up photograph of sheet music showing a rising sequence of musical notes on a staff, with a piano keyboard in the background",
+    "filename": "musical-scale.png"
+  },
+  {
+    "object": "mimic",
+    "prompt": "a nature photograph of a colorful parrot perched on a branch, looking exactly like another parrot next to it, mirroring its pose",
+    "filename": "mimic.png"
+  },
+  {
+    "object": "demonstrate",
+    "prompt": "a photograph of a teacher at a whiteboard showing a chemical reaction experiment to attentive students in a science classroom",
+    "filename": "demonstrate.png"
+  },
+  {
+    "object": "biological system",
+    "prompt": "a diagrammatic illustration overlaying a transparent human body, showing the interconnected circulatory and nervous systems in glowing lines",
+    "filename": "biological-system.png"
+  },
+  {
+    "object": "indicate",
+    "prompt": "a photograph of a large, illuminated arrow sign pointing towards a path in a forest at dusk",
+    "filename": "indicate.png"
+  },
+  {
+    "object": "perception",
+    "prompt": "an artistic photograph of a person looking through a prism glass, seeing a distorted and colorful version of reality on the other side",
+    "filename": "perception.png"
+  },
+  {
+    "object": "continuum",
+    "prompt": "a photograph of a long spectrum gradient painted on a wall, smoothly transitioning from deep blue on the left to bright red on the right without breaks",
+    "filename": "continuum.png"
+  },
+  {
+    "object": "melodic",
+    "prompt": "a conceptual photograph of musical notes and flowing lines floating out of an open flute, giving a sense of beautiful sound",
+    "filename": "melodic.png"
+  },
+  {
+    "object": "regulate",
+    "prompt": "a close-up photograph of a hand turning a thermostat dial on a wall to adjust the temperature, showing digital numbers changing",
+    "filename": "regulate.png"
+  },
+  {
+    "object": "evidence",
+    "prompt": "a photograph of a forensic marker next to a clear footprint in mud at a crime scene, police tape in the background",
+    "filename": "evidence.png"
+  },
+  {
+    "object": "necessity",
+    "prompt": "a gritty photograph of a survival kit containing matches, a compass, and a water bottle laid out on rough ground",
+    "filename": "necessity.png"
+  },
+  {
+    "object": "luxury",
+    "prompt": "a glamorous photograph of a gold watch, a bottle of expensive champagne, and silk fabric on a marble table on a private yacht deck",
+    "filename": "luxury.png"
+  }
+]
