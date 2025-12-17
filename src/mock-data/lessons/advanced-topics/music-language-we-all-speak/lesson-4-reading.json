@@ -1,0 +1,795 @@
+{
+  "lesson-4-reading": {
+    "background": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2070",
+    "title": "Music: Language We All Speak",
+    "description": "Lesson 4: Reading",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "cloze-game" },
+      { "type": "activity", "id": "reading-slides" },
+      { "type": "activity", "id": "reading-comprehension" }
+    ],
+    "externalContent": {
+      "videos": []
+    },
+    "vocab": [
+      {
+        "word": "universal",
+        "phonics": "/ˌjuːnɪˈvɜːrsl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/universal.webp",
+        "vietnameseMeaning": "phổ biến, chung cho tất cả",
+        "sampleSentence": "Music is a universal language.",
+        "vietnameseTranslation": "Âm nhạc là một ngôn ngữ phổ biến.",
+        "wordPronunciation": "universal.wav",
+        "sentencePronunciation": "music-is-a-universal-language.wav"
+      },
+      {
+        "word": "ability",
+        "phonics": "/əˈbɪləti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/ability.webp",
+        "vietnameseMeaning": "khả năng, năng lực",
+        "sampleSentence": "She has the ability to learn quickly.",
+        "vietnameseTranslation": "Cô ấy có khả năng học hỏi nhanh chóng.",
+        "wordPronunciation": "ability.wav",
+        "sentencePronunciation": "she-has-the-ability-to-learn-quickly.wav"
+      },
+      {
+        "word": "formal",
+        "phonics": "/ˈfɔːrml/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/formal.webp",
+        "vietnameseMeaning": "trang trọng, chính quy",
+        "sampleSentence": "They received formal training in music.",
+        "vietnameseTranslation": "Họ đã nhận được sự đào tạo chính quy về âm nhạc.",
+        "wordPronunciation": "",
+        "sentencePronunciation": "they-received-formal-training-in-music.wav"
+      },
+      {
+        "word": "mystery",
+        "phonics": "/ˈmɪstəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mystery.webp",
+        "vietnameseMeaning": "điều bí ẩn",
+        "sampleSentence": "The origin of the universe remains a mystery.",
+        "vietnameseTranslation": "Nguồn gốc của vũ trụ vẫn là một điều bí ẩn.",
+        "wordPronunciation": "mystery.wav",
+        "sentencePronunciation": "the-origin-of-the-universe-remains-a-mystery.wav"
+      },
+      {
+        "word": "obvious",
+        "phonics": "/ˈɑːbviəs/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/obvious.webp",
+        "vietnameseMeaning": "rõ ràng, hiển nhiên",
+        "sampleSentence": "It was obvious that he was tired.",
+        "vietnameseTranslation": "Rõ ràng là anh ấy đã mệt.",
+        "wordPronunciation": "obvious.wav",
+        "sentencePronunciation": "it-was-obvious-that-he-was-tired.wav"
+      },
+      {
+        "word": "communicate",
+        "phonics": "/kəˈmjuːnɪkeɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/communicate.webp",
+        "vietnameseMeaning": "giao tiếp, truyền đạt",
+        "sampleSentence": "Dolphins communicate with each other using sounds.",
+        "vietnameseTranslation": "Cá heo giao tiếp với nhau bằng âm thanh.",
+        "wordPronunciation": "communicate.wav",
+        "sentencePronunciation": "dolphins-communicate-with-each-other-using-sounds.wav"
+      },
+      {
+        "word": "complex",
+        "phonics": "/ˈkɑːmpleks/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/complex.webp",
+        "vietnameseMeaning": "phức tạp",
+        "sampleSentence": "The human brain is a complex organ.",
+        "vietnameseTranslation": "Bộ não con người là một cơ quan phức tạp.",
+        "wordPronunciation": "complex.wav",
+        "sentencePronunciation": "the-human-brain-is-a-complex-organ.wav"
+      },
+      {
+        "word": "organize",
+        "phonics": "/ˈɔːrɡənaɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/organize.webp",
+        "vietnameseMeaning": "tổ chức, sắp xếp",
+        "sampleSentence": "We need to organize a meeting.",
+        "vietnameseTranslation": "Chúng ta cần tổ chức một cuộc họp.",
+        "wordPronunciation": "organize.wav",
+        "sentencePronunciation": "we-need-to-organize-a-meeting.wav"
+      },
+      {
+        "word": "society",
+        "phonics": "/səˈsaɪəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/society.webp",
+        "vietnameseMeaning": "xã hội",
+        "sampleSentence": "Education is important for modern society.",
+        "vietnameseTranslation": "Giáo dục rất quan trọng đối với xã hội hiện đại.",
+        "wordPronunciation": "society.wav",
+        "sentencePronunciation": "education-is-important-for-modern-society.wav"
+      },
+      {
+        "word": "essential",
+        "phonics": "/ɪˈsenʃl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/essential.webp",
+        "vietnameseMeaning": "thiết yếu, quan trọng",
+        "sampleSentence": "Water is essential for life.",
+        "vietnameseTranslation": "Nước rất thiết yếu cho sự sống.",
+        "wordPronunciation": "essential.wav",
+        "sentencePronunciation": "water-is-essential-for-life.wav"
+      },
+      {
+        "word": "decade",
+        "phonics": "/ˈdekeɪd/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/decade.webp",
+        "vietnameseMeaning": "thập kỷ",
+        "sampleSentence": "Technology has changed over the last decade.",
+        "vietnameseTranslation": "Công nghệ đã thay đổi trong thập kỷ qua.",
+        "wordPronunciation": "decade.wav",
+        "sentencePronunciation": "technology-has-changed-over-the-last-decade.wav"
+      },
+      {
+        "word": "publications",
+        "phonics": "/ˌpʌblɪˈkeɪʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/publications.webp",
+        "vietnameseMeaning": "ấn phẩm, sự xuất bản",
+        "sampleSentence": "The library has many recent publications.",
+        "vietnameseTranslation": "Thư viện có nhiều ấn phẩm gần đây.",
+        "wordPronunciation": "publications.wav",
+        "sentencePronunciation": "the-library-has-many-recent-publications.wav"
+      },
+      {
+        "word": "neuroscience",
+        "phonics": "/ˈnʊroʊsaɪəns/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/neuroscience.webp",
+        "vietnameseMeaning": "khoa học thần kinh",
+        "sampleSentence": "Neuroscience studies the brain and nervous system.",
+        "vietnameseTranslation": "Khoa học thần kinh nghiên cứu não bộ và hệ thần kinh.",
+        "wordPronunciation": "neuroscience.wav",
+        "sentencePronunciation": "neuroscience-studies-the-brain-and-nervous-system.wav"
+      },
+      {
+        "word": "intricately",
+        "phonics": "/ˈɪntrɪkətli/",
+        "partOfSpeech": "adv",
+        "image": "https://storage.chillteacher.com/images-words/intricately.webp",
+        "vietnameseMeaning": "một cách phức tạp, rắc rối",
+        "sampleSentence": "The patterns were intricately designed.",
+        "vietnameseTranslation": "Các hoa văn được thiết kế một cách phức tạp.",
+        "wordPronunciation": "intricately.wav",
+        "sentencePronunciation": "the-patterns-were-intricately-designed.wav"
+      },
+      {
+        "word": "expert",
+        "phonics": "/ˈekspɜːrt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/expert.webp",
+        "vietnameseMeaning": "chuyên gia",
+        "sampleSentence": "He is an expert in computer science.",
+        "vietnameseTranslation": "Anh ấy là một chuyên gia về khoa học máy tính.",
+        "wordPronunciation": "expert.wav",
+        "sentencePronunciation": "he-is-an-expert-in-computer-science.wav"
+      },
+      {
+        "word": "emphasize",
+        "phonics": "/ˈemfəsaɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/emphasize.webp",
+        "vietnameseMeaning": "nhấn mạnh",
+        "sampleSentence": "The teacher emphasized the importance of homework.",
+        "vietnameseTranslation": "Giáo viên nhấn mạnh tầm quan trọng của bài tập về nhà.",
+        "wordPronunciation": "emphasize.wav",
+        "sentencePronunciation": "the-teacher-emphasized-the-importance-of-homework.wav"
+      },
+      {
+        "word": "physical dimension",
+        "phonics": "/ˈfɪzɪkl dɪˈmenʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/physical-dimension.webp",
+        "vietnameseMeaning": "kích thước vật lý",
+        "sampleSentence": "We measured the physical dimension of the box.",
+        "vietnameseTranslation": "Chúng tôi đã đo kích thước vật lý của cái hộp.",
+        "wordPronunciation": "physical-dimension.wav",
+        "sentencePronunciation": "we-measured-the-physical-dimension-of-the-box.wav"
+      },
+      {
+        "word": "abstract",
+        "phonics": "/ˈæbstrækt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/abstract.webp",
+        "vietnameseMeaning": "trừu tượng",
+        "sampleSentence": "Love is an abstract concept.",
+        "vietnameseTranslation": "Tình yêu là một khái niệm trừu tượng.",
+        "wordPronunciation": "abstract.wav",
+        "sentencePronunciation": "love-is-an-abstract-concept.wav"
+      },
+      {
+        "word": "preference",
+        "phonics": "/ˈprefrəns/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/preference.webp",
+        "vietnameseMeaning": "sự ưa thích, ưu tiên",
+        "sampleSentence": "I have a preference for tea over coffee.",
+        "vietnameseTranslation": "Tôi có sự ưa thích trà hơn là cà phê.",
+        "wordPronunciation": "preference.wav",
+        "sentencePronunciation": "i-have-a-preference-for-tea-over-coffee.wav"
+      },
+      {
+        "word": "analyze",
+        "phonics": "/ˈænəlaɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/analyze.webp",
+        "vietnameseMeaning": "phân tích",
+        "sampleSentence": "Scientists analyze data to find answers.",
+        "vietnameseTranslation": "Các nhà khoa học phân tích dữ liệu để tìm câu trả lời.",
+        "wordPronunciation": "analyze.wav",
+        "sentencePronunciation": "scientists-analyze-data-to-find-answers.wav"
+      },
+      {
+        "word": "reveal",
+        "phonics": "/rɪˈviːl/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/reveal.webp",
+        "vietnameseMeaning": "tiết lộ, bộc lộ",
+        "sampleSentence": "The study reveals interesting facts about sleep.",
+        "vietnameseTranslation": "Nghiên cứu tiết lộ những sự thật thú vị về giấc ngủ.",
+        "wordPronunciation": "reveal.wav",
+        "sentencePronunciation": "the-study-reveals-interesting-facts-about-sleep.wav"
+      },
+      {
+        "word": "frequency pattern",
+        "phonics": "/ˈfriːkwənsi ˈpætərn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/frequency-pattern.webp",
+        "vietnameseMeaning": "mô hình tần số",
+        "sampleSentence": "The frequency pattern of the sound changed.",
+        "vietnameseTranslation": "Mô hình tần số của âm thanh đã thay đổi.",
+        "wordPronunciation": "frequency-pattern.wav",
+        "sentencePronunciation": "the-frequency-pattern-of-the-sound-changed.wav"
+      },
+      {
+        "word": "musical scale",
+        "phonics": "/ˈmjuːzɪkl skeɪl/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/musical-scale.webp",
+        "vietnameseMeaning": "thang âm nhạc",
+        "sampleSentence": "The piano is tuned to the chromatic musical scale.",
+        "vietnameseTranslation": "Đàn piano được lên dây theo thang âm nhạc bán cung.",
+        "wordPronunciation": "musical-scale.wav",
+        "sentencePronunciation": "the-piano-is-tuned-to-the-chromatic-musical-scale.wav"
+      },
+      {
+        "word": "mimic",
+        "phonics": "/ˈmɪmɪk/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/mimic.webp",
+        "vietnameseMeaning": "bắt chước",
+        "sampleSentence": "Parrots can mimic human speech.",
+        "vietnameseTranslation": "Vẹt có thể bắt chước tiếng người.",
+        "wordPronunciation": "mimic.wav",
+        "sentencePronunciation": "parrots-can-mimic-human-speech.wav"
+      },
+      {
+        "word": "demonstrate",
+        "phonics": "/ˈdemənstreɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/demonstrate.webp",
+        "vietnameseMeaning": "chứng minh, giải thích",
+        "sampleSentence": "He demonstrated how to use the machine.",
+        "vietnameseTranslation": "Anh ấy đã giải thích cách sử dụng cái máy.",
+        "wordPronunciation": "demonstrate.wav",
+        "sentencePronunciation": "he-demonstrated-how-to-use-the-machine.wav"
+      },
+      {
+        "word": "biological system",
+        "phonics": "/ˌbaɪəˈlɑːdʒɪkl ˈsɪstəm/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/biological-system.webp",
+        "vietnameseMeaning": "hệ thống sinh học",
+        "sampleSentence": "Sleep is vital for our biological system.",
+        "vietnameseTranslation": "Giấc ngủ rất quan trọng đối với hệ thống sinh học của chúng ta.",
+        "wordPronunciation": "biological-system.wav",
+        "sentencePronunciation": "sleep-is-vital-for-our-biological-system.wav"
+      },
+      {
+        "word": "indicate",
+        "phonics": "/ˈɪndɪkeɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/indicate.webp",
+        "vietnameseMeaning": "chỉ ra, biểu thị",
+        "sampleSentence": "The sign indicates the way to the exit.",
+        "vietnameseTranslation": "Biển báo chỉ đường đến lối ra.",
+        "wordPronunciation": "indicate.wav",
+        "sentencePronunciation": "the-sign-indicates-the-way-to-the-exit.wav"
+      },
+      {
+        "word": "perception",
+        "phonics": "/pərˈsepʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/perception.webp",
+        "vietnameseMeaning": "sự nhận thức, tri giác",
+        "sampleSentence": "Alcohol affects your perception of distance.",
+        "vietnameseTranslation": "Rượu ảnh hưởng đến khả năng nhận thức khoảng cách của bạn.",
+        "wordPronunciation": "perception.wav",
+        "sentencePronunciation": "alcohol-affects-your-perception-of-distance.wav"
+      },
+      {
+        "word": "continuum",
+        "phonics": "/kənˈtɪnjuəm/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/continuum.webp",
+        "vietnameseMeaning": "dải liên tục",
+        "sampleSentence": "Colors form a continuum on the spectrum.",
+        "vietnameseTranslation": "Các màu sắc tạo thành một dải liên tục trên quang phổ.",
+        "wordPronunciation": "continuum.wav",
+        "sentencePronunciation": "colors-form-a-continuum-on-the-spectrum.wav"
+      },
+      {
+        "word": "melodic",
+        "phonics": "/məˈlɑːdɪk/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/melodic.webp",
+        "vietnameseMeaning": "du dương, có giai điệu",
+        "sampleSentence": "She has a soft and melodic voice.",
+        "vietnameseTranslation": "Cô ấy có giọng nói nhẹ nhàng và du dương.",
+        "wordPronunciation": "melodic.wav",
+        "sentencePronunciation": "she-has-a-soft-and-melodic-voice.wav"
+      },
+      {
+        "word": "regulate",
+        "phonics": "/ˈreɡjuleɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/regulate.webp",
+        "vietnameseMeaning": "điều chỉnh, kiểm soát",
+        "sampleSentence": "You can regulate the temperature with this button.",
+        "vietnameseTranslation": "Bạn có thể điều chỉnh nhiệt độ bằng nút này.",
+        "wordPronunciation": "regulate.wav",
+        "sentencePronunciation": "you-can-regulate-the-temperature-with-this-button.wav"
+      },
+      {
+        "word": "evidence",
+        "phonics": "/ˈevɪdəns/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/evidence.webp",
+        "vietnameseMeaning": "bằng chứng",
+        "sampleSentence": "There is no evidence to support his claim.",
+        "vietnameseTranslation": "Không có bằng chứng nào hỗ trợ lời khẳng định của anh ta.",
+        "wordPronunciation": "evidence.wav",
+        "sentencePronunciation": "there-is-no-evidence-to-support-his-claim.wav"
+      },
+      {
+        "word": "necessity",
+        "phonics": "/nəˈsesəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/necessity.webp",
+        "vietnameseMeaning": "sự cần thiết, thứ thiết yếu",
+        "sampleSentence": "Food is a basic necessity.",
+        "vietnameseTranslation": "Thức ăn là một nhu cầu thiết yếu cơ bản.",
+        "wordPronunciation": "necessity.wav",
+        "sentencePronunciation": "food-is-a-basic-necessity.wav"
+      },
+      {
+        "word": "luxury",
+        "phonics": "/ˈlʌkʃəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/luxury.webp",
+        "vietnameseMeaning": "sự xa xỉ, sang trọng",
+        "sampleSentence": "Buying a new car is a luxury for me.",
+        "vietnameseTranslation": "Mua một chiếc xe mới là một sự xa xỉ đối với tôi.",
+        "wordPronunciation": "luxury.wav",
+        "sentencePronunciation": "buying-a-new-car-is-a-luxury-for-me.wav"
+      }
+    ],
+    "readingSlidesData": [
+      {
+        "audio": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/audio/audio1.wav",
+        "image": "https://images.squarespace-cdn.com/content/v1/65fdd24029805e7318d073bd/6bb53bdd-51de-426b-957d-9955d76baa3c/Sheet%2BMusic%2BBlog%2BCover%2BPhoto.jpg",
+        "title": "Music: Language We All Speak",
+        "text": ""
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/audio/audio2.wav",
+        "image": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/images/audio2.webp",
+        "textTitle": "A Universal Ability",
+        "text": "Music is a universal ability shared by almost all humans. Unlike other skills, we do not need formal training to enjoy or create it. However, the reason why we have music is a mystery. In contrast, the purpose of language is obvious. Language allows us to communicate complex ideas and organize society. Because of this, some scientists, like Steven Pinker, previously thought music was not essential. He believed it was just for fun and had no use for human intelligence."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/audio/audio3.wav",
+        "image": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/images/audio3.webp",
+        "textTitle": "New Discoveries in Neuroscience",
+        "text": "Recently, this view has changed. Over the last decade, new publications in neuroscience have shown that music and language are intricately connected. Traditionally, experts emphasized the mathematical side of music. For example, Pythagoras discovered that the physical dimension of a string affects the sound it makes. This led to the theory that music is abstract and unrelated to the real world."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/audio/audio4.wav",
+        "image": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/images/audio4.webp",
+        "textTitle": "Music Mimics the Human Voice",
+        "text": "Researchers like David Schwartz disagree. They argue that our preference for certain musical sounds comes from speech. Schwartz analyzed thousands of speech sounds. His research revealed that the frequency patterns in speech are very similar to musical scales. This suggests that music mimics the human voice. Basically, we like music because it sounds like us. This raises an interesting question: did music come first, or did language? While we cannot know for sure, this demonstrates that both come from the same biological system."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/audio/audio5.wav",
+        "image": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/images/audio5.webp",
+        "textTitle": "Animals and Music",
+        "text": "This research also affects how we view animals. Previous studies indicated that animals lack the perception to appreciate human music. However, Schwartz argues that we are testing them with the wrong sounds. If animals have a musical sense, it would likely be based on their own natural sounds. Therefore, a cat might enjoy a tune made of meows, even if it dislikes Mozart."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/audio/audio6.wav",
+        "image": "https://storage.chillteacher.com/page-data/music-language-we-all-speak/reading/images/audio6.webp",
+        "textTitle": "Music and Babies",
+        "text": "Finally, the connection is clear with babies. Research shows a continuum between speech and song when mothers talk to babies. Mothers use a melodic voice to regulate the infant's emotional state. This happens in every culture. This evidence suggests that music is a necessity for human bonding and development, rather than just a luxury."
+      }
+    ],
+    "readingComprehensionData": {
+      "title": "Music: Language We All Speak",
+      "passage": [
+        {
+          "heading": "A Universal Ability",
+          "content": "Music is a universal ability shared by almost all humans. Unlike other skills, we do not need formal training to enjoy or create it. However, the reason why we have music is a mystery. In contrast, the purpose of language is obvious. Language allows us to communicate complex ideas and organize society. Because of this, some scientists, like Steven Pinker, previously thought music was not essential. He believed it was just for fun and had no use for human intelligence."
+        },
+        {
+          "heading": "New Discoveries in Neuroscience",
+          "content": "Recently, this view has changed. Over the last decade, new publications in neuroscience have shown that music and language are intricately connected. Traditionally, experts emphasized the mathematical side of music. For example, Pythagoras discovered that the physical dimension of a string affects the sound it makes. This led to the theory that music is abstract and unrelated to the real world."
+        },
+        {
+          "heading": "Music Mimics the Human Voice",
+          "content": "Researchers like David Schwartz disagree. They argue that our preference for certain musical sounds comes from speech. Schwartz analyzed thousands of speech sounds. His research revealed that the frequency patterns in speech are very similar to musical scales. This suggests that music mimics the human voice. Basically, we like music because it sounds like us. This raises an interesting question: did music come first, or did language? While we cannot know for sure, this demonstrates that both come from the same biological system."
+        },
+        {
+          "heading": "Animals and Music",
+          "content": "This research also affects how we view animals. Previous studies indicated that animals lack the perception to appreciate human music. However, Schwartz argues that we are testing them with the wrong sounds. If animals have a musical sense, it would likely be based on their own natural sounds. Therefore, a cat might enjoy a tune made of meows, even if it dislikes Mozart."
+        },
+        {
+          "heading": "Music and Babies",
+          "content": "Finally, the connection is clear with babies. Research shows a continuum between speech and song when mothers talk to babies. Mothers use a melodic voice to regulate the infant's emotional state. This happens in every culture. This evidence suggests that music is a necessity for human bonding and development, rather than just a luxury."
+        }
+      ],
+      "questions": {
+        "singleChoice": [
+          {
+            "id": "sc1",
+            "prompt": "According to Steven Pinker, what did he initially believe about music?",
+            "options": [
+              {
+                "value": "essential",
+                "label": "It was essential for human survival"
+              },
+              {
+                "value": "not-essential",
+                "label": "It was just for fun and not essential"
+              },
+              {
+                "value": "language",
+                "label": "It was more important than language"
+              }
+            ],
+            "correct": "not-essential"
+          },
+          {
+            "id": "sc2",
+            "prompt": "What did Pythagoras discover about music?",
+            "options": [
+              { "value": "speech", "label": "Music comes from human speech" },
+              {
+                "value": "string",
+                "label": "The physical dimension of a string affects its sound"
+              },
+              { "value": "babies", "label": "Babies respond to melodic voices" }
+            ],
+            "correct": "string"
+          },
+          {
+            "id": "sc3",
+            "prompt": "According to David Schwartz, where does our preference for musical sounds come from?",
+            "options": [
+              { "value": "nature", "label": "From sounds in nature" },
+              { "value": "speech", "label": "From human speech" },
+              { "value": "training", "label": "From formal training" }
+            ],
+            "correct": "speech"
+          },
+          {
+            "id": "sc4",
+            "prompt": "Why might a cat enjoy a tune made of meows according to the passage?",
+            "options": [
+              {
+                "value": "meows",
+                "label": "Because it is based on their own natural sounds"
+              },
+              {
+                "value": "mozart",
+                "label": "Because cats prefer classical music"
+              },
+              { "value": "rhythm", "label": "Because all animals like rhythms" }
+            ],
+            "correct": "meows"
+          }
+        ],
+        "tfng": [
+          {
+            "id": "tf1",
+            "statement": "We need formal training to enjoy music.",
+            "correct": "false"
+          },
+          {
+            "id": "tf2",
+            "statement": "Music and language are intricately connected according to recent neuroscience research.",
+            "correct": "true"
+          },
+          {
+            "id": "tf3",
+            "statement": "Frequency patterns in speech are similar to musical scales.",
+            "correct": "true"
+          },
+          {
+            "id": "tf4",
+            "statement": "Animals can appreciate human music easily.",
+            "correct": "false"
+          },
+          {
+            "id": "tf5",
+            "statement": "Mothers in all cultures use melodic voices when talking to babies.",
+            "correct": "true"
+          }
+        ],
+        "matching": {
+          "questions": [
+            {
+              "id": "m1",
+              "statement": "Believed music was just for fun and not essential",
+              "correct": "option1"
+            },
+            {
+              "id": "m2",
+              "statement": "Discovered the physical dimension of a string affects sound",
+              "correct": "option2"
+            },
+            {
+              "id": "m3",
+              "statement": "Analyzed speech sounds and found connections to musical scales",
+              "correct": "option3"
+            }
+          ],
+          "options": [
+            { "value": "option1", "label": "Steven Pinker" },
+            { "value": "option2", "label": "Pythagoras" },
+            { "value": "option3", "label": "David Schwartz" }
+          ]
+        },
+        "summary": [
+          {
+            "id": "sum1",
+            "prompt": "Complete: Music is a ______ ability shared by almost all humans.",
+            "answers": ["universal"]
+          },
+          {
+            "id": "sum2",
+            "prompt": "Complete: Research shows that music ______ the human voice.",
+            "answers": ["mimics"]
+          },
+          {
+            "id": "sum3",
+            "prompt": "Complete: Music is a necessity for human ______ and development.",
+            "answers": ["bonding"]
+          }
+        ],
+        "shortAnswer": [
+          {
+            "id": "sa1",
+            "prompt": "How has the scientific view of music changed according to the passage?"
+          },
+          {
+            "id": "sa2",
+            "prompt": "What evidence shows the connection between music and babies?"
+          }
+        ]
+      }
+    },
+    "clozeData": {
+      "paragraph": "Music is a _____ ability that almost all humans share. Unlike other skills, we don't need _____ training to enjoy it. New research in _____ has shown that music and language are deeply connected. David Schwartz found that _____ patterns in speech are similar to musical scales, suggesting that music _____ the human voice. Studies also show that mothers use a _____ voice when talking to babies. This evidence suggests that music is a necessity for human _____ and development, rather than just a luxury.",
+      "words": [
+        "universal",
+        "formal",
+        "neuroscience",
+        "frequency",
+        "mimics",
+        "melodic",
+        "bonding"
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "Music: Language We All Speak" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 4: Reading" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [{ "text": "Ôn từ vựng bằng Flashcards." }]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Làm bài điền từ vào đoạn văn." }]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Làm các bài tập đọc hiểu. Chụp điểm số gửi giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện đọc thành tiếng và ghi âm lại gửi giáo viên. Chú ý phát âm và ngữ điệu khi đọc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ],
+    "questions": [
+      {
+        "type": "multipleChoice",
+        "question": "\"universal\" nghĩa là gì?",
+        "correctAnswer": "phổ biến, toàn cầu",
+        "options": ["phổ biến, toàn cầu", "cá nhân", "khu vực", "địa phương"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"mystery\" nghĩa là gì?",
+        "correctAnswer": "bí ẩn, điều huyền bí",
+        "options": ["bí ẩn, điều huyền bí", "sự thật", "câu chuyện", "bài học"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"essential\" nghĩa là gì?",
+        "correctAnswer": "thiết yếu, cần thiết",
+        "options": [
+          "thiết yếu, cần thiết",
+          "không quan trọng",
+          "xa xỉ",
+          "phụ thuộc"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"intelligence\" nghĩa là gì?",
+        "correctAnswer": "trí thông minh",
+        "options": ["trí thông minh", "cảm xúc", "thể lực", "sức khỏe"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"neuroscience\" nghĩa là gì?",
+        "correctAnswer": "khoa học thần kinh",
+        "options": ["khoa học thần kinh", "vật lý học", "hóa học", "sinh học"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"abstract\" nghĩa là gì?",
+        "correctAnswer": "trừu tượng",
+        "options": ["trừu tượng", "cụ thể", "thực tế", "rõ ràng"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"preference\" nghĩa là gì?",
+        "correctAnswer": "sự ưa thích, sở thích",
+        "options": [
+          "sự ưa thích, sở thích",
+          "sự ghét bỏ",
+          "sự thờ ơ",
+          "sự lo lắng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"frequency\" nghĩa là gì?",
+        "correctAnswer": "tần số",
+        "options": ["tần số", "độ cao", "âm lượng", "nhịp điệu"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"mimic\" nghĩa là gì?",
+        "correctAnswer": "bắt chước",
+        "options": ["bắt chước", "tạo ra", "phá hủy", "thay đổi"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"biological\" nghĩa là gì?",
+        "correctAnswer": "thuộc về sinh học",
+        "options": [
+          "thuộc về sinh học",
+          "thuộc về vật lý",
+          "thuộc về hóa học",
+          "thuộc về toán học"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"perception\" nghĩa là gì?",
+        "correctAnswer": "nhận thức, sự cảm nhận",
+        "options": [
+          "nhận thức, sự cảm nhận",
+          "hành động",
+          "suy nghĩ",
+          "cảm xúc"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"melodic\" nghĩa là gì?",
+        "correctAnswer": "du dương, có giai điệu",
+        "options": ["du dương, có giai điệu", "ồn ào", "chói tai", "im lặng"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"regulate\" nghĩa là gì?",
+        "correctAnswer": "điều chỉnh, điều tiết",
+        "options": ["điều chỉnh, điều tiết", "phá vỡ", "bỏ qua", "tăng cường"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"bonding\" nghĩa là gì?",
+        "correctAnswer": "sự gắn kết",
+        "options": ["sự gắn kết", "sự chia rẽ", "sự xa cách", "sự cô đơn"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"luxury\" nghĩa là gì?",
+        "correctAnswer": "sự xa xỉ, thứ xa xỉ",
+        "options": [
+          "sự xa xỉ, thứ xa xỉ",
+          "sự cần thiết",
+          "sự giản dị",
+          "sự nghèo nàn"
+        ]
+      }
+    ]
+  }
+}
