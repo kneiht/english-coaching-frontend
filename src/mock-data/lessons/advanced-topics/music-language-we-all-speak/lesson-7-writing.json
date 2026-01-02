@@ -1,0 +1,142 @@
+{
+  "lesson-7-writing": {
+    "background": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1920",
+    "title": "Music: Language We All Speak",
+    "description": "Lesson 7: Writing",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "writing-guide" }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "Writing Task" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "The Power of Music in My Life" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Đọc kỹ bài văn mẫu và hướng dẫn trong phần Writing Guide."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Viết một bài văn ngắn (150-200 từ) về vai trò của âm nhạc trong cuộc sống của em."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Nộp bài viết cho giáo viên chấm."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em có một bài viết thật hay!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "writing-guide",
+        "title": "Writing Guide",
+        "scrollable": true,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Writing Guide: The Power of Music",
+            "className": "text-4xl font-bold text-indigo-700 text-center mb-6"
+          },
+          {
+            "type": "paragraph",
+            "text": "How music plays an important role in your life.",
+            "className": "text-xl text-gray-700 mb-8 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "Structure of Your Essay",
+            "className": "text-2xl font-bold text-blue-600 mt-6"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "1. Introduction: Introduce the topic and your main idea. What does music mean to you? Start with a 'hook' to grab the reader's attention.",
+              "2. Body Paragraphs: Explain your points with specific examples. How does music affect your mood? When do you listen to music? What kind of music do you prefer and why?",
+              "3. Conclusion: Summarize your main points. Connect your ideas to the bigger picture – why is music a universal language?"
+            ],
+            "className": "list-none ml-6 space-y-4 text-lg text-gray-800"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "Sample Essay: Music – My Constant Companion",
+            "className": "text-2xl font-bold text-blue-600 mt-8 mb-4"
+          },
+          {
+            "type": "paragraph",
+            "text": "   Have you ever noticed how a single song can instantly change your mood? For me, music is not just entertainment – it is a constant companion that helps me navigate through life's ups and downs.",
+            "className": "text-lg text-gray-700 mb-4 leading-relaxed"
+          },
+          {
+            "type": "paragraph",
+            "text": "   Music plays many roles in my daily life. When I wake up in the morning, I listen to upbeat pop songs to energize myself for the day ahead. During study sessions, I prefer calm instrumental music because it helps me concentrate without distraction. The gentle piano melodies seem to wash away stress and keep my mind focused. When I feel sad or anxious, I turn to my favorite ballads. Somehow, knowing that someone else has felt the same emotions makes me feel less alone.",
+            "className": "text-lg text-gray-700 mb-4 leading-relaxed"
+          },
+          {
+            "type": "paragraph",
+            "text": "   Beyond personal benefits, music connects me with others. My friends and I often share playlists and discover new artists together. At family gatherings, we sing traditional songs that have been passed down through generations. These musical moments create bonds that words alone cannot express.",
+            "className": "text-lg text-gray-700 mb-4 leading-relaxed"
+          },
+          {
+            "type": "paragraph",
+            "text": "   Scientists say that music and language come from the same part of our brain. This explains why music can communicate emotions so powerfully. It truly is a language we all speak – one that transcends borders, cultures, and generations. I cannot imagine my life without it.",
+            "className": "text-lg text-gray-700 mb-4 leading-relaxed italic"
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}
