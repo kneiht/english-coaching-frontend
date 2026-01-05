@@ -4,6 +4,7 @@
     "title": "Music: Language We All Speak",
     "description": "Lesson 8: Presentation",
     "menu": [
+      { "type": "video", "id": "lesson-video" },
       { "type": "page", "id": "assignments" },
       { "type": "page", "id": "presentation-guide" }
     ],
