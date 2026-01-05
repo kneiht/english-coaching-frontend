@@ -1,0 +1,381 @@
+{
+  "lesson-8-presentation": {
+    "background": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?q=80&w=2070",
+    "title": "Music: Language We All Speak",
+    "description": "Lesson 8: Presentation",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "presentation-guide" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "lesson-video",
+          "url": "https://youtu.be/7eHGAb5x4yI",
+          "title": "Video Overview"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "Music: Language We All Speak" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 8: Presentation" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Xem lại video overview để có ý tưởng về bài thuyết trình."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Bấm vào link bên dưới để xem infographic về Music: Language We All Speak. Dựa vào infographic để thuyết trình về mối liên hệ giữa âm nhạc và ngôn ngữ."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Tập thuyết trình và quay video." }]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "class": "text-center my-8"
+            },
+            "children": [
+              {
+                "tag": "a",
+                "attributes": {
+                  "href": "https://storage.chillteacher.com/pages/music-language-we-all-speak/presentation/music-language.webp",
+                  "target": "_blank",
+                  "class": "inline-block bg-indigo-600 hover:bg-indigo-700 text-white text-2xl font-bold py-4 px-8 rounded-lg shadow-lg transition duration-300"
+                },
+                "children": [{ "text": "Xem Infographic Music & Language" }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "presentation-guide",
+        "title": "Presentation Guide",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center mb-2"
+            },
+            "children": [{ "text": "Music: Language We All Speak" }]
+          },
+          {
+            "tag": "h2",
+            "attributes": {
+              "class": "text-3xl font-bold text-indigo-600 mb-8 text-center"
+            },
+            "children": [{ "text": "Presentation Script" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "INTRODUCTION: A Universal Language" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Hello everyone. Today, I want to talk about something that connects all of us, no matter where we come from - music."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Think about it. When you hear your favorite song, how does it make you feel? Happy? Excited? Sometimes even sad? The amazing thing is that we don't need any formal training to enjoy music. It's a universal ability shared by almost all humans."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "But here's a question that scientists have been asking for years: Why do we have music? What is its purpose? While the purpose of language is obvious - it helps us communicate and organize society - the reason for music has been a mystery."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4 font-semibold" },
+            "children": [
+              {
+                "text": "Today, based on this infographic, I will take you through the fascinating connection between music and language.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [
+              {
+                "text": "BODY PART 1: The Old View - Music as Just Entertainment"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the first section of the infographic)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"For a long time, some scientists believed that music was not essential for humans. One famous scientist, Steven Pinker, thought music was just for fun and had no real use for human intelligence."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Traditionally, experts emphasized the mathematical side of music. For example, the ancient Greek philosopher Pythagoras discovered that the physical dimension of a string affects the sound it makes. This led to the theory that music is abstract and unrelated to the real world."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "But recently, this view has changed dramatically.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [
+              { "text": "BODY PART 2: The New Discovery - Music and Speech" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [{ "text": "(Move your hand to the second section)" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Over the last decade, new publications in neuroscience have shown something amazing: music and language are intricately connected in our brains."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "A researcher named David Schwartz made a groundbreaking discovery. He analyzed thousands of speech sounds and found that the frequency patterns in speech are very similar to musical scales!"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "This suggests that music mimics the human voice. In other words, we like music because it sounds like us! This raises an interesting question: did music come first, or did language? While we cannot know for sure, this demonstrates that both come from the same biological system.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 3: Animals and Their Own Music" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the third section - Animals and music)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"This research also changes how we view animals and music. Previous studies indicated that animals lack the perception to appreciate human music."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "However, Schwartz argues that we have been testing them with the wrong sounds! If animals have a musical sense, it would likely be based on their own natural sounds."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "So, a cat might enjoy a tune made of meows, even if it dislikes Mozart! This is a fascinating new way to think about music in the animal kingdom.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 4: Music and Human Bonding" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the final section - Mothers and babies)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"The strongest evidence for the connection between music and language comes from studying mothers and babies."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Research shows there is a continuum between speech and song when mothers talk to babies. Have you ever noticed how mothers around the world use a melodic voice when talking to their infants? They naturally make their voice sound musical."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "This melodic speech helps regulate the infant's emotional state. And this happens in every culture around the world! This evidence suggests that music is not just a luxury - it is a necessity for human bonding and development.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "CONCLUSION:" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"So, as we have seen, music is much more than entertainment. It is deeply connected to language and to our very nature as humans."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "From the discovery that musical scales mirror speech patterns, to the way mothers naturally sing to their babies, science has shown us that music and language come from the same biological system."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "The next time you listen to your favorite song, remember: you are experiencing something that connects you to every human being on Earth. Music truly is the language we all speak."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "font-bold text-lg" },
+            "children": [{ "text": "Thank you for listening!\"" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-lg leading-relaxed"
+      }
+    ]
+  }
+}
