@@ -1,116 +1,205 @@
 #!/usr/bin/env python3
+"""
+Generate images using ImageFX API (Imagen) via @rohitaryal/imagefx-api CLI.
+
+Requirements:
+  - npm i -g @rohitaryal/imagefx-api
+  - pip install python-dotenv
+  - Create .env file with GOOGLE_COOKIE=your_cookie
+"""
 import argparse
-import base64
+
+# Load .env file if exists
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # dotenv not installed, use system env
 import json
 import os
+import subprocess
 import sys
+import tempfile
+import shutil
 from typing import Optional
-
-import requests
-import time
-
-
-API_URL = "https://api.whomeai.com/v1/images/generations"
-
-
-def ensure_png_extension(filename: str) -> str:
-    if not filename.lower().endswith(".png"):
-        return f"{filename}.png"
-    return filename
-
-
-def write_image_b64_to_file(b64_data: str, output_path: str) -> None:
-    image_bytes = base64.b64decode(b64_data)
-    with open(output_path, "wb") as f:
-        f.write(image_bytes)
+from PIL import Image  # type: ignore
 
 
 def generate_image(prompt: str,
                    output_filename: str,
                    *,
-                   api_key: Optional[str] = None,
-                   model: str = "nano-banana",
-                   size: str = "1792x1024",
-                   retry_on_429: bool = True) -> str:
+                   model: str = "IMAGEN_3_5",
+                   size: str = "LANDSCAPE",
+                   retry_count: int = 3) -> tuple[Optional[str], Optional[str]]:
     """
-    Generate an image from text using whomeai API and save it to disk.
-    Returns the absolute path to the saved file.
-    retry_on_429: If True, will auto-wait and retry once if API says rate-limited (HTTP 429)
+    Generate an image using imagefx CLI and save it to disk.
+    Returns tuple of (saved_path, error_message).
+    
+    Args:
+        prompt: Text description of the image to generate
+        output_filename: Target output path
+        model: Model to use (IMAGEN_4, IMAGEN_3_5, etc.)
+        size: Aspect ratio (LANDSCAPE, PORTRAIT, SQUARE)
+        retry_count: Number of retries if generation fails
     """
-    token = (api_key or os.getenv("WHOMEAI_API_KEY") or "sk-demo").strip()
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {token}",
-    }
-    payload = {
-        "model": model,
-        "prompt": prompt,
-        "n": 1,
-        "size": size,
-        # API defaults response_format to b64_json
-    }
-    retries = 0
-    while True:
+    google_cookie = os.getenv("GOOGLE_COOKIE")
+    if not google_cookie:
+        return None, "GOOGLE_COOKIE environment variable not set. Get your cookie from labs.google and set: export GOOGLE_COOKIE='...'"
+    
+    # Create temp directory for imagefx output
+    with tempfile.TemporaryDirectory() as temp_dir:
+        cmd = [
+            "imagefx", "generate",
+            "--prompt", prompt,
+            "--model", model,
+            "--size", size,
+            "--count", "1",
+            "--retry", str(retry_count),
+            "--dir", temp_dir,
+            "--cookie", google_cookie
+        ]
+        
         try:
-            resp = requests.post(API_URL, headers=headers, data=json.dumps(payload), timeout=120)
-        except requests.RequestException as req_err:
-            raise SystemExit(f"Request failed: {req_err}") from req_err
-        if resp.status_code == 429 and retry_on_429:
-            try:
-                err_json = resp.json()
-                wait_sec = int(err_json.get("retry_after", 60))
-                print(f"Rate limit hit, waiting {wait_sec} seconds then retrying...")
-                for sec in range(wait_sec, 0, -1):
-                    print(f"  ...retrying in {sec}s   ", end="\r", flush=True)
-                    time.sleep(1)
-                print()
-                retries += 1
-                retry_on_429 = False  # Only retry once!
-                continue
-            except Exception:
-                raise SystemExit(f"API error (429): {resp.text}")
-        if resp.status_code != 200:
-            try:
-                err_json = resp.json()
-                err_msg = json.dumps(err_json, ensure_ascii=False)
-            except Exception:
-                err_msg = resp.text
-            raise SystemExit(f"API error ({resp.status_code}): {err_msg}")
-        try:
-            payload_json = resp.json()
-            data_list = payload_json.get("data", [])
-            if not data_list:
-                raise ValueError("Empty 'data' in API response")
-            b64_img = data_list[0].get("b64_json")
-            if not b64_img:
-                raise ValueError("Missing 'b64_json' in first data item")
-        except Exception as parse_err:
-            raise SystemExit(f"Failed to parse API response: {parse_err}\nRaw: {resp.text[:500]}") from parse_err
-        output_filename = ensure_png_extension(output_filename)
-        output_path = os.path.abspath(output_filename)
-        try:
-            write_image_b64_to_file(b64_img, output_path)
-        except Exception as io_err:
-            raise SystemExit(f"Failed to write image file: {io_err}") from io_err
-        return output_path
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                timeout=180  # 3 minutes timeout
+            )
+            
+            if result.returncode != 0:
+                error_msg = result.stderr.strip() or result.stdout.strip() or f"Exit code {result.returncode}"
+                return None, f"imagefx failed: {error_msg}"
+            
+            # Find the generated image in temp directory
+            generated_files = [f for f in os.listdir(temp_dir) 
+                             if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp'))]
+            
+            if not generated_files:
+                return None, "No image file found in output directory"
+            
+            source_path = os.path.join(temp_dir, generated_files[0])
+            output_path = os.path.abspath(output_filename)
+            
+            # Ensure output directory exists
+            os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
+            
+            # Convert to target format if needed
+            if output_path.lower().endswith('.webp'):
+                try:
+                    image = Image.open(source_path)
+                    image.save(output_path, "WEBP", quality=90)
+                except Exception as e:
+                    # Fallback to simple copy
+                    shutil.copy2(source_path, output_path)
+            else:
+                shutil.copy2(source_path, output_path)
+            
+            return output_path, None
+            
+        except subprocess.TimeoutExpired:
+            return None, "Generation timed out after 180 seconds"
+        except FileNotFoundError:
+            return None, "imagefx CLI not found. Install with: npm i -g @rohitaryal/imagefx-api"
+        except Exception as e:
+            return None, f"Unexpected error: {e}"
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate an image from a text prompt using whomeai test API."
+        description="Generate images using ImageFX API (Imagen) via imagefx CLI."
     )
     parser.add_argument("prompt", nargs="?", default=None,
                         help="Text prompt describing the desired image (single mode)")
     parser.add_argument("output", nargs="?", default=None,
-                        help="Output image filename (single mode, .png will be added if missing)")
+                        help="Output image filename (single mode)")
     parser.add_argument("--prompts", dest="prompts_file", default=None,
-                        help="Path to prompts.json for batch generation. Saves to ./images/<name>.png")
-    parser.add_argument("--api-key", dest="api_key", default=None,
-                        help="Bearer token (defaults to env WHOMEAI_API_KEY or 'sk-demo')")
-    parser.add_argument("--model", default="nano-banana",
-                        choices=["nano-banana"],
-                        help="Model to use for text-to-image")
+                        help="Path to prompts.json or directory for batch generation")
+    parser.add_argument("--model", default="IMAGEN_3_5",
+                        choices=["IMAGEN_3_5"],
+                        help="Model to use for image generation (default: IMAGEN_3_5)")
+    parser.add_argument("--size", default="LANDSCAPE",
+                        choices=["LANDSCAPE", "PORTRAIT", "SQUARE"],
+                        help="Aspect ratio of generated image (default: LANDSCAPE)")
+    parser.add_argument("--output-dir", dest="output_dir", default="images",
+                        help="Directory to save images in batch mode (default: ./images)")
+    parser.add_argument("--overwrite", action="store_true",
+                        help="Overwrite existing images if they already exist")
+    parser.add_argument("--retry", dest="retry_count", type=int, default=3,
+                        help="Number of retries if generation fails (default: 3)")
     return parser.parse_args()
+
+
+def process_batch(entries: list, images_dir: str, args: argparse.Namespace, 
+                  current_file: str, log_file, error_log_file) -> list[Optional[str]]:
+    """Process a batch of prompt entries."""
+    saved = []
+    for idx, item in enumerate(entries):
+        if not isinstance(item, dict):
+            msg = f"Skipping invalid item at index {idx}: expected object"
+            print(msg)
+            log_file.write(msg + "\n")
+            continue
+        
+        prompt_text = item.get("prompt")
+        
+        # Determine output filename: prioritize 'filename', then 'name', then 'object'
+        filename = item.get("filename")
+        name = item.get("name")
+        obj = item.get("object")
+        
+        target_name = filename or name or obj
+        
+        if not target_name or not prompt_text:
+            msg = f"Skipping index {idx}: Missing 'filename'/'name'/'object' or 'prompt'"
+            print(msg)
+            log_file.write(msg + "\n")
+            continue
+            
+        output_path = os.path.join(images_dir, target_name)
+        
+        # Skip if file already exists (unless overwrite is True)
+        if os.path.exists(output_path) and not args.overwrite:
+            msg = f"  [{idx+1}/{len(entries)}] SKIPPED (exists): {target_name}"
+            print(msg)
+            log_file.write(msg + "\n")
+            continue
+        
+        msg = f"  [{idx+1}/{len(entries)}] {current_file} -> {target_name}"
+        print(msg)
+        log_file.write(msg + "\n")
+        log_file.flush()
+        
+        path, error = generate_image(
+            prompt_text,
+            output_path,
+            model=args.model,
+            size=args.size,
+            retry_count=args.retry_count,
+        )
+        
+        if error:
+            err_msg = f"ERROR: {target_name} - {error}"
+            print(f"      -> {err_msg}")
+            log_file.write(f"      -> {err_msg}\n")
+            # Write to error log with prompt for reference
+            from datetime import datetime
+            error_log_file.write(f"[{datetime.now().isoformat()}] {current_file}\n")
+            error_log_file.write(f"  filename: {target_name}\n")
+            error_log_file.write(f"  prompt: {prompt_text}\n")
+            error_log_file.write(f"  error: {error}\n\n")
+            error_log_file.flush()
+        else:
+            print(f"      -> {path}")
+            log_file.write(f"      -> {path}\n")
+            saved.append(path)
+            # Wait 30 seconds before next generation to avoid rate limiting
+            if idx < len(entries) - 1:
+                print("      Waiting 30s before next image...")
+                import time
+                time.sleep(30)
+
+    return saved
 
 
 def main() -> None:
@@ -118,64 +207,86 @@ def main() -> None:
 
     # Batch mode
     if args.prompts_file:
-        json_path = os.path.abspath(args.prompts_file)
-        if not os.path.exists(json_path):
-            raise SystemExit(f"prompts file not found: {json_path}")
-        try:
-            with open(json_path, "r", encoding="utf-8") as f:
-                entries = json.load(f)
-        except Exception as read_err:
-            raise SystemExit(f"Failed to read prompts file: {read_err}") from read_err
+        input_path = os.path.abspath(args.prompts_file)
+        if not os.path.exists(input_path):
+            raise SystemExit(f"prompts path not found: {input_path}")
 
-        if not isinstance(entries, list):
-            raise SystemExit("prompts file must contain a JSON array of {name,prompt}")
+        prompt_files = []
+        if os.path.isdir(input_path):
+            import glob
+            # Find all json files in the directory recursively
+            prompt_files = sorted(glob.glob(os.path.join(input_path, "**/*.json"), recursive=True))
+            if not prompt_files:
+                raise SystemExit(f"No .json files found in directory: {input_path}")
+            print(f"Found {len(prompt_files)} prompt files in {input_path}")
+        else:
+            prompt_files = [input_path]
 
-        images_dir = os.path.abspath(os.path.join(os.getcwd(), "images"))
+        # Use provided output dir or default to ./images
+        if os.path.isabs(args.output_dir):
+            images_dir = args.output_dir
+        else:
+            images_dir = os.path.abspath(os.path.join(os.getcwd(), args.output_dir))
+            
         os.makedirs(images_dir, exist_ok=True)
+        print(f"Saving images to: {images_dir}")
+        
+        # Open log files
+        log_path = os.path.join(images_dir, "_generation.log")
+        error_log_path = os.path.join(images_dir, "_error.log")
+        with open(log_path, "a", encoding="utf-8") as log_file, \
+             open(error_log_path, "a", encoding="utf-8") as error_log_file:
+            from datetime import datetime
+            log_file.write(f"\n=== Run started at {datetime.now().isoformat()} ===\n")
+            log_file.write(f"Model: {args.model}, Size: {args.size}\n")
+            
+            total_saved = 0
+            for p_idx, p_file in enumerate(prompt_files):
+                msg = f"--- Processing file {p_idx+1}/{len(prompt_files)}: {p_file} ---"
+                print(msg)
+                log_file.write(msg + "\n")
+                try:
+                    with open(p_file, "r", encoding="utf-8") as f:
+                        entries = json.load(f)
+                except Exception as read_err:
+                    err_msg = f"Failed to read file {p_file}: {read_err}"
+                    print(err_msg)
+                    log_file.write(err_msg + "\n")
+                    continue
 
-        saved_files = []
-        for idx, item in enumerate(entries):
-            if not isinstance(item, dict):
-                raise SystemExit(f"Invalid item at index {idx}: expected object with name/prompt")
-            name = item.get("name")
-            prompt_text = item.get("prompt")
-            if not name or not prompt_text:
-                raise SystemExit(f"Missing name or prompt at index {idx}")
-            output_path = os.path.join(images_dir, f"{name}.png")
-            saved = generate_image(
-                prompt_text,
-                output_path,
-                api_key=args.api_key,
-                model=args.model,
-                size="1792x1024",
-                retry_on_429=True,
-            )
-            print(saved)
-            saved_files.append(saved)
-            # Delay 25s before next unless last
-            if idx < len(entries)-1:
-                print(f"Waiting 25s before next image...")
-                for sec in range(25,0,-1):
-                    print(f"  ...next request in {sec}s   ", end="\r", flush=True)
-                    time.sleep(1)
-                print()
-        # Print last saved path again for convenience
-        if saved_files:
-            print(f"Saved {len(saved_files)} images to {images_dir}")
+                if not isinstance(entries, list):
+                    err_msg = f"Skipping {p_file}: must contain a JSON array"
+                    print(err_msg)
+                    log_file.write(err_msg + "\n")
+                    continue
+
+                saved = process_batch(entries, images_dir, args, p_file, log_file, error_log_file)
+                total_saved += len(saved)
+            
+            final_msg = f"Finished processing. Total images generated: {total_saved}"
+            print(final_msg)
+            log_file.write(final_msg + "\n")
+            print(f"Log saved to: {log_path}")
+            print(f"Error log saved to: {error_log_path}")
         return
 
     # Single mode
     if not args.prompt or not args.output:
-        raise SystemExit("Provide either: <prompt> <output> for single mode, or --prompts prompts.json for batch mode")
+        raise SystemExit("Provide either: <prompt> <output> for single mode, or --prompts <file_or_dir> for batch mode")
 
-    saved_path = generate_image(
+    path, error = generate_image(
         args.prompt,
         args.output,
-        api_key=args.api_key,
         model=args.model,
-        size="1792x1024",
+        size=args.size,
+        retry_count=args.retry_count,
     )
-    print(saved_path)
+    
+    if error:
+        print(f"Error: {error}", file=sys.stderr)
+        sys.exit(1)
+    else:
+        print(path)
 
 
 if __name__ == "__main__":
@@ -183,5 +294,3 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         sys.exit(130)
-
-

@@ -1,0 +1,550 @@
+{
+  "lesson-2-vocab": {
+    "background": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg",
+    "title": "Light Pollution",
+    "description": "Lesson 2: Vocabulary - Part 2",
+    "menu": [
+      {
+        "type": "page",
+        "id": "assignments"
+      },
+      {
+        "type": "activity",
+        "id": "vocabulary"
+      },
+      {
+        "type": "activity",
+        "id": "flashcards"
+      },
+      {
+        "type": "activity",
+        "id": "matching-game"
+      },
+      {
+        "type": "activity",
+        "id": "memory-game"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-envi"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-vien"
+      },
+      {
+        "type": "activity",
+        "id": "picture-choice"
+      },
+      {
+        "type": "activity",
+        "id": "image-reveal"
+      },
+      {
+        "type": "activity",
+        "id": "picture-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-sentence"
+      },
+      {
+        "type": "activity",
+        "id": "translation-game"
+      },
+      {
+        "type": "activity",
+        "id": "cloze-game"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "skyglow",
+        "phonics": "/ˈskaɪɡloʊ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/skyglow.webp",
+        "vietnameseMeaning": "ánh sáng phát ra trên bầu trời",
+        "sampleSentence": "Skyglow makes it difficult to see stars.",
+        "vietnameseTranslation": "Ánh sáng phát ra trên bầu trời khiến việc nhìn thấy các vì sao trở nên khó khăn.",
+        "wordPronunciation": "skyglow.wav",
+        "sentencePronunciation": "skyglow-makes-it-difficult-to-see-stars.wav"
+      },
+      {
+        "word": "disorientated",
+        "phonics": "/dɪsˈɔːriənteɪtɪd/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/disorientated.webp",
+        "vietnameseMeaning": "mất phương hướng",
+        "sampleSentence": "Bright lights make animals disorientated.",
+        "vietnameseTranslation": "Ánh sáng chói khiến động vật mất phương hướng.",
+        "wordPronunciation": "disorientated.wav",
+        "sentencePronunciation": "bright-lights-make-animals-disorientated.wav"
+      },
+      {
+        "word": "hatchlings",
+        "phonics": "/ˈhætʃlɪŋz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/hatchlings.webp",
+        "vietnameseMeaning": "con vật mới nở",
+        "sampleSentence": "Sea turtle hatchlings are confused by city lights.",
+        "vietnameseTranslation": "Rùa biển con mới nở bị nhầm lẫn bởi ánh đèn thành phố.",
+        "wordPronunciation": "hatchlings.wav",
+        "sentencePronunciation": "sea-turtle-hatchlings-are-confused-by-city-lights.wav"
+      },
+      {
+        "word": "fatal",
+        "phonics": "/ˈfeɪtl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/fatal.webp",
+        "vietnameseMeaning": "chết người, gây tử vong",
+        "sampleSentence": "Light pollution can have fatal consequences for wildlife.",
+        "vietnameseTranslation": "Ô nhiễm ánh sáng có thể gây ra hậu quả chết người cho động vật hoang dã.",
+        "wordPronunciation": "fatal.wav",
+        "sentencePronunciation": "light-pollution-can-have-fatal-consequences-for-wildlife.wav"
+      },
+      {
+        "word": "ecological",
+        "phonics": "/ˌiːkəˈlɒdʒɪkl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/ecological.webp",
+        "vietnameseMeaning": "thuộc về sinh thái",
+        "sampleSentence": "The ecological balance is broken by light pollution.",
+        "vietnameseTranslation": "Cân bằng sinh thái bị phá vỡ bởi ô nhiễm ánh sáng.",
+        "wordPronunciation": "ecological.wav",
+        "sentencePronunciation": "the-ecological-balance-is-broken-by-light-pollution.wav"
+      },
+      {
+        "word": "foraging",
+        "phonics": "/ˈfɔːrɪdʒɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/foraging.webp",
+        "vietnameseMeaning": "sự kiếm ăn, tìm thức ăn",
+        "sampleSentence": "Animals change their foraging habits due to light pollution.",
+        "vietnameseTranslation": "Động vật thay đổi thói quen kiếm ăn do ô nhiễm ánh sáng.",
+        "wordPronunciation": "foraging.wav",
+        "sentencePronunciation": "animals-change-their-foraging-habits-due-to-light-pollution.wav"
+      },
+      {
+        "word": "predators",
+        "phonics": "/ˈpredətərz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/predators.webp",
+        "vietnameseMeaning": "động vật săn mồi",
+        "sampleSentence": "Predators hunt more easily under artificial light.",
+        "vietnameseTranslation": "Động vật săn mồi săn bắt dễ dàng hơn dưới ánh sáng nhân tạo.",
+        "wordPronunciation": "predators.wav",
+        "sentencePronunciation": "predators-hunt-more-easily-under-artificial-light.wav"
+      },
+      {
+        "word": "prey",
+        "phonics": "/preɪ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/prey.webp",
+        "vietnameseMeaning": "con mồi",
+        "sampleSentence": "Prey animals cannot hide in the dark anymore.",
+        "vietnameseTranslation": "Động vật con mồi không thể ẩn náu trong bóng tối nữa.",
+        "wordPronunciation": "prey.wav",
+        "sentencePronunciation": "prey-animals-cannot-hide-in-the-dark-anymore.wav"
+      },
+      {
+        "word": "brightness",
+        "phonics": "/ˈbraɪtnəs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/brightness.webp",
+        "vietnameseMeaning": "độ sáng",
+        "sampleSentence": "The brightness of city lights affects our sleep.",
+        "vietnameseTranslation": "Độ sáng của đèn thành phố ảnh hưởng đến giấc ngủ của chúng ta.",
+        "wordPronunciation": "brightness.wav",
+        "sentencePronunciation": "the-brightness-of-city-lights-affects-our-sleep.wav"
+      },
+      {
+        "word": "glaring",
+        "phonics": "/ˈɡleərɪŋ/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/glaring.webp",
+        "vietnameseMeaning": "chói lóa, chói mắt",
+        "sampleSentence": "Glaring lights can cause headaches.",
+        "vietnameseTranslation": "Ánh sáng chói lóa có thể gây đau đầu.",
+        "wordPronunciation": "glaring.wav",
+        "sentencePronunciation": "glaring-lights-can-cause-headaches.wav"
+      },
+      {
+        "word": "human health",
+        "phonics": "/ˈhjuːmən helθ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/human-health.webp",
+        "vietnameseMeaning": "sức khỏe con người",
+        "sampleSentence": "Light pollution negatively impacts human health.",
+        "vietnameseTranslation": "Ô nhiễm ánh sáng ảnh hưởng tiêu cực đến sức khỏe con người.",
+        "wordPronunciation": "human-health.wav",
+        "sentencePronunciation": "light-pollution-negatively-impacts-human-health.wav"
+      },
+      {
+        "word": "light trespass",
+        "phonics": "/laɪt ˈtrespəs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/light-trespass.webp",
+        "vietnameseMeaning": "ánh sáng xâm nhập (không mong muốn)",
+        "sampleSentence": "Light trespass into bedrooms disrupts sleep.",
+        "vietnameseTranslation": "Ánh sáng xâm nhập vào phòng ngủ làm gián đoạn giấc ngủ.",
+        "wordPronunciation": "light-trespass.wav",
+        "sentencePronunciation": "light-trespass-into-bedrooms-disrupts-sleep.wav"
+      },
+      {
+        "word": "melatonin production",
+        "phonics": "/ˌmeləˈtoʊnɪn prəˈdʌkʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/melatonin-production.webp",
+        "vietnameseMeaning": "quá trình sản xuất melatonin (hormone giấc ngủ)",
+        "sampleSentence": "Artificial light interferes with melatonin production.",
+        "vietnameseTranslation": "Ánh sáng nhân tạo can thiệp vào quá trình sản xuất melatonin.",
+        "wordPronunciation": "melatonin-production.wav",
+        "sentencePronunciation": "artificial-light-interferes-with-melatonin-production.wav"
+      },
+      {
+        "word": "artificial light",
+        "phonics": "/ˌɑːrtɪˈfɪʃl laɪt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/artificial-light.webp",
+        "vietnameseMeaning": "ánh sáng nhân tạo",
+        "sampleSentence": "Artificial light has made our lives easier.",
+        "vietnameseTranslation": "Ánh sáng nhân tạo đã làm cho cuộc sống của chúng ta dễ dàng hơn.",
+        "wordPronunciation": "artificial-light.wav",
+        "sentencePronunciation": "artificial-light-has-made-our-lives-easier.wav"
+      },
+      {
+        "word": "excessive",
+        "phonics": "/ɪkˈsesɪv/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/excessive.webp",
+        "vietnameseMeaning": "quá mức, thừa thãi",
+        "sampleSentence": "Excessive use of light leads to pollution.",
+        "vietnameseTranslation": "Việc sử dụng ánh sáng quá mức dẫn đến ô nhiễm.",
+        "wordPronunciation": "excessive.wav",
+        "sentencePronunciation": "excessive-use-of-light-leads-to-pollution.wav"
+      },
+      {
+        "word": "over-illumination",
+        "phonics": "/ˌoʊvər ɪˌluːmɪˈneɪʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/over-illumination.webp",
+        "vietnameseMeaning": "chiếu sáng quá mức",
+        "sampleSentence": "Over-illumination is a major cause of light pollution.",
+        "vietnameseTranslation": "Chiếu sáng quá mức là nguyên nhân chính gây ô nhiễm ánh sáng.",
+        "wordPronunciation": "over-illumination.wav",
+        "sentencePronunciation": "over-illumination-is-a-major-cause-of-light-pollution.wav"
+      },
+      {
+        "word": "inefficient",
+        "phonics": "/ˌɪnɪˈfɪʃnt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/inefficient.webp",
+        "vietnameseMeaning": "không hiệu quả",
+        "sampleSentence": "Inefficient use of light wastes energy.",
+        "vietnameseTranslation": "Việc sử dụng ánh sáng không hiệu quả gây lãng phí năng lượng.",
+        "wordPronunciation": "inefficient.wav",
+        "sentencePronunciation": "inefficient-use-of-light-wastes-energy.wav"
+      },
+      {
+        "word": "urban areas",
+        "phonics": "/ˈɜːrbən ˈeəriəz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/urban-areas.webp",
+        "vietnameseMeaning": "khu vực thành thị",
+        "sampleSentence": "Light pollution is common in urban areas.",
+        "vietnameseTranslation": "Ô nhiễm ánh sáng phổ biến ở các khu vực thành thị.",
+        "wordPronunciation": "urban-areas.wav",
+        "sentencePronunciation": "light-pollution-is-common-in-urban-areas.wav"
+      },
+      {
+        "word": "disrupts",
+        "phonics": "/dɪsˈrʌpts/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/disrupts.webp",
+        "vietnameseMeaning": "làm gián đoạn, phá vỡ",
+        "sampleSentence": "Light pollution disrupts the natural rhythm of animals.",
+        "vietnameseTranslation": "Ô nhiễm ánh sáng làm gián đoạn nhịp sinh học tự nhiên của động vật.",
+        "wordPronunciation": "disrupts.wav",
+        "sentencePronunciation": "light-pollution-disrupts-the-natural-rhythm-of-animals.wav"
+      },
+      {
+        "word": "natural rhythm",
+        "phonics": "/ˈnætʃrəl ˈrɪðəm/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/natural-rhythm.webp",
+        "vietnameseMeaning": "nhịp sinh học tự nhiên",
+        "sampleSentence": "Many animals depend on natural rhythm for survival.",
+        "vietnameseTranslation": "Nhiều loài động vật phụ thuộc vào nhịp sinh học tự nhiên để sinh tồn.",
+        "wordPronunciation": "natural-rhythm.wav",
+        "sentencePronunciation": "many-animals-depend-on-natural-rhythm-for-survival.wav"
+      },
+      {
+        "word": "ecosystem",
+        "phonics": "/ˈiːkoʊsɪstəm/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/ecosystem.webp",
+        "vietnameseMeaning": "hệ sinh thái",
+        "sampleSentence": "Light pollution affects the entire ecosystem.",
+        "vietnameseTranslation": "Ô nhiễm ánh sáng ảnh hưởng đến toàn bộ hệ sinh thái.",
+        "wordPronunciation": "ecosystem.wav",
+        "sentencePronunciation": "light-pollution-affects-the-entire-ecosystem.wav"
+      },
+      {
+        "word": "wildlife",
+        "phonics": "/ˈwaɪldlaɪf/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/wildlife.webp",
+        "vietnameseMeaning": "động vật hoang dã",
+        "sampleSentence": "Many wildlife species are affected by bright lights.",
+        "vietnameseTranslation": "Nhiều loài động vật hoang dã bị ảnh hưởng bởi ánh sáng chói.",
+        "wordPronunciation": "wildlife.wav",
+        "sentencePronunciation": "many-wildlife-species-are-affected-by-bright-lights.wav"
+      },
+      {
+        "word": "stellar",
+        "phonics": "/ˈstelər/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/stellar.webp",
+        "vietnameseMeaning": "thuộc về sao, ánh sáng từ các vì sao",
+        "sampleSentence": "Animals use stellar light for navigation.",
+        "vietnameseTranslation": "Động vật sử dụng ánh sáng từ các vì sao để định hướng.",
+        "wordPronunciation": "stellar.wav",
+        "sentencePronunciation": "animals-use-stellar-light-for-navigation.wav"
+      },
+      {
+        "word": "navigation",
+        "phonics": "/ˌnævɪˈɡeɪʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/navigation.webp",
+        "vietnameseMeaning": "sự định hướng, điều hướng",
+        "sampleSentence": "Birds rely on stars for navigation during migration.",
+        "vietnameseTranslation": "Chim dựa vào các vì sao để định hướng trong quá trình di cư.",
+        "wordPronunciation": "navigation.wav",
+        "sentencePronunciation": "birds-rely-on-stars-for-navigation-during-migration.wav"
+      },
+      {
+        "word": "streetlights",
+        "phonics": "/ˈstriːtlaɪts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/streetlights.webp",
+        "vietnameseMeaning": "đèn đường",
+        "sampleSentence": "Bright streetlights contribute to light pollution.",
+        "vietnameseTranslation": "Đèn đường sáng góp phần gây ô nhiễm ánh sáng.",
+        "wordPronunciation": "streetlights.wav",
+        "sentencePronunciation": "bright-streetlights-contribute-to-light-pollution.wav"
+      },
+      {
+        "word": "billboards",
+        "phonics": "/ˈbɪlbɔːrdz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/billboards.webp",
+        "vietnameseMeaning": "biển quảng cáo lớn",
+        "sampleSentence": "Bright billboards light up the night sky.",
+        "vietnameseTranslation": "Các biển quảng cáo sáng thắp sáng bầu trời đêm.",
+        "wordPronunciation": "billboards.wav",
+        "sentencePronunciation": "bright-billboards-light-up-the-night-sky.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        {
+          "sentence": "_____ makes it difficult to see stars.",
+          "word": "skyglow"
+        },
+        {
+          "sentence": "Bright lights make animals _____.",
+          "word": "disorientated"
+        },
+        {
+          "sentence": "Sea turtle _____ are confused by city lights.",
+          "word": "hatchlings"
+        },
+        {
+          "sentence": "Light pollution can have _____ consequences for wildlife.",
+          "word": "fatal"
+        },
+        {
+          "sentence": "The _____ balance is broken by light pollution.",
+          "word": "ecological"
+        },
+        {
+          "sentence": "Animals change their _____ habits due to light pollution.",
+          "word": "foraging"
+        },
+        {
+          "sentence": "_____ hunt more easily under artificial light.",
+          "word": "predators"
+        },
+        {
+          "sentence": "_____ animals cannot hide in the dark anymore.",
+          "word": "prey"
+        },
+        {
+          "sentence": "The _____ of city lights affects our sleep.",
+          "word": "brightness"
+        },
+        {
+          "sentence": "_____ lights can cause headaches.",
+          "word": "glaring"
+        },
+        {
+          "sentence": "Light pollution negatively impacts _____.",
+          "word": "human health"
+        },
+        {
+          "sentence": "_____ into bedrooms disrupts sleep.",
+          "word": "light trespass"
+        },
+        {
+          "sentence": "Artificial light interferes with _____.",
+          "word": "melatonin production"
+        },
+        {
+          "sentence": "_____ has made our lives easier.",
+          "word": "artificial light"
+        },
+        {
+          "sentence": "_____ use of light leads to pollution.",
+          "word": "excessive"
+        },
+        {
+          "sentence": "_____ is a major cause of light pollution.",
+          "word": "over-illumination"
+        },
+        {
+          "sentence": "_____ use of light wastes energy.",
+          "word": "inefficient"
+        },
+        {
+          "sentence": "Light pollution is common in _____.",
+          "word": "urban areas"
+        },
+        {
+          "sentence": "Light pollution _____ the natural rhythm of animals.",
+          "word": "disrupts"
+        },
+        {
+          "sentence": "Many animals depend on _____ for survival.",
+          "word": "natural rhythm"
+        },
+        {
+          "sentence": "Light pollution affects the entire _____.",
+          "word": "ecosystem"
+        },
+        {
+          "sentence": "Many _____ species are affected by bright lights.",
+          "word": "wildlife"
+        },
+        {
+          "sentence": "Animals use _____ light for navigation.",
+          "word": "stellar"
+        },
+        {
+          "sentence": "Birds rely on stars for _____ during migration.",
+          "word": "navigation"
+        },
+        {
+          "sentence": "Bright _____ contribute to light pollution.",
+          "word": "streetlights"
+        },
+        {
+          "sentence": "Bright _____ light up the night sky.",
+          "word": "billboards"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [
+              {
+                "text": "Light Pollution"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "Lesson 2: Vocabulary - Part 2"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-3xl text-gray-700 mb-4"
+            },
+            "children": [
+              {
+                "text": "Hãy hoàn thành các nhiệm vụ sau:"
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện tập phát âm từ vựng và câu."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi kết quả cho giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [
+              {
+                "text": "Chúc các em học tốt!"
+              }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

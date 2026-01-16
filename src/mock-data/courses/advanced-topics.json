@@ -1,5 +1,34 @@
 [
-
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-1-vocab",
+    "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+    "description": "Vocabulary",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-2-vocab",
+    "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
+    "description": "Vocabulary",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-3-vocab",
+    "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
+    "description": "Vocabulary",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
@@ -322,5 +351,4 @@
     "description": "Presentation",
     "bg": "https://storage.chillteacher.com/backgrounds/lessons/multiple-intelligence-theory.webp"
   }
-  
 ]

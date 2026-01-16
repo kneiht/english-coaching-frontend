@@ -1,0 +1,202 @@
+[
+  {
+    "object": "artificial light",
+    "prompt": "a cinematic photograph of a city skyline at night with glowing neon lights, LED billboards, and streetlamps illuminating the streets below, representing artificial lighting",
+    "filename": "artificial-light.png"
+  },
+  {
+    "object": "excessive",
+    "prompt": "a dramatic photograph showing an overwhelming amount of bright lights flooding a small room, creating an uncomfortable overexposed atmosphere, representing excess",
+    "filename": "excessive.png"
+  },
+  {
+    "object": "over-illumination",
+    "prompt": "a cinematic aerial view of a city at night with extremely bright lights everywhere, every building and street glowing intensely, representing over-illumination",
+    "filename": "over-illumination.png"
+  },
+  {
+    "object": "inefficient",
+    "prompt": "a photograph of an old flickering light bulb wasting energy with visible heat waves around it, next to a modern LED bulb, representing inefficiency",
+    "filename": "inefficient.png"
+  },
+  {
+    "object": "urban areas",
+    "prompt": "a stunning aerial photograph of a densely populated modern city at night with tall skyscrapers, busy streets, and bright lights everywhere, representing urban areas",
+    "filename": "urban-areas.png"
+  },
+  {
+    "object": "disrupts",
+    "prompt": "a conceptual photograph showing a peaceful sleeping scene being interrupted by harsh bright light coming through window, representing disruption",
+    "filename": "disrupts.png"
+  },
+  {
+    "object": "natural rhythm",
+    "prompt": "a beautiful artistic photograph showing the cycle of day and night with sun and moon in harmony, representing natural circadian rhythm",
+    "filename": "natural-rhythm.png"
+  },
+  {
+    "object": "ecosystem",
+    "prompt": "a stunning photograph of a diverse forest ecosystem with various animals, plants, insects, and birds coexisting in harmony, representing ecosystem",
+    "filename": "ecosystem.png"
+  },
+  {
+    "object": "wildlife",
+    "prompt": "a cinematic photograph of various wild animals in their natural habitat including deer, foxes, and owls in a moonlit forest, representing wildlife",
+    "filename": "wildlife.png"
+  },
+  {
+    "object": "stellar",
+    "prompt": "a breathtaking photograph of a clear night sky filled with millions of brilliant stars, constellations, and the Milky Way, representing stellar light",
+    "filename": "stellar.png"
+  },
+  {
+    "object": "navigation",
+    "prompt": "a conceptual photograph of migrating birds flying in V-formation under a starry sky with glowing navigation paths, representing animal navigation",
+    "filename": "navigation.png"
+  },
+  {
+    "object": "streetlights",
+    "prompt": "a moody photograph of a row of tall streetlights illuminating an empty urban road at night with orange sodium vapor glow",
+    "filename": "streetlights.png"
+  },
+  {
+    "object": "billboards",
+    "prompt": "a vibrant photograph of Times Square style large LED billboards and advertisements glowing brightly at night in a busy city",
+    "filename": "billboards.png"
+  },
+  {
+    "object": "skyglow",
+    "prompt": "a dramatic photograph showing the orange-pink dome of light pollution hovering above a city silhouette at night, representing skyglow",
+    "filename": "skyglow.png"
+  },
+  {
+    "object": "disorientated",
+    "prompt": "a conceptual photograph of a confused bird flying in circles around a bright lighthouse beam at night, looking lost and disorientated",
+    "filename": "disorientated.png"
+  },
+  {
+    "object": "hatchlings",
+    "prompt": "a heartwarming photograph of baby sea turtle hatchlings emerging from sand on a moonlit beach, crawling toward the ocean",
+    "filename": "hatchlings.png"
+  },
+  {
+    "object": "fatal",
+    "prompt": "a dramatic conceptual photograph showing a danger warning sign with skull symbol illuminated by harsh red light, representing fatal consequences",
+    "filename": "fatal.png"
+  },
+  {
+    "object": "ecological",
+    "prompt": "a beautiful photograph of interconnected nature elements showing trees, water, animals, and sunlight in perfect balance, representing ecological harmony",
+    "filename": "ecological.png"
+  },
+  {
+    "object": "foraging",
+    "prompt": "a nighttime photograph of a raccoon searching for food under dim moonlight, sniffing and digging through leaves, representing foraging behavior",
+    "filename": "foraging.png"
+  },
+  {
+    "object": "predators",
+    "prompt": "a dramatic photograph of a wolf with glowing eyes hunting in the darkness, stalking its prey silently, representing predators",
+    "filename": "predators.png"
+  },
+  {
+    "object": "prey",
+    "prompt": "a tense photograph of a small rabbit hiding in shadows with alert ears, trying to avoid detection, representing prey animals",
+    "filename": "prey.png"
+  },
+  {
+    "object": "brightness",
+    "prompt": "a gradient photograph showing varying levels of light intensity from dim to extremely bright white light, representing brightness levels",
+    "filename": "brightness.png"
+  },
+  {
+    "object": "glaring",
+    "prompt": "a photograph of intense headlight beams shining directly at the camera at night, causing eye strain and discomfort, representing glaring light",
+    "filename": "glaring.png"
+  },
+  {
+    "object": "human health",
+    "prompt": "a conceptual photograph showing a healthy person in peaceful blue light versus stressed person in harsh artificial light, representing human health",
+    "filename": "human-health.png"
+  },
+  {
+    "object": "light trespass",
+    "prompt": "a photograph of unwanted bright light from a neighbor's security lamp shining through a bedroom window at night, representing light trespass",
+    "filename": "light-trespass.png"
+  },
+  {
+    "object": "melatonin production",
+    "prompt": "a scientific conceptual image showing a peaceful sleeping brain releasing melatonin molecules in a dark environment, representing melatonin production",
+    "filename": "melatonin-production.png"
+  },
+  {
+    "object": "sleep disorders",
+    "prompt": "a photograph of a tired person lying awake in bed at night with clock showing late hours, unable to sleep, representing sleep disorders",
+    "filename": "sleep-disorders.png"
+  },
+  {
+    "object": "insomnia",
+    "prompt": "a moody photograph of an exhausted person sitting on bed edge at 3am with dark circles under eyes, staring at moonlit window, representing insomnia",
+    "filename": "insomnia.png"
+  },
+  {
+    "object": "astronomers",
+    "prompt": "a cinematic photograph of astronomers using a large telescope at an observatory dome looking at the starry night sky",
+    "filename": "astronomers.png"
+  },
+  {
+    "object": "visibility",
+    "prompt": "a split comparison photograph showing clear starry sky versus light-polluted sky with same constellation, demonstrating visibility difference",
+    "filename": "visibility.png"
+  },
+  {
+    "object": "observe",
+    "prompt": "a photograph of a person using binoculars to observe stars on a clear dark night, lying on a blanket in a field",
+    "filename": "observe.png"
+  },
+  {
+    "object": "energy waste",
+    "prompt": "a conceptual photograph of bright lights illuminating empty parking lots and buildings at night with dollar signs fading away, representing energy waste",
+    "filename": "energy-waste.png"
+  },
+  {
+    "object": "reflect",
+    "prompt": "a stunning photograph of city lights reflecting off low clouds creating an orange glow in the night sky, representing light reflection",
+    "filename": "reflect.png"
+  },
+  {
+    "object": "mitigate",
+    "prompt": "a hopeful photograph showing before-after comparison of bright polluting light being reduced by proper shielding, representing mitigation",
+    "filename": "mitigate.png"
+  },
+  {
+    "object": "implementation",
+    "prompt": "a photograph of workers installing new energy-efficient LED streetlights with proper shields, representing implementation of solutions",
+    "filename": "implementation.png"
+  },
+  {
+    "object": "shielded lighting",
+    "prompt": "a technical photograph of a modern streetlight with a full cutoff shield directing light downward only, representing shielded lighting design",
+    "filename": "shielded-lighting.png"
+  },
+  {
+    "object": "raise awareness",
+    "prompt": "a photograph of people at a community event holding light pollution awareness signs with starry sky banners, representing raising awareness",
+    "filename": "raise-awareness.png"
+  },
+  {
+    "object": "dark-sky preserves",
+    "prompt": "a breathtaking photograph of a protected dark sky park with clear Milky Way visible, a telescope setup, and natural darkness preserved",
+    "filename": "dark-sky-preserves.png"
+  },
+  {
+    "object": "sustainable",
+    "prompt": "a photograph of modern eco-friendly city with solar-powered dim warm lights, green buildings, representing sustainable living",
+    "filename": "sustainable.png"
+  },
+  {
+    "object": "migration",
+    "prompt": "a stunning photograph of flock of birds flying in formation across a twilight sky during seasonal migration",
+    "filename": "migration.png"
+  }
+]
