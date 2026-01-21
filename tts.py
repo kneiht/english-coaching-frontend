@@ -23,7 +23,7 @@ def text_to_speech(text: str, output_path: str = "output.mp3"):
         print(f"Generating audio for: '{text}'...")
         # Using the correct method for SDK v1.x+ and a known public voice ID (George)
         audio_generator = client.text_to_speech.convert(
-            voice_id="JBFqnCBsd6RMkjVDRZzb",
+            voice_id="nPczCjzI2devNBz1zQrb",
             text=text,
             model_id="eleven_multilingual_v2",
             output_format="mp3_44100_128"

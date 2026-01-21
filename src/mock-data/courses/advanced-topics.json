@@ -32,6 +32,57 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-4-reading",
+    "lessonDisplay": "Lesson 4: Reading",
+    "description": "Reading",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-5-listening",
+    "lessonDisplay": "Lesson 5: Listening",
+    "description": "Listening",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-6-shadowing",
+    "lessonDisplay": "Lesson 6: Shadowing",
+    "description": "Shadowing",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-7-writing",
+    "lessonDisplay": "Lesson 7: Writing",
+    "description": "Writing",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "light-pollution",
+    "unitDisplay": "Light Pollution",
+    "lesson": "lesson-8-presentation",
+    "lessonDisplay": "Lesson 8: Presentation",
+    "description": "Presentation",
+    "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
+  },
+
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "music-language-we-all-speak",
     "unitDisplay": "Music – Language We All Speak",
     "lesson": "lesson-1-vocab",

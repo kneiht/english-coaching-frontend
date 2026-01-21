@@ -1,0 +1,128 @@
+{
+  "lesson-5-listening": {
+    "background": "https://storage.chillteacher.com/backgrounds/lessons/light-pollution.webp",
+    "title": "Light Pollution",
+    "description": "Lesson 5: Listening",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "embedPage", "id": "listening-exercise" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "lesson-video",
+          "url": "https://youtu.be/aaaaaa",
+          "title": "Video Overview"
+        }
+      ],
+      "embedPages": [
+        {
+          "id": "listening-exercise",
+          "url": "https://storage.chillteacher.com/pages/light-pollution/listening/index.html",
+          "title": "Listening Exercise"
+        }
+      ]
+    },
+    "vocab": [
+      {
+        "word": "insomnia",
+        "phonics": "/ɪnˈsɒmniə/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/insomnia.webp",
+        "vietnameseMeaning": "chứng mất ngủ",
+        "sampleSentence": "Too much light at night can cause insomnia.",
+        "vietnameseTranslation": "Quá nhiều ánh sáng vào ban đêm có thể gây ra chứng mất ngủ.",
+        "wordPronunciation": "insomnia.wav",
+        "sentencePronunciation": "too-much-light-at-night-can-cause-insomnia.wav"
+      },
+      {
+        "word": "astronomers",
+        "phonics": "/əˈstrɒnəmərz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/astronomers.webp",
+        "vietnameseMeaning": "nhà thiên văn học",
+        "sampleSentence": "Astronomers cannot see the stars clearly due to skyglow.",
+        "vietnameseTranslation": "Các nhà thiên văn học không thể nhìn thấy các vì sao rõ ràng do ánh sáng phát ra trên bầu trời.",
+        "wordPronunciation": "astronomers.wav",
+        "sentencePronunciation": "astronomers-cannot-see-the-stars-clearly-due-to-skyglow.wav"
+      },
+      {
+        "word": "energy waste",
+        "phonics": "/ˈenərdʒi weɪst/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/energy-waste.webp",
+        "vietnameseMeaning": "lãng phí năng lượng",
+        "sampleSentence": "Light pollution is a huge energy waste.",
+        "vietnameseTranslation": "Ô nhiễm ánh sáng là một sự lãng phí năng lượng lớn.",
+        "wordPronunciation": "energy-waste.wav",
+        "sentencePronunciation": "light-pollution-is-a-huge-energy-waste.wav"
+      },
+      {
+        "word": "shielded lighting",
+        "phonics": "/ʃiːldɪd ˈlaɪtɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/shielded-lighting.webp",
+        "vietnameseMeaning": "đèn có chụp che chắn",
+        "sampleSentence": "Shielded lighting reduces light going upward.",
+        "vietnameseTranslation": "Đèn có chụp che chắn giảm ánh sáng chiếu lên trên.",
+        "wordPronunciation": "shielded-lighting.wav",
+        "sentencePronunciation": "shielded-lighting-reduces-light-going-upward.wav"
+      }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "Light Pollution" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 5: Listening" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [{ "text": "Xem lại flashcards để nhớ từ vựng." }]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Làm bài tập nghe hiểu và điền từ." }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}
