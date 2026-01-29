@@ -1,0 +1,330 @@
+{
+  "lesson-8-presentation": {
+    "background": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg",
+    "title": "Light Pollution",
+    "description": "Lesson 8: Presentation",
+    "menu": [
+      { "type": "video", "id": "lesson-video" },
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "presentation-guide" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "lesson-video",
+          "url": "https://youtu.be/V_A78zDBwYE",
+          "title": "Video Overview"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "Light Pollution" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 8: Presentation" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Xem lại video overview để có ý tưởng về bài thuyết trình."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Bấm vào link bên dưới để xem infographic về Light Pollution. Dựa vào infographic để thuyết trình về tác hại và giải pháp cho ô nhiễm ánh sáng."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Tập thuyết trình và quay video." }]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "class": "text-center my-8"
+            },
+            "children": [
+              {
+                "tag": "a",
+                "attributes": {
+                  "href": "https://storage.chillteacher.com/pages/light-pollution/presentation/light-pollution.webp",
+                  "target": "_blank",
+                  "class": "inline-block bg-indigo-600 hover:bg-indigo-700 text-white text-2xl font-bold py-4 px-8 rounded-lg shadow-lg transition duration-300"
+                },
+                "children": [{ "text": "Xem Infographic Light Pollution" }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "presentation-guide",
+        "title": "Presentation Guide",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center mb-2"
+            },
+            "children": [{ "text": "Light Pollution" }]
+          },
+          {
+            "tag": "h2",
+            "attributes": {
+              "class": "text-3xl font-bold text-indigo-600 mb-8 text-center"
+            },
+            "children": [{ "text": "Presentation Script" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "INTRODUCTION: The Invisible Pollution" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Hello everyone. When we think of pollution, we usually imagine dirty air, plastic in the ocean, or toxic waste. But today, I want to talk about a different kind of pollution that is all around us: Light Pollution."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "In our modern world, artificial light has made our lives much easier. But did you know that excessive and inefficient use of light is actually a serious environmental problem?"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4 font-semibold" },
+            "children": [
+              {
+                "text": "Today, using this infographic, I will explain how light pollution affects nature and humans, and suggest some ways we can solve it.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [
+              {
+                "text": "BODY PART 1: Effects on Nature"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the 'Effects on Nature' section of the infographic)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"First, let's look at how it impacts wildlife. Light pollution deeply disrupts the natural rhythm of the ecosystem."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Many animals, like birds and sea turtles, rely on the light of the stars and moon for navigation. However, bright streetlights and billboards create a constant 'skyglow' that disorients them."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "For example, sea turtle hatchlings often crawl toward city lights instead of the ocean. This simple confusion can lead to fatal consequences, threatening their entire population.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 2: Effects on Humans" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              { "text": "(Point to the 'Effects on Humans' section)" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"It's not just animals that suffer. Light pollution also affects human health. The glare from cities causes 'light trespass' into our bedrooms."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "This artificial light interferes with our body's production of melatonin, a hormone that helps us sleep. This can lead to serious sleep disorders like insomnia."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "Moreover, for astronomers and anyone who loves the night sky, light pollution makes it nearly impossible to observe the stars. We are slowly losing our connection to the universe.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 3: Solutions" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the solution section - comparing bad vs good lighting)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Fortunately, this is a problem we can fix. The solution is often as simple as better design."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "We need to implement 'shielded lighting'. Unlike old streetlights that shine light everywhere, shielded lights point the light downward, where it is actually needed."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "This significantly reduces the glow in the sky. Governments can also create 'dark-sky preserves' to protect natural night environments, and we can all help by turning off unnecessary lights.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "CONCLUSION:" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"In conclusion, while light is necessary for safety and modern life, we must control how we use it."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "By making small changes like using better streetlights and being mindful of our energy use, we can protect both our health and the environment."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Let's work together to ensure we can have a bright life without losing the beauty and importance of the dark night."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "font-bold text-lg" },
+            "children": [{ "text": "Thank you for listening!\"" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-lg leading-relaxed"
+      }
+    ]
+  }
+}
