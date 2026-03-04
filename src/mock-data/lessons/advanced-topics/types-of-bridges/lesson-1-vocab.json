@@ -1,0 +1,293 @@
+{
+  "lesson-1-vocab": {
+    "background": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill",
+    "title": "Types of Bridges",
+    "description": "Lesson 1: Vocabulary - Part 1",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "vocab": [
+      {
+        "word": "remarkable",
+        "phonics": "/rɪˈmɑːrkəbl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/remarkable.webp",
+        "vietnameseMeaning": "đáng chú ý, phi thường",
+        "sampleSentence": "Bridges are remarkable feats of engineering.",
+        "vietnameseTranslation": "Cầu là những công trình kỹ thuật phi thường.",
+        "wordPronunciation": "remarkable.wav",
+        "sentencePronunciation": "bridges-are-remarkable-feats-of-engineering.wav"
+      },
+      {
+        "word": "feats of engineering",
+        "phonics": "/fiːts əv ˌendʒɪˈnɪərɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/feats-of-engineering.webp",
+        "vietnameseMeaning": "kỳ công kỹ thuật",
+        "sampleSentence": "Modern bridges are impressive feats of engineering.",
+        "vietnameseTranslation": "Những cây cầu hiện đại là những kỳ công kỹ thuật ấn tượng.",
+        "wordPronunciation": "feats-of-engineering.wav",
+        "sentencePronunciation": "modern-bridges-are-impressive-feats-of-engineering.wav"
+      },
+      {
+        "word": "facilitate",
+        "phonics": "/fəˈsɪlɪteɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/facilitate.webp",
+        "vietnameseMeaning": "tạo điều kiện, hỗ trợ",
+        "sampleSentence": "Bridges facilitate trade between communities.",
+        "vietnameseTranslation": "Cầu tạo điều kiện cho việc giao thương giữa các cộng đồng.",
+        "wordPronunciation": "facilitate.wav",
+        "sentencePronunciation": "bridges-facilitate-trade-between-communities.wav"
+      },
+      {
+        "word": "obstacles",
+        "phonics": "/ˈɒbstəklz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/obstacles.webp",
+        "vietnameseMeaning": "chướng ngại vật, trở ngại",
+        "sampleSentence": "Bridges help overcome natural obstacles like rivers.",
+        "vietnameseTranslation": "Cầu giúp vượt qua các chướng ngại vật tự nhiên như sông.",
+        "wordPronunciation": "obstacles.wav",
+        "sentencePronunciation": "bridges-help-overcome-natural-obstacles-like-rivers.wav"
+      },
+      {
+        "word": "gorges",
+        "phonics": "/ɡɔːrdʒɪz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/gorges.webp",
+        "vietnameseMeaning": "hẻm núi sâu",
+        "sampleSentence": "Some bridges span across deep gorges.",
+        "vietnameseTranslation": "Một số cầu bắc qua những hẻm núi sâu.",
+        "wordPronunciation": "gorges.wav",
+        "sentencePronunciation": "some-bridges-span-across-deep-gorges.wav"
+      },
+      {
+        "word": "evolution",
+        "phonics": "/ˌiːvəˈluːʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/evolution.webp",
+        "vietnameseMeaning": "sự tiến hóa, phát triển",
+        "sampleSentence": "The evolution of bridge design reflects human progress.",
+        "vietnameseTranslation": "Sự phát triển của thiết kế cầu phản ánh tiến bộ của con người.",
+        "wordPronunciation": "evolution.wav",
+        "sentencePronunciation": "the-evolution-of-bridge-design-reflects-human-progress.wav"
+      },
+      {
+        "word": "advancements",
+        "phonics": "/ədˈvɑːnsmənts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/advancements.webp",
+        "vietnameseMeaning": "sự tiến bộ, bước tiến",
+        "sampleSentence": "Advancements in materials have improved bridge construction.",
+        "vietnameseTranslation": "Những tiến bộ về vật liệu đã cải thiện việc xây dựng cầu.",
+        "wordPronunciation": "advancements.wav",
+        "sentencePronunciation": "advancements-in-materials-have-improved-bridge-construction.wav"
+      },
+      {
+        "word": "construction techniques",
+        "phonics": "/kənˈstrʌkʃn tekˈniːks/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/construction-techniques.webp",
+        "vietnameseMeaning": "kỹ thuật xây dựng",
+        "sampleSentence": "Modern construction techniques make bridges safer.",
+        "vietnameseTranslation": "Kỹ thuật xây dựng hiện đại làm cho cầu an toàn hơn.",
+        "wordPronunciation": "construction-techniques.wav",
+        "sentencePronunciation": "modern-construction-techniques-make-bridges-safer.wav"
+      },
+      {
+        "word": "structural",
+        "phonics": "/ˈstrʌktʃərəl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/structural.webp",
+        "vietnameseMeaning": "thuộc về cấu trúc",
+        "sampleSentence": "Structural understanding is essential for bridge design.",
+        "vietnameseTranslation": "Hiểu biết về cấu trúc là điều cần thiết cho thiết kế cầu.",
+        "wordPronunciation": "structural.wav",
+        "sentencePronunciation": "structural-understanding-is-essential-for-bridge-design.wav"
+      },
+      {
+        "word": "prominent",
+        "phonics": "/ˈprɒmɪnənt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/prominent.webp",
+        "vietnameseMeaning": "nổi bật, quan trọng",
+        "sampleSentence": "There are several prominent types of bridges worldwide.",
+        "vietnameseTranslation": "Có một số loại cầu nổi bật trên thế giới.",
+        "wordPronunciation": "prominent.wav",
+        "sentencePronunciation": "there-are-several-prominent-types-of-bridges-worldwide.wav"
+      },
+      {
+        "word": "arch bridge",
+        "phonics": "/ɑːrtʃ brɪdʒ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/arch-bridge.webp",
+        "vietnameseMeaning": "cầu vòm",
+        "sampleSentence": "The arch bridge is one of the oldest bridge designs.",
+        "vietnameseTranslation": "Cầu vòm là một trong những thiết kế cầu lâu đời nhất.",
+        "wordPronunciation": "arch-bridge.wav",
+        "sentencePronunciation": "the-arch-bridge-is-one-of-the-oldest-bridge-designs.wav"
+      },
+      {
+        "word": "distribute",
+        "phonics": "/dɪˈstrɪbjuːt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/distribute.webp",
+        "vietnameseMeaning": "phân phối, phân bố",
+        "sampleSentence": "An arch bridge distributes weight through its curved structure.",
+        "vietnameseTranslation": "Cầu vòm phân bố trọng lượng qua cấu trúc cong của nó.",
+        "wordPronunciation": "distribute.wav",
+        "sentencePronunciation": "an-arch-bridge-distributes-weight-through-its-curved-structure.wav"
+      },
+      {
+        "word": "abutments",
+        "phonics": "/əˈbʌtmənts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/abutments.webp",
+        "vietnameseMeaning": "mố cầu, trụ đỡ hai đầu",
+        "sampleSentence": "The weight is transferred into the abutments at each end.",
+        "vietnameseTranslation": "Trọng lượng được truyền vào các mố cầu ở mỗi đầu.",
+        "wordPronunciation": "abutments.wav",
+        "sentencePronunciation": "the-weight-is-transferred-into-the-abutments-at-each-end.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        {
+          "sentence": "Bridges are _____ feats of engineering.",
+          "word": "remarkable"
+        },
+        {
+          "sentence": "Modern bridges are impressive _____.",
+          "word": "feats of engineering"
+        },
+        {
+          "sentence": "Bridges _____ trade between communities.",
+          "word": "facilitate"
+        },
+        {
+          "sentence": "Bridges help overcome natural _____ like rivers.",
+          "word": "obstacles"
+        },
+        {
+          "sentence": "Some bridges span across deep _____.",
+          "word": "gorges"
+        },
+        {
+          "sentence": "The _____ of bridge design reflects human progress.",
+          "word": "evolution"
+        },
+        {
+          "sentence": "_____ in materials have improved bridge construction.",
+          "word": "advancements"
+        },
+        {
+          "sentence": "Modern _____ make bridges safer.",
+          "word": "construction techniques"
+        },
+        {
+          "sentence": "_____ understanding is essential for bridge design.",
+          "word": "structural"
+        },
+        {
+          "sentence": "There are several _____ types of bridges worldwide.",
+          "word": "prominent"
+        },
+        {
+          "sentence": "The _____ is one of the oldest bridge designs.",
+          "word": "arch bridge"
+        },
+        {
+          "sentence": "An arch bridge _____s weight through its curved structure.",
+          "word": "distribute"
+        },
+        {
+          "sentence": "The weight is transferred into the _____ at each end.",
+          "word": "abutments"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [
+              { "text": "Types of Bridges" },
+              { "tag": "br" },
+              { "text": "Lesson 1: Vocabulary - Part 1" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi cho giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

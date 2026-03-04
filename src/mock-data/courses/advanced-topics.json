@@ -2,6 +2,87 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-1-vocab",
+    "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+    "description": "Vocabulary",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-2-vocab",
+    "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
+    "description": "Vocabulary",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-3-vocab",
+    "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
+    "description": "Vocabulary",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-4-reading",
+    "lessonDisplay": "Lesson 4: Reading",
+    "description": "Reading",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-5-listening",
+    "lessonDisplay": "Lesson 5: Listening",
+    "description": "Listening",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-6-shadowing",
+    "lessonDisplay": "Lesson 6: Shadowing",
+    "description": "Shadowing",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-7-writing",
+    "lessonDisplay": "Lesson 7: Writing",
+    "description": "Writing",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "types-of-bridges",
+    "unitDisplay": "Types of Bridges",
+    "lesson": "lesson-8-presentation",
+    "lessonDisplay": "Lesson 8: Presentation",
+    "description": "Presentation",
+    "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
+  },
+
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "light-pollution",
     "unitDisplay": "Light Pollution",
     "lesson": "lesson-1-vocab",
@@ -88,7 +169,7 @@
     "lesson": "lesson-1-vocab",
     "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
     "description": "Vocabulary",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -98,7 +179,7 @@
     "lesson": "lesson-2-vocab",
     "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
     "description": "Vocabulary",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -108,7 +189,7 @@
     "lesson": "lesson-3-vocab",
     "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
     "description": "Vocabulary",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -118,7 +199,7 @@
     "lesson": "lesson-4-reading",
     "lessonDisplay": "Lesson 4: Reading",
     "description": "Reading",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -128,7 +209,7 @@
     "lesson": "lesson-5-listening",
     "lessonDisplay": "Lesson 5: Listening",
     "description": "Listening",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -138,7 +219,7 @@
     "lesson": "lesson-6-shadowing",
     "lessonDisplay": "Lesson 6: Shadowing",
     "description": "Shadowing",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -148,7 +229,7 @@
     "lesson": "lesson-7-writing",
     "lessonDisplay": "Lesson 7: Writing",
     "description": "Writing",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",
@@ -158,7 +239,7 @@
     "lesson": "lesson-8-presentation",
     "lessonDisplay": "Lesson 8: Presentation",
     "description": "Presentation",
-    "bg": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg"
+    "bg": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg"
   },
   {
     "course": "advanced-topics",

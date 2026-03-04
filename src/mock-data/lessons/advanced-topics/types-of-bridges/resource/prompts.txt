@@ -1,0 +1,202 @@
+[
+  {
+    "object": "remarkable",
+    "prompt": "a breathtaking cinematic photograph of a magnificent modern bridge stretching across a deep valley at sunset, inspiring awe and wonder, representing something remarkable",
+    "filename": "remarkable.png"
+  },
+  {
+    "object": "feats of engineering",
+    "prompt": "a dramatic aerial photograph of massive bridge construction with cranes, steel beams, and workers assembling a colossal structure, representing feats of engineering",
+    "filename": "feats-of-engineering.png"
+  },
+  {
+    "object": "facilitate",
+    "prompt": "a photograph of busy traffic flowing smoothly across a wide modern bridge connecting two city districts, representing facilitation of movement",
+    "filename": "facilitate.png"
+  },
+  {
+    "object": "obstacles",
+    "prompt": "a dramatic landscape photograph showing a deep river canyon with steep rocky cliffs blocking passage, representing natural obstacles",
+    "filename": "obstacles.png"
+  },
+  {
+    "object": "gorges",
+    "prompt": "a stunning aerial photograph of a narrow deep gorge with a river flowing at the bottom between towering rock walls, representing gorges",
+    "filename": "gorges.png"
+  },
+  {
+    "object": "evolution",
+    "prompt": "a conceptual timeline photograph showing bridge designs progressing from simple wooden logs to ancient stone arches to modern steel suspension bridges, representing evolution",
+    "filename": "evolution.png"
+  },
+  {
+    "object": "advancements",
+    "prompt": "a photograph comparing old rusted iron bridge materials next to modern high-strength steel cables and carbon fiber, representing technological advancements",
+    "filename": "advancements.png"
+  },
+  {
+    "object": "construction techniques",
+    "prompt": "a cinematic photograph of engineers and workers using modern machinery and scaffolding to build a large bridge over water, representing construction techniques",
+    "filename": "construction-techniques.png"
+  },
+  {
+    "object": "structural",
+    "prompt": "a detailed photograph showing the exposed steel framework and support beams of a bridge under construction, highlighting structural elements",
+    "filename": "structural.png"
+  },
+  {
+    "object": "prominent",
+    "prompt": "a stunning photograph of the Golden Gate Bridge standing tall and prominent against a foggy San Francisco skyline, representing prominence",
+    "filename": "prominent.png"
+  },
+  {
+    "object": "arch bridge",
+    "prompt": "a beautiful photograph of a classic stone arch bridge with its elegant curved structure spanning over a calm river, representing arch bridge design",
+    "filename": "arch-bridge.png"
+  },
+  {
+    "object": "distribute",
+    "prompt": "a conceptual diagram-style photograph showing arrows illustrating how weight spreads evenly across an arch bridge structure, representing force distribution",
+    "filename": "distribute.png"
+  },
+  {
+    "object": "abutments",
+    "prompt": "a close-up photograph of massive concrete abutments at the base of a bridge where the arch meets the ground, representing bridge abutments",
+    "filename": "abutments.png"
+  },
+  {
+    "object": "masonry",
+    "prompt": "a detailed photograph of an old stone bridge showing carefully laid masonry blocks fitted together in a traditional arch pattern",
+    "filename": "masonry.png"
+  },
+  {
+    "object": "reinforced concrete",
+    "prompt": "a close-up photograph showing steel rebar grid being embedded in wet concrete on a bridge construction site, representing reinforced concrete",
+    "filename": "reinforced-concrete.png"
+  },
+  {
+    "object": "load-bearing capacity",
+    "prompt": "a dramatic photograph of a massive freight train crossing a sturdy steel bridge, demonstrating the bridge's heavy load-bearing capacity",
+    "filename": "load-bearing-capacity.png"
+  },
+  {
+    "object": "beam bridge",
+    "prompt": "a clean photograph of a simple straight beam bridge with flat horizontal deck supported by two concrete piers over a small river",
+    "filename": "beam-bridge.png"
+  },
+  {
+    "object": "horizontal deck",
+    "prompt": "a photograph taken from the side showing the perfectly flat horizontal deck surface of a modern bridge stretching into the distance",
+    "filename": "horizontal-deck.png"
+  },
+  {
+    "object": "piers",
+    "prompt": "a photograph of tall concrete piers rising from a river, supporting a highway bridge above, representing bridge piers",
+    "filename": "piers.png"
+  },
+  {
+    "object": "straightforward",
+    "prompt": "a clean minimalist photograph of a simple wooden plank bridge over a small stream, representing a straightforward uncomplicated design",
+    "filename": "straightforward.png"
+  },
+  {
+    "object": "constraint",
+    "prompt": "a conceptual photograph showing a short bridge unable to reach across a wide river gap, representing limitation and constraint",
+    "filename": "constraint.png"
+  },
+  {
+    "object": "truss bridge",
+    "prompt": "a striking photograph of a steel truss bridge showing its distinctive criss-cross triangular framework pattern against a clear sky",
+    "filename": "truss-bridge.png"
+  },
+  {
+    "object": "interconnected",
+    "prompt": "a close-up photograph of steel beams joined together at multiple connection points with bolts and rivets on a truss bridge, representing interconnection",
+    "filename": "interconnected.png"
+  },
+  {
+    "object": "triangular elements",
+    "prompt": "a geometric photograph highlighting the repeating triangle shapes in a truss bridge framework, representing triangular structural elements",
+    "filename": "triangular-elements.png"
+  },
+  {
+    "object": "rigidity",
+    "prompt": "a photograph of a solid heavy-duty steel bridge standing firm during a strong storm with waves crashing below, representing rigidity and strength",
+    "filename": "rigidity.png"
+  },
+  {
+    "object": "suspension bridge",
+    "prompt": "a majestic photograph of a large suspension bridge with sweeping main cables hanging between two tall towers over a wide bay at golden hour",
+    "filename": "suspension-bridge.png"
+  },
+  {
+    "object": "cables",
+    "prompt": "a close-up photograph of thick braided steel cables on a suspension bridge, showing the twisted wire strands in detail",
+    "filename": "cables.png"
+  },
+  {
+    "object": "draped",
+    "prompt": "a wide-angle photograph showing the graceful curved profile of main cables draped between two bridge towers forming a catenary shape",
+    "filename": "draped.png"
+  },
+  {
+    "object": "suspenders",
+    "prompt": "a photograph showing vertical suspender cables hanging from the main cable down to the bridge deck on a suspension bridge",
+    "filename": "suspenders.png"
+  },
+  {
+    "object": "anchored",
+    "prompt": "a photograph of a massive concrete anchorage block at the end of a suspension bridge where cables are secured deep into the ground",
+    "filename": "anchored.png"
+  },
+  {
+    "object": "extraordinarily",
+    "prompt": "a breathtaking aerial photograph of an extraordinarily long bridge spanning across an entire strait with clouds below, representing extreme length",
+    "filename": "extraordinarily.png"
+  },
+  {
+    "object": "waterways",
+    "prompt": "a stunning aerial photograph of a wide river delta with multiple waterways and channels crossed by various bridges, representing waterways",
+    "filename": "waterways.png"
+  },
+  {
+    "object": "exemplifies",
+    "prompt": "an iconic photograph of the Golden Gate Bridge in perfect lighting as a prime example of suspension bridge engineering excellence",
+    "filename": "exemplifies.png"
+  },
+  {
+    "object": "robust",
+    "prompt": "a powerful photograph of a massive steel bridge withstanding heavy traffic and harsh weather conditions, representing robustness and durability",
+    "filename": "robust.png"
+  },
+  {
+    "object": "cable-stayed bridge",
+    "prompt": "a modern photograph of an elegant cable-stayed bridge with fan-shaped cables radiating directly from tall towers to the deck",
+    "filename": "cable-stayed-bridge.png"
+  },
+  {
+    "object": "configuration",
+    "prompt": "a technical photograph showing different cable arrangement patterns on cable-stayed bridges including fan and harp configurations",
+    "filename": "configuration.png"
+  },
+  {
+    "object": "stiffness",
+    "prompt": "a photograph of a rigid cable-stayed bridge deck remaining perfectly level under heavy traffic loads, representing structural stiffness",
+    "filename": "stiffness.png"
+  },
+  {
+    "object": "economical",
+    "prompt": "a split comparison photograph showing a simple efficient cable-stayed bridge versus a more expensive suspension bridge, representing economical design choices",
+    "filename": "economical.png"
+  },
+  {
+    "object": "cantilever bridge",
+    "prompt": "a dramatic photograph of a cantilever bridge with its distinctive extending arms reaching out from central piers, like the Forth Bridge in Scotland",
+    "filename": "cantilever-bridge.png"
+  },
+  {
+    "object": "falsework",
+    "prompt": "a construction photograph showing temporary wooden and steel scaffolding supporting a bridge under construction, representing falsework",
+    "filename": "falsework.png"
+  }
+]

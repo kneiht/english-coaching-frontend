@@ -1,6 +1,6 @@
 {
   "lesson-3-vocab": {
-    "background": "https://prettyhome.co.in/wp-content/uploads/2023/05/abstract-music-background-musical-notes-symbols-christmas-carol-song-melody-concept-scaled.jpg",
+    "background": "https://capian.co/assets/images/uploads/blog/ckia8-music-lockdown-1fa0fb8b.jpg",
     "title": "Music – Language We All Speak",
     "description": "Lesson 3: Vocabulary - Part 3",
     "menu": [
@@ -142,14 +142,35 @@
     ],
     "clozeData": {
       "sentences": [
-        { "sentence": "He _____ how to use the machine.", "word": "demonstrate" },
-        { "sentence": "Sleep is vital for our _____ _____.", "word": "biological system" },
-        { "sentence": "The sign _____ the way to the exit.", "word": "indicate" },
-        { "sentence": "Alcohol affects your _____ of distance.", "word": "perception" },
-        { "sentence": "Colors form a _____ on the spectrum.", "word": "continuum" },
+        {
+          "sentence": "He _____ how to use the machine.",
+          "word": "demonstrate"
+        },
+        {
+          "sentence": "Sleep is vital for our _____ _____.",
+          "word": "biological system"
+        },
+        {
+          "sentence": "The sign _____ the way to the exit.",
+          "word": "indicate"
+        },
+        {
+          "sentence": "Alcohol affects your _____ of distance.",
+          "word": "perception"
+        },
+        {
+          "sentence": "Colors form a _____ on the spectrum.",
+          "word": "continuum"
+        },
         { "sentence": "She has a soft and _____ voice.", "word": "melodic" },
-        { "sentence": "You can _____ the temperature with this button.", "word": "regulate" },
-        { "sentence": "There is no _____ to support his claim.", "word": "evidence" },
+        {
+          "sentence": "You can _____ the temperature with this button.",
+          "word": "regulate"
+        },
+        {
+          "sentence": "There is no _____ to support his claim.",
+          "word": "evidence"
+        },
         { "sentence": "Food is a basic _____.", "word": "necessity" },
         { "sentence": "Buying a new car is a _____ for me.", "word": "luxury" }
       ]
@@ -162,7 +183,9 @@
         "root": [
           {
             "tag": "h2",
-            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
             "children": [
               { "text": "Music – Language We All Speak" },
               { "tag": "br" },
@@ -176,34 +199,50 @@
           },
           {
             "tag": "ol",
-            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
             "children": [
-              { "tag": "li", "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }] },
+              {
+                "tag": "li",
+                "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }]
+              },
               {
                 "tag": "li",
                 "children": [
-                  { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi kết quả cho giáo viên, quan trọng là các hoạt động trắc nghiệm và nghe." }
+                  {
+                    "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi kết quả cho giáo viên, quan trọng là các hoạt động trắc nghiệm và nghe."
+                  }
                 ]
               },
               {
                 "tag": "li",
                 "children": [
-                  { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." }
+                  {
+                    "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên."
+                  }
                 ]
               },
               {
                 "tag": "li",
                 "children": [
-                  { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." }
+                  {
+                    "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên."
+                  }
                 ]
               }
             ]
           },
-          { "tag": "p", "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" }, "children": [{ "text": "Chúc các em học tốt!" }] }
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
         ],
         "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
       }
     ]
   }
 }
-
