@@ -1,0 +1,405 @@
+{
+  "lesson-7-writing": {
+    "background": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill",
+    "title": "Types of Bridges",
+    "description": "Lesson 7: Writing",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "writing-guide" }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "Types of Bridges" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 7: Writing" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Đọc kỹ phần hướng dẫn trong Writing Guide."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Lựa chọn một loại cầu (Arch, Truss, Suspension...) mà em muốn miêu tả."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Viết bản tin báo chí (khoảng 200 từ) vào vở và chụp hình gửi bài cho giáo viên."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt và phát huy được sự sáng tạo!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "writing-guide",
+        "title": "Writing Guide",
+        "scrollable": true,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Types of Bridges",
+            "className": "text-4xl font-bold text-indigo-700 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Lesson 7: Writing Guide",
+            "className": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "GUIDE TO WRITING A NEWSPAPER REPORT: A BRIDGE SURVIVES A STORM (Around 200 words)",
+            "className": "text-2xl font-bold text-blue-600"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "HƯỚNG DẪN VIẾT BẢN TIN BÁO CHÍ: CÂY CẦU VƯỢT QUA SIÊU BÃO (Khoảng 200 từ)",
+            "className": "text-2xl font-bold text-indigo-600 mb-4"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "1. Choose Your Bridge Type",
+            "className": "text-xl font-semibold text-blue-600 pt-2"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": true,
+            "items": [
+              "Select a specific type of bridge (Chọn một loại hình cầu cụ thể)",
+              "Give your bridge a name and location (Đặt tên và chọn địa điểm cho cây cầu)",
+              "Focus on its key structural features (Tập trung vào các đặc điểm cấu trúc chính vững chắc của nó)"
+            ],
+            "className": "list-decimal list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Bridge Options & Strengths: (Các lựa chọn & Điểm mạnh:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1 mt-4"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Suspension Bridge (Cầu treo): Flexible, uses massive cables anchored to the ground to sway safely in the wind (Linh hoạt, dùng dây cáp neo chặt để đung đưa an toàn trong gió).",
+              "Truss Bridge (Cầu giàn): Exceptional rigidity due to interconnected triangular elements (Độ cứng cáp xuất sắc nhờ các phần tử tam giác liên kết).",
+              "Arch Bridge (Cầu vòm): Perfectly distributes the weight of crashing waves into its robust abutments (Phân bố hoàn hảo lực va đập của sóng vào các mố cầu vững chắc)."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "2. Set the Scene (Thiết lập bối cảnh)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Mention why the bridge is important for the community (Nêu lý do cây cầu quan trọng với cộng đồng - vd: facilitating trade).",
+              "Introduce the approaching threat (Giới thiệu mối đe dọa đang đến gần)."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Examples: (Ví dụ:)",
+            "className": "text-md font-semibold text-gray-700 pt-1 mt-2"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "The Horizon Bridge has always been a vital link, facilitating trade across the gorge. Yesterday, it faced its greatest test: Hurricane Omega.",
+              "Connecting two cities over a wide waterway, the Silver Truss Bridge was quickly emptied as dark storm clouds gathered."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "3. The Storm Arrives (Siêu bão đổ bộ)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Describe the intense conditions using strong adjectives (Mô tả cường độ khốc liệt của bão bằng các tính từ mạnh).",
+              "Show the immense pressure put on the bridge (Cho thấy áp lực khổng lồ đè lên cây cầu)."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Examples: (Ví dụ:)",
+            "className": "text-md font-semibold text-gray-700 pt-1 mt-2"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Winds reaching 150 km/h battered the horizontal deck.",
+              "Massive waves crashed violently against the stone masonry of the piers."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "4. The Structural Marvel (Sức mạnh của Cấu trúc)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Explain how the bridge's specific design allowed it to survive (Giải thích thiết kế cụ thể đã giúp nó sống sót thế nào).",
+              "Use technical vocabulary from the lesson (Sử dụng từ vựng chuyên ngành cơ khí từ bài học)."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Examples: (Ví dụ:)",
+            "className": "text-md font-semibold text-gray-700 pt-1 mt-2"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "(Suspension): The massive cables draped over the towers allowed the bridge to sway slightly, absorbing the wind's energy.",
+              "(Truss): The interconnected triangular elements provided exceptional rigidity, distributing the destructive forces away from the center."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "5. The Aftermath (Hậu quả và Kết luận)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Describe the morning after the storm (Miêu tả buổi sáng sau cơn bão).",
+              "Conclude by praising human engineering (Kết luận bằng sự ngợi ca kỹ thuật xây dựng của con người)."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Examples: (Ví dụ:)",
+            "className": "text-md font-semibold text-gray-700 pt-1 mt-2"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "This morning, the sun rose to reveal the bridge standing strong, a true remarkable feat of engineering.",
+              "Thanks to robust construction techniques, the city remains connected."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "6. Report Structure Outline",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Report Part (Phần Báo cáo)",
+              "What to Include (Nội dung)",
+              "Word Count (Số từ)"
+            ],
+            "rows": [
+              [
+                "Headline & Lead\n(Tiêu đề & Mở bài)",
+                "Bridge name, location, and the storm's arrival.\nGiới thiệu tên, địa điểm và cơn bão.",
+                "40-50 words"
+              ],
+              [
+                "The Impact\n(Sự tấn công)",
+                "Describe the storm's power striking the bridge.\nMô tả sức mạnh bão tấn công cây cầu.",
+                "40-50 words"
+              ],
+              [
+                "The Survival\n(Sự chống chọi)",
+                "Explain the engineering that saved it.\nGiải thích kỹ thuật đã cứu cây cầu.",
+                "60-70 words"
+              ],
+              [
+                "Conclusion\n(Kết luận)",
+                "The morning after and final thoughts.\nBuổi sáng hôm sau và cảm nghĩ cuối.",
+                "30-40 words"
+              ]
+            ],
+            "className": "w-full border-collapse mt-2"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "7. Vocabulary to Use in Your Report",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Engineering terms: remarkable feats of engineering, construction techniques, load-bearing capacity",
+              "Bridge parts: abutments, piers, massive cables, horizontal deck, suspenders, triangular elements",
+              "Bridge types: arch bridge, suspension bridge, truss bridge, cable-stayed bridge",
+              "Verbs: facilitate, distribute, anchored, withstand, overcome",
+              "Adjectives: robust, exceptional rigidity, interconnected, structural"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "8. Descriptive Writing Examples",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Good vs. Basic Descriptions:",
+            "className": "text-lg font-semibold text-gray-700 pt-1 mt-2"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Better: 'The robust reinforced concrete piers easily withstood the crashing waves.' (instead of 'The bridge poles were strong.')",
+              "Better: 'Thanks to the exceptional rigidity of its interconnected triangular elements, the truss bridge didn't bend.' (instead of 'The truss bridge stayed straight.')",
+              "Better: 'The vertical suspenders transferred the immense weight perfectly to the anchored massive cables.' (instead of 'The ropes held the bridge.')",
+              "Better: 'It truly is a remarkable feat of engineering that continues to facilitate trade for our city.' (instead of 'It is a good bridge for the city.')"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "9. Sample Report: The Suspension Marvel That Defied The Hurricane",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "Bài báo mẫu: Kỳ quan Cầu Treo thách thức Siêu bão",
+            "className": "text-xl font-semibold text-indigo-600 pt-1"
+          },
+          {
+            "type": "paragraph",
+            "text": "Last night, the coastal city of Seaview faced one of the most violent storms in its history. Hurricane Delta brought 150 km/h winds and massive waves. Citizens were terrified, especially for the Ocean Gate Bridge, a vital suspension bridge that facilitates trade and transportation over the wide waterway.",
+            "className": "text-gray-800 mt-4"
+          },
+          {
+            "type": "paragraph",
+            "text": "Tension was high as the storm battered the horizontal deck. However, this structure proved to be a remarkable feat of engineering. The secret to its survival lay in its structural design. Instead of resisting the wind rigidly, the bridge was designed to be flexible.",
+            "className": "text-gray-800 mt-2"
+          },
+          {
+            "type": "paragraph",
+            "text": "The massive cables draped over the tall towers allowed the deck to sway slightly without taking damage. Meanwhile, the vertical suspenders efficiently transferred the changing pressure to the main cables, which remained securely anchored into the ground on both sides of the coast.",
+            "className": "text-gray-800 mt-2"
+          },
+          {
+            "type": "paragraph",
+            "text": "When dawn broke, the clouds cleared to reveal the Ocean Gate Bridge standing tall and undamaged. Modern construction techniques and brilliant structural understanding allowed it to overcome the brutal natural obstacles. It stands today not just as a path across water, but as a robust symbol of human resilience.",
+            "className": "text-gray-800 mt-2 mb-4"
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-xl"
+      }
+    ]
+  }
+}
