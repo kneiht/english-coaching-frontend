@@ -1,0 +1,330 @@
+{
+  "lesson-8-presentation": {
+    "background": "https://images.unsplash.com/photo-1513364776144-60967db0f80b?q=80&w=2671&auto=format&fit=crop",
+    "title": "The Longest Bridges in the World",
+    "description": "Lesson 8: Presentation",
+    "menu": [
+      { "type": "video", "id": "lesson-video" },
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "presentation-guide" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "lesson-video",
+          "url": "https://youtu.be/83wO2u2rXyU",
+          "title": "Video Overview"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "The Longest Bridges in the World" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 8: Presentation" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Xem lại video overview để có thêm thông tin thực tế về những cây cầu dài nhất thế giới."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Bấm vào link bên dưới để xem infographic. Dựa vào infographic và sườn bài để thuyết trình về quy mô, lợi ích và kỹ thuật xây dựng các cây cầu khổng lồ."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Tập thuyết trình và quay video." }]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "class": "text-center my-8"
+            },
+            "children": [
+              {
+                "tag": "a",
+                "attributes": {
+                  "href": "https://storage.chillteacher.com/pages/types-of-bridges/presentation/longest-bridges.webp",
+                  "target": "_blank",
+                  "class": "inline-block bg-indigo-600 hover:bg-indigo-700 text-white text-2xl font-bold py-4 px-8 rounded-lg shadow-lg transition duration-300"
+                },
+                "children": [{ "text": "Xem Infographic Mega Bridges" }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "presentation-guide",
+        "title": "Presentation Guide",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center mb-2"
+            },
+            "children": [{ "text": "The Longest Bridges in the World" }]
+          },
+          {
+            "tag": "h2",
+            "attributes": {
+              "class": "text-3xl font-bold text-indigo-600 mb-8 text-center"
+            },
+            "children": [{ "text": "Presentation Script" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "INTRODUCTION: The Mega Structures" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Hello everyone. When we think of bridges, we usually picture a simple structure crossing a river or an intersection. But today, I want to talk about engineering marvels that stretch as far as the eye can see: The Longest Bridges in the World."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Building a bridge over a small river is easy, but how do we cross a vast ocean bay or a very deep lake? These mega-structures solve the problem of distance and connect regions that were previously isolated."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4 font-semibold" },
+            "children": [
+              {
+                "text": "Today, I will use this infographic to show you some of the longest bridges ever built, why they are so important, and the incredible engineering behind them.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [
+              {
+                "text": "BODY PART 1: The Champions of Length"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the 'Current Records' section of the infographic)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"First, let's look at the current record holders. Asia, particularly China, is home to most of these mega-bridges."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "The absolute longest bridge in the world right now is the Danyang–Kunshan Grand Bridge in China. It is part of a high-speed railway and has a staggering length of 164 kilometers!"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "To put that in perspective, driving across this single bridge at highway speeds would take you over an hour and a half!\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 2: Why Build So Long?" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              { "text": "(Point to the 'Purpose and Economics' section)" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"You might wonder, why do we need such incredibly long bridges? The answer is: time and economic growth."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Before these bridges existed, crossing massive bodies of water required slow ferry rides or driving hundreds of miles around the water."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "For example, the Lake Pontchartrain Causeway in the USA stretches almost 39 kilometers continuously across a huge lake. It saves commuters hours of driving every day, completely changing how people live and work in the region.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 3: Engineering The Impossible" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the 'Engineering Challenges' section)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Building these mega-bridges requires solving 'impossible' problems. Engineers have to deal with deep water, strong ocean currents, and harsh weather."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "In fact, they are so long that engineers actually have to calculate the curvature of the Earth to ensure the massive pieces fit together perfectly!"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "Furthermore, these structures must be designed to withstand powerful typhoons, dangerous earthquakes, and the daily wear and tear of thousands of heavy trains and cars.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "CONCLUSION:" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"In conclusion, the longest bridges in the world are much more than just roads over water; they are symbols of human achievement."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "They prove that with advanced engineering, we can overcome extreme geographic barriers to connect people and boost economies globally."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Our world is more connected today than ever before, and these giant bridges play a huge role in that journey."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "font-bold text-lg" },
+            "children": [{ "text": "Thank you for listening!\"" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-lg leading-relaxed"
+      }
+    ]
+  }
+}
