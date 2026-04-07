@@ -1,0 +1,240 @@
+{
+  "lesson-1-vocab": {
+    "background": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+    "title": "The Evolution of Writing Systems",
+    "description": "Lesson 1: Vocabulary - Part 1",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "vocab": [
+      {
+        "word": "inventions",
+        "phonics": "/ɪnˈvenʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/inventions.webp",
+        "vietnameseMeaning": "sáng chế, phát minh",
+        "sampleSentence": "Writing is one of the greatest inventions.",
+        "vietnameseTranslation": "Chữ viết là một trong những phát minh vĩ đại nhất.",
+        "wordPronunciation": "inventions.wav",
+        "sentencePronunciation": "writing-is-one-of-the-greatest-inventions.wav"
+      },
+      {
+        "word": "human history",
+        "phonics": "/ˈhjuːmən ˈhɪstri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/human-history.webp",
+        "vietnameseMeaning": "lịch sử nhân loại",
+        "sampleSentence": "It is an important event in human history.",
+        "vietnameseTranslation": "Đó là một sự kiện quan trọng trong lịch sử nhân loại.",
+        "wordPronunciation": "human-history.wav",
+        "sentencePronunciation": "it-is-an-important-event-in-human-history.wav"
+      },
+      {
+        "word": "generations",
+        "phonics": "/ˌdʒenəˈreɪʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/generations.webp",
+        "vietnameseMeaning": "thế hệ",
+        "sampleSentence": "Knowledge is passed down across generations.",
+        "vietnameseTranslation": "Kiến thức được truyền lại qua các thế hệ.",
+        "wordPronunciation": "generations.wav",
+        "sentencePronunciation": "knowledge-is-passed-down-across-generations.wav"
+      },
+      {
+        "word": "fascinating",
+        "phonics": "/ˈfæsɪneɪtɪŋ/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/fascinating.webp",
+        "vietnameseMeaning": "rất hấp dẫn, thú vị",
+        "sampleSentence": "The journey of writing is a fascinating story.",
+        "vietnameseTranslation": "Hành trình của chữ viết là một câu chuyện rất thú vị.",
+        "wordPronunciation": "fascinating.wav",
+        "sentencePronunciation": "the-journey-of-writing-is-a-fascinating-story.wav"
+      },
+      {
+        "word": "prehistoric",
+        "phonics": "/ˌpriːhɪˈstɒrɪk/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/prehistoric.webp",
+        "vietnameseMeaning": "thời tiền sử",
+        "sampleSentence": "Prehistoric people used simple tools.",
+        "vietnameseTranslation": "Người tiền sử đã sử dụng các công cụ đơn giản.",
+        "wordPronunciation": "prehistoric.wav",
+        "sentencePronunciation": "prehistoric-people-used-simple-tools.wav"
+      },
+      {
+        "word": "cave paintings",
+        "phonics": "/keɪv ˈpeɪntɪŋz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cave-paintings.webp",
+        "vietnameseMeaning": "tranh vẽ trên vách hang động",
+        "sampleSentence": "Cave paintings tell stories about hunting.",
+        "vietnameseTranslation": "Những bức vẽ trong hang động kể các câu chuyện về săn bắn.",
+        "wordPronunciation": "cave-paintings.wav",
+        "sentencePronunciation": "cave-paintings-tell-stories-about-hunting.wav"
+      },
+      {
+        "word": "ancient",
+        "phonics": "/ˈeɪnʃənt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/ancient.webp",
+        "vietnameseMeaning": "cổ đại",
+        "sampleSentence": "The ancient Sumerians created the first writing system.",
+        "vietnameseTranslation": "Người Sumer cổ đại đã tạo ra hệ thống chữ viết đầu tiên.",
+        "wordPronunciation": "ancient.wav",
+        "sentencePronunciation": "the-ancient-sumerians-created-the-first-writing-system.wav"
+      },
+      {
+        "word": "cuneiform",
+        "phonics": "/ˈkjuːnɪfɔːrm/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cuneiform.webp",
+        "vietnameseMeaning": "chữ hình nêm",
+        "sampleSentence": "Cuneiform is the oldest known writing system.",
+        "vietnameseTranslation": "Chữ hình nêm là hệ thống chữ viết cổ nhất được biết đến.",
+        "wordPronunciation": "cuneiform.wav",
+        "sentencePronunciation": "cuneiform-is-the-oldest-known-writing-system.wav"
+      },
+      {
+        "word": "carve",
+        "phonics": "/kɑːrv/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/carve.webp",
+        "vietnameseMeaning": "khắc, tạc",
+        "sampleSentence": "They learned to carve symbols onto clay.",
+        "vietnameseTranslation": "Họ học cách khắc các biểu tượng lên đất sét.",
+        "wordPronunciation": "carve.wav",
+        "sentencePronunciation": "they-learned-to-carve-symbols-onto-clay.wav"
+      },
+      {
+        "word": "clay tablets",
+        "phonics": "/kleɪ ˈtæbləts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/clay-tablets.webp",
+        "vietnameseMeaning": "phiến đất sét",
+        "sampleSentence": "Old records were kept on wet clay tablets.",
+        "vietnameseTranslation": "Các tài liệu cũ được lưu giữ trên các phiến đất sét ướt.",
+        "wordPronunciation": "clay-tablets.wav",
+        "sentencePronunciation": "old-records-were-kept-on-wet-clay-tablets.wav"
+      },
+      {
+        "word": "agricultural",
+        "phonics": "/ˌæɡrɪˈkʌltʃərəl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/agricultural.webp",
+        "vietnameseMeaning": "thuộc về nông nghiệp",
+        "sampleSentence": "Early writing recorded agricultural events.",
+        "vietnameseTranslation": "Chữ viết ban đầu dùng để ghi chép các sự kiện nông nghiệp.",
+        "wordPronunciation": "agricultural.wav",
+        "sentencePronunciation": "early-writing-recorded-agricultural-events.wav"
+      },
+      {
+        "word": "transactions",
+        "phonics": "/trænˈzækʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/transactions.webp",
+        "vietnameseMeaning": "giao dịch",
+        "sampleSentence": "People used writing to track business transactions.",
+        "vietnameseTranslation": "Mọi người dùng chữ viết để theo dõi các giao dịch kinh doanh.",
+        "wordPronunciation": "transactions.wav",
+        "sentencePronunciation": "people-used-writing-to-track-business-transactions.wav"
+      },
+      {
+        "word": "pictograms",
+        "phonics": "/ˈpɪktəɡræmz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/pictograms.webp",
+        "vietnameseMeaning": "chữ tượng hình",
+        "sampleSentence": "These early symbols were called pictograms.",
+        "vietnameseTranslation": "Những biểu tượng đầu tiên này được gọi là chữ tượng hình.",
+        "wordPronunciation": "pictograms.wav",
+        "sentencePronunciation": "these-early-symbols-were-called-pictograms.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        { "sentence": "Writing is one of the greatest _____.", "word": "inventions" },
+        { "sentence": "It is an important event in _____.", "word": "human history" },
+        { "sentence": "Knowledge is passed down across _____.", "word": "generations" },
+        { "sentence": "The journey of writing is a _____ story.", "word": "fascinating" },
+        { "sentence": "_____ people used simple tools.", "word": "prehistoric" },
+        { "sentence": "_____ tell stories about hunting.", "word": "cave paintings" },
+        { "sentence": "The _____ Sumerians created the first writing system.", "word": "ancient" },
+        { "sentence": "_____ is the oldest known writing system.", "word": "cuneiform" },
+        { "sentence": "They learned to _____ symbols onto clay.", "word": "carve" },
+        { "sentence": "Old records were kept on wet _____.", "word": "clay tablets" },
+        { "sentence": "Early writing recorded _____ events.", "word": "agricultural" },
+        { "sentence": "People used writing to track business _____.", "word": "transactions" },
+        { "sentence": "These early symbols were called _____.", "word": "pictograms" }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "The Evolution of Writing Systems" },
+              { "tag": "br" },
+              { "text": "Lesson 1: Vocabulary - Part 1" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [
+              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
+            "children": [
+              { "text": "Chúc các em học tốt!" }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

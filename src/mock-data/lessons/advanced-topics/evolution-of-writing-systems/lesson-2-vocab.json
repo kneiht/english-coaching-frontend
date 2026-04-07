@@ -1,0 +1,240 @@
+{
+  "lesson-2-vocab": {
+    "background": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+    "title": "The Evolution of Writing Systems",
+    "description": "Lesson 2: Vocabulary - Part 2",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "vocab": [
+      {
+        "word": "represent",
+        "phonics": "/ˌreprɪˈzent/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/represent.webp",
+        "vietnameseMeaning": "đại diện, tượng trưng",
+        "sampleSentence": "Each picture represents a physical thing.",
+        "vietnameseTranslation": "Mỗi bức hình tượng trưng cho một sự vật.",
+        "wordPronunciation": "represent.wav",
+        "sentencePronunciation": "each-picture-represents-a-physical-thing.wav"
+      },
+      {
+        "word": "objects",
+        "phonics": "/ˈɒbdʒɪkts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/objects.webp",
+        "vietnameseMeaning": "đồ vật, sự vật",
+        "sampleSentence": "Pictograms directly represent physical objects.",
+        "vietnameseTranslation": "Chữ tượng hình diễn tả trực tiếp những đồ vật.",
+        "wordPronunciation": "objects.wav",
+        "sentencePronunciation": "pictograms-directly-represent-physical-objects.wav"
+      },
+      {
+        "word": "society",
+        "phonics": "/səˈsaɪəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/society.webp",
+        "vietnameseMeaning": "xã hội",
+        "sampleSentence": "As society grew, civilization advanced.",
+        "vietnameseTranslation": "Khi xã hội lớn mạnh, nền văn minh phát triển.",
+        "wordPronunciation": "society.wav",
+        "sentencePronunciation": "as-society-grew-civilization-advanced.wav"
+      },
+      {
+        "word": "complex",
+        "phonics": "/ˈkɒmpleks/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/complex.webp",
+        "vietnameseMeaning": "phức tạp",
+        "sampleSentence": "Writing became more complex over time.",
+        "vietnameseTranslation": "Chữ viết trở nên phức tạp hơn theo thời gian.",
+        "wordPronunciation": "complex.wav",
+        "sentencePronunciation": "writing-became-more-complex-over-time.wav"
+      },
+      {
+        "word": "hieroglyphs",
+        "phonics": "/ˈhaɪərəɡlɪfs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/hieroglyphs.webp",
+        "vietnameseMeaning": "chữ tượng hình Ai Cập",
+        "sampleSentence": "The Egyptians developed hieroglyphs.",
+        "vietnameseTranslation": "Người Ai Cập cổ đại đã phát triển chữ tượng hình Ai Cập.",
+        "wordPronunciation": "hieroglyphs.wav",
+        "sentencePronunciation": "the-egyptians-developed-hieroglyphs.wav"
+      },
+      {
+        "word": "egyptians",
+        "phonics": "/ɪˈdʒɪpʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/egyptians.webp",
+        "vietnameseMeaning": "người Ai Cập",
+        "sampleSentence": "The ancient Egyptians built great pyramids.",
+        "vietnameseTranslation": "Người Ai Cập cổ đại đã xây dựng những kim tự tháp vĩ đại.",
+        "wordPronunciation": "egyptians.wav",
+        "sentencePronunciation": "the-ancient-egyptians-built-great-pyramids.wav"
+      },
+      {
+        "word": "abstract concepts",
+        "phonics": "/ˈæbstrækt ˈkɒnseptz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/abstract-concepts.webp",
+        "vietnameseMeaning": "khái niệm trừu tượng",
+        "sampleSentence": "Pictures began to represent abstract concepts.",
+        "vietnameseTranslation": "Hình ảnh bắt đầu tượng trưng cho các khái niệm trừu tượng.",
+        "wordPronunciation": "abstract-concepts.wav",
+        "sentencePronunciation": "pictures-began-to-represent-abstract-concepts.wav"
+      },
+      {
+        "word": "centuries",
+        "phonics": "/ˈsentʃəriz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/centuries.webp",
+        "vietnameseMeaning": "thế kỷ",
+        "sampleSentence": "For centuries, the ancient texts were lost.",
+        "vietnameseTranslation": "Trong nhiều thế kỷ, các văn bản cổ đại đã bị thất lạc.",
+        "wordPronunciation": "centuries.wav",
+        "sentencePronunciation": "for-centuries-the-ancient-texts-were-lost.wav"
+      },
+      {
+        "word": "mystery",
+        "phonics": "/ˈmɪstəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mystery.webp",
+        "vietnameseMeaning": "sự bí ẩn",
+        "sampleSentence": "These symbols were a mystery to the modern world.",
+        "vietnameseTranslation": "Những biểu tượng này là một bí ẩn đối với thế giới hiện đại.",
+        "wordPronunciation": "mystery.wav",
+        "sentencePronunciation": "these-symbols-were-a-mystery-to-the-modern-world.wav"
+      },
+      {
+        "word": "decipher",
+        "phonics": "/dɪˈsaɪfər/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/decipher.webp",
+        "vietnameseMeaning": "giải mã",
+        "sampleSentence": "Scientists finally managed to decipher the code.",
+        "vietnameseTranslation": "Các nhà khoa học cuối cùng đã giải mã được đoạn mã.",
+        "wordPronunciation": "decipher.wav",
+        "sentencePronunciation": "scientists-finally-managed-to-decipher-the-code.wav"
+      },
+      {
+        "word": "rosetta stone",
+        "phonics": "/roʊˈzetə stoʊn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/rosetta-stone.webp",
+        "vietnameseMeaning": "phiến đá Rosetta",
+        "sampleSentence": "The Rosetta Stone helped us understand the past.",
+        "vietnameseTranslation": "Phiến đá Rosetta đã giúp chúng ta hiểu về quá khứ.",
+        "wordPronunciation": "rosetta-stone.wav",
+        "sentencePronunciation": "the-rosetta-stone-helped-us-understand-the-past.wav"
+      },
+      {
+        "word": "revolution",
+        "phonics": "/ˌrevəˈluːʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/revolution.webp",
+        "vietnameseMeaning": "cuộc cách mạng",
+        "sampleSentence": "The true language revolution came with the alphabet.",
+        "vietnameseTranslation": "Cuộc cách mạng ngôn ngữ thực sự đến cùng với bảng chữ cái.",
+        "wordPronunciation": "revolution.wav",
+        "sentencePronunciation": "the-true-language-revolution-came-with-the-alphabet.wav"
+      },
+      {
+        "word": "alphabet",
+        "phonics": "/ˈælfəbet/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/alphabet.webp",
+        "vietnameseMeaning": "bảng chữ cái",
+        "sampleSentence": "Children learn the alphabet at school.",
+        "vietnameseTranslation": "Trẻ em học bảng chữ cái ở trường.",
+        "wordPronunciation": "alphabet.wav",
+        "sentencePronunciation": "children-learn-the-alphabet-at-school.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        { "sentence": "Each picture _____s a physical thing.", "word": "represent" },
+        { "sentence": "Pictograms directly represent physical _____.", "word": "objects" },
+        { "sentence": "As _____ grew, civilization advanced.", "word": "society" },
+        { "sentence": "Writing became more _____ over time.", "word": "complex" },
+        { "sentence": "The Egyptians developed _____.", "word": "hieroglyphs" },
+        { "sentence": "The ancient _____ built great pyramids.", "word": "egyptians" },
+        { "sentence": "Pictures began to represent _____.", "word": "abstract concepts" },
+        { "sentence": "For _____, the ancient texts were lost.", "word": "centuries" },
+        { "sentence": "These symbols were a _____ to the modern world.", "word": "mystery" },
+        { "sentence": "Scientists finally managed to _____ the code.", "word": "decipher" },
+        { "sentence": "The _____ helped us understand the past.", "word": "rosetta stone" },
+        { "sentence": "The true language _____ came with the alphabet.", "word": "revolution" },
+        { "sentence": "Children learn the _____ at school.", "word": "alphabet" }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "The Evolution of Writing Systems" },
+              { "tag": "br" },
+              { "text": "Lesson 2: Vocabulary - Part 2" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [
+              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
+            "children": [
+              { "text": "Chúc các em học tốt!" }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

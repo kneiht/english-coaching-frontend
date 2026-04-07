@@ -1,0 +1,665 @@
+{
+  "lesson-4-reading": {
+    "background": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+    "title": "The Evolution of Writing Systems",
+    "description": "Lesson 4: Reading",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "candy-crush" },
+      { "type": "activity", "id": "cloze-game" },
+      { "type": "activity", "id": "reading-slides" },
+      { "type": "activity", "id": "reading-comprehension" }
+    ],
+    "vocab": [
+      {
+        "word": "inventions",
+        "phonics": "/ɪnˈvenʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/inventions.webp",
+        "vietnameseMeaning": "sáng chế, phát minh",
+        "sampleSentence": "Writing is one of the greatest inventions.",
+        "vietnameseTranslation": "Chữ viết là một trong những phát minh vĩ đại nhất.",
+        "wordPronunciation": "inventions.wav",
+        "sentencePronunciation": "writing-is-one-of-the-greatest-inventions.wav"
+      },
+      {
+        "word": "human history",
+        "phonics": "/ˈhjuːmən ˈhɪstri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/human-history.webp",
+        "vietnameseMeaning": "lịch sử nhân loại",
+        "sampleSentence": "It is an important event in human history.",
+        "vietnameseTranslation": "Đó là một sự kiện quan trọng trong lịch sử nhân loại.",
+        "wordPronunciation": "human-history.wav",
+        "sentencePronunciation": "it-is-an-important-event-in-human-history.wav"
+      },
+      {
+        "word": "generations",
+        "phonics": "/ˌdʒenəˈreɪʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/generations.webp",
+        "vietnameseMeaning": "thế hệ",
+        "sampleSentence": "Knowledge is passed down across generations.",
+        "vietnameseTranslation": "Kiến thức được truyền lại qua các thế hệ.",
+        "wordPronunciation": "generations.wav",
+        "sentencePronunciation": "knowledge-is-passed-down-across-generations.wav"
+      },
+      {
+        "word": "fascinating",
+        "phonics": "/ˈfæsɪneɪtɪŋ/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/fascinating.webp",
+        "vietnameseMeaning": "rất hấp dẫn, thú vị",
+        "sampleSentence": "The journey of writing is a fascinating story.",
+        "vietnameseTranslation": "Hành trình của chữ viết là một câu chuyện rất thú vị.",
+        "wordPronunciation": "fascinating.wav",
+        "sentencePronunciation": "the-journey-of-writing-is-a-fascinating-story.wav"
+      },
+      {
+        "word": "prehistoric",
+        "phonics": "/ˌpriːhɪˈstɒrɪk/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/prehistoric.webp",
+        "vietnameseMeaning": "thời tiền sử",
+        "sampleSentence": "Prehistoric people used simple tools.",
+        "vietnameseTranslation": "Người tiền sử đã sử dụng các công cụ đơn giản.",
+        "wordPronunciation": "prehistoric.wav",
+        "sentencePronunciation": "prehistoric-people-used-simple-tools.wav"
+      },
+      {
+        "word": "cave paintings",
+        "phonics": "/keɪv ˈpeɪntɪŋz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cave-paintings.webp",
+        "vietnameseMeaning": "tranh vẽ trên vách hang động",
+        "sampleSentence": "Cave paintings tell stories about hunting.",
+        "vietnameseTranslation": "Những bức vẽ trong hang động kể các câu chuyện về săn bắn.",
+        "wordPronunciation": "cave-paintings.wav",
+        "sentencePronunciation": "cave-paintings-tell-stories-about-hunting.wav"
+      },
+      {
+        "word": "ancient",
+        "phonics": "/ˈeɪnʃənt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/ancient.webp",
+        "vietnameseMeaning": "cổ đại",
+        "sampleSentence": "The ancient Sumerians created the first writing system.",
+        "vietnameseTranslation": "Người Sumer cổ đại đã tạo ra hệ thống chữ viết đầu tiên.",
+        "wordPronunciation": "ancient.wav",
+        "sentencePronunciation": "the-ancient-sumerians-created-the-first-writing-system.wav"
+      },
+      {
+        "word": "cuneiform",
+        "phonics": "/ˈkjuːnɪfɔːrm/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cuneiform.webp",
+        "vietnameseMeaning": "chữ hình nêm",
+        "sampleSentence": "Cuneiform is the oldest known writing system.",
+        "vietnameseTranslation": "Chữ hình nêm là hệ thống chữ viết cổ nhất được biết đến.",
+        "wordPronunciation": "cuneiform.wav",
+        "sentencePronunciation": "cuneiform-is-the-oldest-known-writing-system.wav"
+      },
+      {
+        "word": "carve",
+        "phonics": "/kɑːrv/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/carve.webp",
+        "vietnameseMeaning": "khắc, tạc",
+        "sampleSentence": "They learned to carve symbols onto clay.",
+        "vietnameseTranslation": "Họ học cách khắc các biểu tượng lên đất sét.",
+        "wordPronunciation": "carve.wav",
+        "sentencePronunciation": "they-learned-to-carve-symbols-onto-clay.wav"
+      },
+      {
+        "word": "clay tablets",
+        "phonics": "/kleɪ ˈtæbləts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/clay-tablets.webp",
+        "vietnameseMeaning": "phiến đất sét",
+        "sampleSentence": "Old records were kept on wet clay tablets.",
+        "vietnameseTranslation": "Các tài liệu cũ được lưu giữ trên các phiến đất sét ướt.",
+        "wordPronunciation": "clay-tablets.wav",
+        "sentencePronunciation": "old-records-were-kept-on-wet-clay-tablets.wav"
+      },
+      {
+        "word": "agricultural",
+        "phonics": "/ˌæɡrɪˈkʌltʃərəl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/agricultural.webp",
+        "vietnameseMeaning": "thuộc về nông nghiệp",
+        "sampleSentence": "Early writing recorded agricultural events.",
+        "vietnameseTranslation": "Chữ viết ban đầu dùng để ghi chép các sự kiện nông nghiệp.",
+        "wordPronunciation": "agricultural.wav",
+        "sentencePronunciation": "early-writing-recorded-agricultural-events.wav"
+      },
+      {
+        "word": "transactions",
+        "phonics": "/trænˈzækʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/transactions.webp",
+        "vietnameseMeaning": "giao dịch",
+        "sampleSentence": "People used writing to track business transactions.",
+        "vietnameseTranslation": "Mọi người dùng chữ viết để theo dõi các giao dịch kinh doanh.",
+        "wordPronunciation": "transactions.wav",
+        "sentencePronunciation": "people-used-writing-to-track-business-transactions.wav"
+      },
+      {
+        "word": "pictograms",
+        "phonics": "/ˈpɪktəɡræmz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/pictograms.webp",
+        "vietnameseMeaning": "chữ tượng hình",
+        "sampleSentence": "These early symbols were called pictograms.",
+        "vietnameseTranslation": "Những biểu tượng đầu tiên này được gọi là chữ tượng hình.",
+        "wordPronunciation": "pictograms.wav",
+        "sentencePronunciation": "these-early-symbols-were-called-pictograms.wav"
+      },
+      {
+        "word": "represent",
+        "phonics": "/ˌreprɪˈzent/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/represent.webp",
+        "vietnameseMeaning": "đại diện, tượng trưng",
+        "sampleSentence": "Each picture represents a physical thing.",
+        "vietnameseTranslation": "Mỗi bức hình tượng trưng cho một sự vật.",
+        "wordPronunciation": "represent.wav",
+        "sentencePronunciation": "each-picture-represents-a-physical-thing.wav"
+      },
+      {
+        "word": "objects",
+        "phonics": "/ˈɒbdʒɪkts/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/objects.webp",
+        "vietnameseMeaning": "đồ vật, sự vật",
+        "sampleSentence": "Pictograms directly represent physical objects.",
+        "vietnameseTranslation": "Chữ tượng hình diễn tả trực tiếp những đồ vật.",
+        "wordPronunciation": "objects.wav",
+        "sentencePronunciation": "pictograms-directly-represent-physical-objects.wav"
+      },
+      {
+        "word": "society",
+        "phonics": "/səˈsaɪəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/society.webp",
+        "vietnameseMeaning": "xã hội",
+        "sampleSentence": "As society grew, civilization advanced.",
+        "vietnameseTranslation": "Khi xã hội lớn mạnh, nền văn minh phát triển.",
+        "wordPronunciation": "society.wav",
+        "sentencePronunciation": "as-society-grew-civilization-advanced.wav"
+      },
+      {
+        "word": "complex",
+        "phonics": "/ˈkɒmpleks/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/complex.webp",
+        "vietnameseMeaning": "phức tạp",
+        "sampleSentence": "Writing became more complex over time.",
+        "vietnameseTranslation": "Chữ viết trở nên phức tạp hơn theo thời gian.",
+        "wordPronunciation": "complex.wav",
+        "sentencePronunciation": "writing-became-more-complex-over-time.wav"
+      },
+      {
+        "word": "hieroglyphs",
+        "phonics": "/ˈhaɪərəɡlɪfs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/hieroglyphs.webp",
+        "vietnameseMeaning": "chữ tượng hình Ai Cập",
+        "sampleSentence": "The Egyptians developed hieroglyphs.",
+        "vietnameseTranslation": "Người Ai Cập cổ đại đã phát triển chữ tượng hình Ai Cập.",
+        "wordPronunciation": "hieroglyphs.wav",
+        "sentencePronunciation": "the-egyptians-developed-hieroglyphs.wav"
+      },
+      {
+        "word": "egyptians",
+        "phonics": "/ɪˈdʒɪpʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/egyptians.webp",
+        "vietnameseMeaning": "người Ai Cập",
+        "sampleSentence": "The ancient Egyptians built great pyramids.",
+        "vietnameseTranslation": "Người Ai Cập cổ đại đã xây dựng những kim tự tháp vĩ đại.",
+        "wordPronunciation": "egyptians.wav",
+        "sentencePronunciation": "the-ancient-egyptians-built-great-pyramids.wav"
+      },
+      {
+        "word": "abstract concepts",
+        "phonics": "/ˈæbstrækt ˈkɒnseptz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/abstract-concepts.webp",
+        "vietnameseMeaning": "khái niệm trừu tượng",
+        "sampleSentence": "Pictures began to represent abstract concepts.",
+        "vietnameseTranslation": "Hình ảnh bắt đầu tượng trưng cho các khái niệm trừu tượng.",
+        "wordPronunciation": "abstract-concepts.wav",
+        "sentencePronunciation": "pictures-began-to-represent-abstract-concepts.wav"
+      },
+      {
+        "word": "centuries",
+        "phonics": "/ˈsentʃəriz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/centuries.webp",
+        "vietnameseMeaning": "thế kỷ",
+        "sampleSentence": "For centuries, the ancient texts were lost.",
+        "vietnameseTranslation": "Trong nhiều thế kỷ, các văn bản cổ đại đã bị thất lạc.",
+        "wordPronunciation": "centuries.wav",
+        "sentencePronunciation": "for-centuries-the-ancient-texts-were-lost.wav"
+      },
+      {
+        "word": "mystery",
+        "phonics": "/ˈmɪstəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mystery.webp",
+        "vietnameseMeaning": "sự bí ẩn",
+        "sampleSentence": "These symbols were a mystery to the modern world.",
+        "vietnameseTranslation": "Những biểu tượng này là một bí ẩn đối với thế giới hiện đại.",
+        "wordPronunciation": "mystery.wav",
+        "sentencePronunciation": "these-symbols-were-a-mystery-to-the-modern-world.wav"
+      },
+      {
+        "word": "decipher",
+        "phonics": "/dɪˈsaɪfər/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/decipher.webp",
+        "vietnameseMeaning": "giải mã",
+        "sampleSentence": "Scientists finally managed to decipher the code.",
+        "vietnameseTranslation": "Các nhà khoa học cuối cùng đã giải mã được đoạn mã.",
+        "wordPronunciation": "decipher.wav",
+        "sentencePronunciation": "scientists-finally-managed-to-decipher-the-code.wav"
+      },
+      {
+        "word": "rosetta stone",
+        "phonics": "/roʊˈzetə stoʊn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/rosetta-stone.webp",
+        "vietnameseMeaning": "phiến đá Rosetta",
+        "sampleSentence": "The Rosetta Stone helped us understand the past.",
+        "vietnameseTranslation": "Phiến đá Rosetta đã giúp chúng ta hiểu về quá khứ.",
+        "wordPronunciation": "rosetta-stone.wav",
+        "sentencePronunciation": "the-rosetta-stone-helped-us-understand-the-past.wav"
+      },
+      {
+        "word": "revolution",
+        "phonics": "/ˌrevəˈluːʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/revolution.webp",
+        "vietnameseMeaning": "cuộc cách mạng",
+        "sampleSentence": "The true language revolution came with the alphabet.",
+        "vietnameseTranslation": "Cuộc cách mạng ngôn ngữ thực sự đến cùng với bảng chữ cái.",
+        "wordPronunciation": "revolution.wav",
+        "sentencePronunciation": "the-true-language-revolution-came-with-the-alphabet.wav"
+      },
+      {
+        "word": "alphabet",
+        "phonics": "/ˈælfəbet/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/alphabet.webp",
+        "vietnameseMeaning": "bảng chữ cái",
+        "sampleSentence": "Children learn the alphabet at school.",
+        "vietnameseTranslation": "Trẻ em học bảng chữ cái ở trường.",
+        "wordPronunciation": "alphabet.wav",
+        "sentencePronunciation": "children-learn-the-alphabet-at-school.wav"
+      },
+      {
+        "word": "phoenicians",
+        "phonics": "/fɪˈnɪʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/phoenicians.webp",
+        "vietnameseMeaning": "người Phoenician",
+        "sampleSentence": "The Phoenicians invented a new phonetic system.",
+        "vietnameseTranslation": "Người Phoenician đã phát minh ra một hệ thống ngữ âm mới.",
+        "wordPronunciation": "phoenicians.wav",
+        "sentencePronunciation": "the-phoenicians-invented-a-new-phonetic-system.wav"
+      },
+      {
+        "word": "phonetic",
+        "phonics": "/fəˈnetɪk/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/phonetic.webp",
+        "vietnameseMeaning": "thuộc về ngữ âm",
+        "sampleSentence": "This new writing system was phonetic.",
+        "vietnameseTranslation": "Hệ thống chữ viết mới này có tính ngữ âm.",
+        "wordPronunciation": "phonetic.wav",
+        "sentencePronunciation": "this-new-writing-system-was-phonetic.wav"
+      },
+      {
+        "word": "character",
+        "phonics": "/ˈkærəktər/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/character.webp",
+        "vietnameseMeaning": "ký tự",
+        "sampleSentence": "Each character represents a distinct sound.",
+        "vietnameseTranslation": "Mỗi ký tự đại diện cho một âm thanh riêng biệt.",
+        "wordPronunciation": "character.wav",
+        "sentencePronunciation": "each-character-represents-a-distinct-sound.wav"
+      },
+      {
+        "word": "memorize",
+        "phonics": "/ˈmeməraɪz/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/memorize.webp",
+        "vietnameseMeaning": "ghi nhớ",
+        "sampleSentence": "Humans only needed to memorize about twenty letters.",
+        "vietnameseTranslation": "Con người chỉ cần nhớ khoảng 20 chữ cái.",
+        "wordPronunciation": "memorize.wav",
+        "sentencePronunciation": "humans-only-needed-to-memorize-about-twenty-letters.wav"
+      },
+      {
+        "word": "evolved",
+        "phonics": "/ɪˈvɒlvd/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/evolved.webp",
+        "vietnameseMeaning": "phát triển, tiến hóa",
+        "sampleSentence": "The system evolved into the Latin script.",
+        "vietnameseTranslation": "Hệ thống này đã phát triển thành chữ viết Latinh.",
+        "wordPronunciation": "evolved.wav",
+        "sentencePronunciation": "the-system-evolved-into-the-latin-script.wav"
+      },
+      {
+        "word": "latin script",
+        "phonics": "/ˈlætɪn skrɪpt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/latin-script.webp",
+        "vietnameseMeaning": "chữ viết Latinh",
+        "sampleSentence": "Many languages use the Latin script today.",
+        "vietnameseTranslation": "Rất nhiều ngôn ngữ hiện sử dụng chữ viết Latinh.",
+        "wordPronunciation": "latin-script.wav",
+        "sentencePronunciation": "many-languages-use-the-latin-script-today.wav"
+      },
+      {
+        "word": "digital era",
+        "phonics": "/ˈdɪdʒɪtl ˈɪrə/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/digital-era.webp",
+        "vietnameseMeaning": "thời đại kỹ thuật số",
+        "sampleSentence": "In the modern digital era, things move fast.",
+        "vietnameseTranslation": "Trong thời đại kỹ thuật số hiện đại, mọi thứ diễn ra rất nhanh.",
+        "wordPronunciation": "digital-era.wav",
+        "sentencePronunciation": "in-the-modern-digital-era-things-move-fast.wav"
+      },
+      {
+        "word": "emojis",
+        "phonics": "/ɪˈmoʊdʒiz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/emojis.webp",
+        "vietnameseMeaning": "biểu tượng cảm xúc",
+        "sampleSentence": "Emojis are a new type of picture writing.",
+        "vietnameseTranslation": "Biểu tượng cảm xúc là một dạng mới của chữ viết hình ảnh.",
+        "wordPronunciation": "emojis.wav",
+        "sentencePronunciation": "emojis-are-a-new-type-of-picture-writing.wav"
+      },
+      {
+        "word": "emerge",
+        "phonics": "/ɪˈmɜːrdʒ/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/emerge.webp",
+        "vietnameseMeaning": "xuất hiện",
+        "sampleSentence": "Emojis have emerged as a universal language.",
+        "vietnameseTranslation": "Biểu tượng cảm xúc đã nổi lên như một ngôn ngữ phổ quát.",
+        "wordPronunciation": "emerge.wav",
+        "sentencePronunciation": "emojis-have-emerged-as-a-universal-language.wav"
+      },
+      {
+        "word": "universal",
+        "phonics": "/ˌjuːnɪˈvɜːrsl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/universal.webp",
+        "vietnameseMeaning": "toàn cầu, phổ quát",
+        "sampleSentence": "Music is a universal form of communication.",
+        "vietnameseTranslation": "Âm nhạc là một phương pháp giao tiếp toàn cầu.",
+        "wordPronunciation": "universal.wav",
+        "sentencePronunciation": "music-is-a-universal-form-of-communication.wav"
+      },
+      {
+        "word": "emotional",
+        "phonics": "/ɪˈmoʊʃənl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/emotional.webp",
+        "vietnameseMeaning": "thuộc về cảm xúc",
+        "sampleSentence": "We add emotional context to our text messages.",
+        "vietnameseTranslation": "Chúng ta thêm bối cảnh cảm xúc cho tin nhắn văn bản của mình.",
+        "wordPronunciation": "emotional.wav",
+        "sentencePronunciation": "we-add-emotional-context-to-our-text-messages.wav"
+      },
+      {
+        "word": "expressions",
+        "phonics": "/ɪkˈspreʃnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/expressions.webp",
+        "vietnameseMeaning": "sự biểu đạt",
+        "sampleSentence": "Faces show different emotional expressions.",
+        "vietnameseTranslation": "Khuôn mặt hiển thị những biểu cảm khác nhau.",
+        "wordPronunciation": "expressions.wav",
+        "sentencePronunciation": "faces-show-different-emotional-expressions.wav"
+      },
+      {
+        "word": "visual",
+        "phonics": "/ˈvɪʒuəl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/visual.webp",
+        "vietnameseMeaning": "thị giác",
+        "sampleSentence": "Humans have a strong need for visual connection.",
+        "vietnameseTranslation": "Con người có một nhu cầu kết nối thị giác mạnh mẽ.",
+        "wordPronunciation": "visual.wav",
+        "sentencePronunciation": "humans-have-a-strong-need-for-visual-connection.wav"
+      },
+      {
+        "word": "communicate",
+        "phonics": "/kəˈmjuːnɪkeɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/communicate.webp",
+        "vietnameseMeaning": "giao tiếp",
+        "sampleSentence": "We can communicate faster than ever today.",
+        "vietnameseTranslation": "Ngày nay chúng ta có thể giao tiếp nhanh hơn bao giờ hết.",
+        "wordPronunciation": "communicate.wav",
+        "sentencePronunciation": "we-can-communicate-faster-than-ever-today.wav"
+      }
+    ],
+    "readingSlidesData": [
+      {
+        "audio": "https://storage.chillteacher.com/page-data/evolution-of-writing-systems/reading/audio/audio1.wav",
+        "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+        "title": "The Evolution of Writing Systems",
+        "text": ""
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/evolution-of-writing-systems/reading/audio/audio2.wav",
+        "image": "https://images.unsplash.com/photo-1490124430412-297facc515ed",
+        "textTitle": "Introduction",
+        "text": "Writing is one of the greatest inventions in human history. It allows us to share stories, keep records, and pass down knowledge across generations. But how did we get here? The journey of writing systems is a fascinating story that started thousands of years ago."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/evolution-of-writing-systems/reading/audio/audio3.wav",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+        "textTitle": "The Dawn of Writing",
+        "text": "The dawn of writing began with prehistoric people. They created simple cave paintings to tell stories about hunting and daily life. Later, around 3200 BC, the ancient Sumerians created the first real writing system called cuneiform. They learned to carve symbols onto wet clay tablets to record agricultural transactions. These early symbols were called pictograms, which directly represent physical objects."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/evolution-of-writing-systems/reading/audio/audio4.wav",
+        "image": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368",
+        "textTitle": "Complexity and Hieroglyphs",
+        "text": "As society grew, writing became more complex. The Egyptians developed hieroglyphs, a system that used beautiful pictures to represent not just objects, but also abstract concepts. For centuries, these symbols were a mystery to the modern world, until scientists finally managed to decipher them using the famous Rosetta Stone."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/evolution-of-writing-systems/reading/audio/audio5.wav",
+        "image": "https://images.unsplash.com/photo-1473186578172-c141e6798ee4",
+        "textTitle": "The Alphabet Revolution",
+        "text": "The true language revolution came with the alphabet. Instead of creating thousands of pictures, the Phoenicians invented a new system that was phonetic, meaning each character represented a sound. Thanks to this, humans only needed to memorize about twenty letters to form any word. Over time, this system evolved into the Latin script we use today."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/evolution-of-writing-systems/reading/audio/audio6.wav",
+        "image": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42",
+        "textTitle": "The Modern Digital Era",
+        "text": "Interestingly, in the modern digital era, we have seen a return to picture writing. Emojis have emerged as a universal way to add emotional expressions to our text messages. They show us that while we communicate faster than ever, our human need for visual connection remains unchanged."
+      }
+    ],
+    "readingComprehensionData": {
+      "title": "The Evolution of Writing Systems",
+      "passage": [
+        {
+          "content": "Writing is one of the greatest inventions in human history. It allows us to share stories, keep records, and pass down knowledge across generations. But how did we get here? The journey of writing systems is a fascinating story that started thousands of years ago."
+        },
+        {
+          "heading": "The Dawn of Writing",
+          "content": "The dawn of writing began with prehistoric people. They created simple cave paintings to tell stories about hunting and daily life. Later, around 3200 BC, the ancient Sumerians created the first real writing system called cuneiform. They learned to carve symbols onto wet clay tablets to record agricultural transactions. These early symbols were called pictograms, which directly represent physical objects."
+        },
+        {
+          "heading": "Complexity and Hieroglyphs",
+          "content": "As society grew, writing became more complex. The Egyptians developed hieroglyphs, a system that used beautiful pictures to represent not just objects, but also abstract concepts. For centuries, these symbols were a mystery to the modern world, until scientists finally managed to decipher them using the famous Rosetta Stone."
+        },
+        {
+          "heading": "The Alphabet Revolution",
+          "content": "The true language revolution came with the alphabet. Instead of creating thousands of pictures, the Phoenicians invented a new system that was phonetic, meaning each character represented a sound. Thanks to this, humans only needed to memorize about twenty letters to form any word. Over time, this system evolved into the Latin script we use today."
+        },
+        {
+          "heading": "The Modern Digital Era",
+          "content": "Interestingly, in the modern digital era, we have seen a return to picture writing. Emojis have emerged as a universal way to add emotional expressions to our text messages. They show us that while we communicate faster than ever, our human need for visual connection remains unchanged."
+        }
+      ],
+      "questions": {
+        "singleChoice": [
+          {
+            "id": "sc1",
+            "prompt": "When did the ancient Sumerians create the first writing system?",
+            "options": [
+              { "value": "1000bc", "label": "Around 1000 BC" },
+              { "value": "3200bc", "label": "Around 3200 BC" },
+              { "value": "2000ad", "label": "Around 2000 AD" }
+            ],
+            "correct": "3200bc"
+          },
+          {
+            "id": "sc2",
+            "prompt": "What material did the Sumerians use to carve symbols?",
+            "options": [
+              { "value": "paper", "label": "Paper and ink" },
+              { "value": "rock", "label": "Hard rocks" },
+              { "value": "clay", "label": "Wet clay tablets" }
+            ],
+            "correct": "clay"
+          },
+          {
+            "id": "sc3",
+            "prompt": "What was the Rosetta Stone used for?",
+            "options": [
+              { "value": "building", "label": "Building pyramids" },
+              { "value": "decipher", "label": "To decipher hieroglyphs" },
+              { "value": "decoration", "label": "For decoration" }
+            ],
+            "correct": "decipher"
+          },
+          {
+            "id": "sc4",
+            "prompt": "What was the main advantage of the Phoenician alphabet?",
+            "options": [
+              { "value": "colorful", "label": "It used colorful pictures" },
+              { "value": "memorize", "label": "Only needed to memorize about twenty letters" },
+              { "value": "wet-clay", "label": "It was faster to carve on wet clay" }
+            ],
+            "correct": "memorize"
+          }
+        ],
+        "tfng": [
+          {
+            "id": "tf1",
+            "statement": "Cave paintings were the first real writing system.",
+            "correct": "false"
+          },
+          {
+            "id": "tf2",
+            "statement": "Cuneiform was carved onto clay tablets.",
+            "correct": "true"
+          },
+          {
+            "id": "tf3",
+            "statement": "Hieroglyphs only represented physical objects.",
+            "correct": "false"
+          },
+          {
+            "id": "tf4",
+            "statement": "Emojis are considered a return to picture writing.",
+            "correct": "true"
+          },
+          {
+            "id": "tf5",
+            "statement": "The Phoenician system was based on sounds.",
+            "correct": "true"
+          }
+        ],
+        "matching": {
+          "questions": [
+            { "id": "m1", "statement": "Sumerians", "correct": "option1" },
+            { "id": "m2", "statement": "Egyptians", "correct": "option2" },
+            { "id": "m3", "statement": "Phoenicians", "correct": "option3" }
+          ],
+          "options": [
+            { "value": "option1", "label": "Cuneiform and clay tablets" },
+            { "value": "option2", "label": "Hieroglyphs and abstract concepts" },
+            { "value": "option3", "label": "Alphabet and phonetic characters" }
+          ]
+        },
+        "summary": [
+          {
+            "id": "sum1",
+            "prompt": "The journey of writing began with prehistoric people as _____ paintings.",
+            "answers": ["cave"]
+          },
+          {
+            "id": "sum2",
+            "prompt": "Ancient Sumerians created the first real writing system called _____.",
+            "answers": ["cuneiform"]
+          },
+          {
+            "id": "sum3",
+            "prompt": "The true revolution came with the alphabet, where each character represented a _____.",
+            "answers": ["sound"]
+          }
+        ]
+      }
+    },
+    "clozeData": {
+      "paragraph": "Writing is one of the greatest _____ in human history. The dawn of writing began with prehistoric people and their cave paintings. Later, the ancient Sumerians created _____ on wet clay tablets. Then, the Egyptians developed _____, which represented both objects and abstract concepts. The true revolution came with the Phoenicians, who invented a _____ system. Today, in the digital era, _____ have emerged as a universal language for emotional expressions.",
+      "words": ["inventions", "cuneiform", "hieroglyphs", "phonetic", "emojis"]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "The Evolution of Writing Systems" },
+              { "tag": "br" },
+              { "text": "Lesson 4: Reading" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [
+              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              { "tag": "li", "children": [ { "text": "Ôn tập lại từ vựng cũ bằng Flashcards." } ] },
+              { "tag": "li", "children": [ { "text": "Luyện tập kỹ năng đọc và làm bài tập Comprehension." } ] },
+              { "tag": "li", "children": [ { "text": "Luyện đọc thành tiếng và ghi âm nộp cho giáo viên." } ] }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
+            "children": [
+              { "text": "Chúc các em học tốt!" }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

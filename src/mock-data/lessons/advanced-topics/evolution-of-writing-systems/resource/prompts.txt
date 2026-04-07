@@ -1,0 +1,202 @@
+[
+  {
+    "object": "inventions",
+    "prompt": "a cinematic photograph of historical inventions like early wheels and ancient tools glowing in a dark museum, representing human innovation",
+    "filename": "inventions.png"
+  },
+  {
+    "object": "human history",
+    "prompt": "a dramatic photograph of a glowing timeline path stretching into a cosmic background, representing the rich journey of human history",
+    "filename": "human-history.png"
+  },
+  {
+    "object": "generations",
+    "prompt": "a heartwarming photograph of an elderly woman holding hands with a young child, representing the passing of knowledge across generations",
+    "filename": "generations.png"
+  },
+  {
+    "object": "fascinating",
+    "prompt": "a photograph of a person with wide eyes looking at a glowing, magical artifact in their hands, representing a fascinating discovery",
+    "filename": "fascinating.png"
+  },
+  {
+    "object": "prehistoric",
+    "prompt": "a dramatic photograph of prehistoric early humans gathered around a campfire in front of a cave entrance at twilight",
+    "filename": "prehistoric.png"
+  },
+  {
+    "object": "cave paintings",
+    "prompt": "a breathtaking photograph of ancient red and ochre cave paintings of bison and hunters illuminated by torchlight on a rough rock wall",
+    "filename": "cave-paintings.png"
+  },
+  {
+    "object": "ancient",
+    "prompt": "a cinematic photograph of an ancient stone temple ruin in a dense jungle bathed in mysterious golden sunlight",
+    "filename": "ancient.png"
+  },
+  {
+    "object": "cuneiform",
+    "prompt": "a highly detailed macro photograph of an ancient Sumerian clay tablet covered in wedge-shaped cuneiform writing",
+    "filename": "cuneiform.png"
+  },
+  {
+    "object": "carve",
+    "prompt": "a photograph of a stone carver's hands carefully using a chisel and hammer to carve symbols into a block of sandstone",
+    "filename": "carve.png"
+  },
+  {
+    "object": "clay tablets",
+    "prompt": "a conceptual photograph of several ancient cracked clay tablets with inscriptions resting on a dusty wooden museum table",
+    "filename": "clay-tablets.png"
+  },
+  {
+    "object": "agricultural",
+    "prompt": "a stunning wide photograph of golden wheat fields ready for harvest at sunset, representing agricultural society",
+    "filename": "agricultural.png"
+  },
+  {
+    "object": "transactions",
+    "prompt": "a dramatic photograph of two ancient merchants exchanging gold coins and goods in a busy desert marketplace, representing transactions",
+    "filename": "transactions.png"
+  },
+  {
+    "object": "pictograms",
+    "prompt": "a sharp photograph of simple pictograms carved into a stone wall showing a sun, water, and an animal, representing early writing",
+    "filename": "pictograms.png"
+  },
+  {
+    "object": "represent",
+    "prompt": "a conceptual photograph of a physical apple standing next to a hand-drawn picture of an apple, showing how art represents reality",
+    "filename": "represent.png"
+  },
+  {
+    "object": "objects",
+    "prompt": "a clean still-life photograph of various simple physical objects like a stone, a leaf, and a wooden bowl on a table",
+    "filename": "objects.png"
+  },
+  {
+    "object": "society",
+    "prompt": "a sweeping photograph of a bustling ancient city with people of all walks of life interacting peacefully, representing society",
+    "filename": "society.png"
+  },
+  {
+    "object": "complex",
+    "prompt": "a detailed artistic photograph of a highly complex clockwork gear mechanism interlocking perfectly",
+    "filename": "complex.png"
+  },
+  {
+    "object": "hieroglyphs",
+    "prompt": "a stunning photograph of ancient Egyptian hieroglyphs deeply carved into a golden sandstone temple wall, brightly lit by sunlight",
+    "filename": "hieroglyphs.png"
+  },
+  {
+    "object": "egyptians",
+    "prompt": "a historical cinematic photograph of ancient Egyptians in traditional white linen garments standing before a massive temple column",
+    "filename": "egyptians.png"
+  },
+  {
+    "object": "abstract concepts",
+    "prompt": "a surreal and conceptual dreamy photograph of floating glowing orbs and mathematical symbols, representing abstract concepts like time and thought",
+    "filename": "abstract-concepts.png"
+  },
+  {
+    "object": "centuries",
+    "prompt": "a time-lapse metaphor photograph of an ancient stone statue weathered by wind and time, showing the passage of centuries",
+    "filename": "centuries.png"
+  },
+  {
+    "object": "mystery",
+    "prompt": "a moody photograph of an old partially opened treasure chest glowing with a strange blue light in a dark room, representing mystery",
+    "filename": "mystery.png"
+  },
+  {
+    "object": "decipher",
+    "prompt": "a photograph of an archaeologist using a magnifying glass to carefully decipher strange ancient writing on a papyrus scroll",
+    "filename": "decipher.png"
+  },
+  {
+    "object": "rosetta stone",
+    "prompt": "a highly detailed hyperrealistic photograph of the Rosetta Stone artifact in a dark museum with a beam of light highlighting its three distinct language sections",
+    "filename": "rosetta-stone.png"
+  },
+  {
+    "object": "revolution",
+    "prompt": "a conceptual artistic photograph of a dark stone cracking open to reveal a bright, glowing core of pure light, representing a grand revolution",
+    "filename": "revolution.png"
+  },
+  {
+    "object": "alphabet",
+    "prompt": "a beautiful macro photograph of vintage wooden alphabet letter press blocks neatly arranged on a table",
+    "filename": "alphabet.png"
+  },
+  {
+    "object": "phoenicians",
+    "prompt": "a cinematic photograph of ancient Phoenician sailors on a wooden sailing ship holding trading scripts during a sunny Mediterranean day",
+    "filename": "phoenicians.png"
+  },
+  {
+    "object": "phonetic",
+    "prompt": "a conceptual photograph of sound waves flowing out of a person's mouth and turning into glowing floating letters, representing phonetic writing",
+    "filename": "phonetic.png"
+  },
+  {
+    "object": "character",
+    "prompt": "a close-up dramatic photograph of a single black ink character freshly painted on thick white parchment paper using a calligraphy brush",
+    "filename": "character.png"
+  },
+  {
+    "object": "memorize",
+    "prompt": "a photograph of a diligent student in an old library pointing at a book and touching their glowing temple, representing attempting to memorize",
+    "filename": "memorize.png"
+  },
+  {
+    "object": "evolved",
+    "prompt": "a bright conceptual photograph showing the transformation of an old feather quill pen dissolving into a glowing modern glowing digital stylus, representing how tools evolved",
+    "filename": "evolved.png"
+  },
+  {
+    "object": "latin script",
+    "prompt": "a stunning photograph of classical Latin script elegant handwriting on old parchment with a gold nib pen nearby",
+    "filename": "latin-script.png"
+  },
+  {
+    "object": "digital era",
+    "prompt": "a sleek cyberpunk photograph of glowing blue digital code streams passing through optic fibers, representing the high-tech digital era",
+    "filename": "digital-era.png"
+  },
+  {
+    "object": "emojis",
+    "prompt": "a vibrant photograph of bright yellow 3D emoji faces floating outwards from a modern smartphone screen",
+    "filename": "emojis.png"
+  },
+  {
+    "object": "emerge",
+    "prompt": "a hopeful photograph of a single green seedling pushing up and emerging from thick dark soil under sunlight",
+    "filename": "emerge.png"
+  },
+  {
+    "object": "universal",
+    "prompt": "a beautiful photograph of the Earth globe surrounded by warm glowing connected lights showing global universal communication",
+    "filename": "universal.png"
+  },
+  {
+    "object": "emotional",
+    "prompt": "a dramatic portrait photograph focusing on the expressive eyes and face of a person, conveying deep emotional feeling without words",
+    "filename": "emotional.png"
+  },
+  {
+    "object": "expressions",
+    "prompt": "a fun composite photograph of the same person showing 4 different strong facial expressions (joy, surprise, sadness, anger)",
+    "filename": "expressions.png"
+  },
+  {
+    "object": "visual",
+    "prompt": "a striking photograph focusing on the intricate colorful iris of a human eye looking directly into the lens, representing visual perception",
+    "filename": "visual.png"
+  },
+  {
+    "object": "communicate",
+    "prompt": "a heartwarming photograph of two people sitting together and happily talking, surrounded by warm light, representing human connection and communication",
+    "filename": "communicate.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "image1.webp",
+    "prompt": "Full Shot: A grand, cinematic collage showing the history of writing systems. From left to right, it transitions from primitive cave paintings on stone walls, to Sumerian clay tablets with cuneiform, to Egyptian papyrus with golden hieroglyphs, to an ancient Greek scroll, and finally to a clean, modern digital tablet displaying text and bright emojis. The lighting is warm and epic, representating the dawn of civilization. 8k resolution, high detail."
+  },
+  {
+    "filename": "image2.webp",
+    "prompt": "Medium Shot: An ancient storyteller in a mystical library, surround by glowing scrolls and books, sharing a story with a group of diverse people from different eras. Warm amber lighting, dust particles in the air, representing the sharing of knowledge across generations. Soft focus background, high cinematic quality."
+  },
+  {
+    "filename": "image3.webp",
+    "prompt": "Close-up: A pair of weathered hands of an ancient Sumerian scribe carving sharp, wedge-shaped cuneiform symbols onto a smooth, wet clay tablet using a wooden reed stylus. Sunlight filters into the temple, highlighting the texture of the clay and the depth of the carvings. Authentic historical detail, 8k."
+  },
+  {
+    "filename": "image4.webp",
+    "prompt": "Medium Shot: An Egyptian scribe sitting in a sunlit temple room, carefully painting colorful and intricate hieroglyphs onto a long, textured papyrus scroll. Golden ornaments, blue pigment, and black ink jars are nearby. The background shows carved stone pillars. Vivid colors, cinematic lighting, historical accuracy."
+  },
+  {
+    "filename": "image5.webp",
+    "prompt": "Close-up: A piece of light-colored stone with clean, simple Phoenician alphabet characters carved into it. A hand holds a small iron tool near the stone. The background is a bustling ancient Mediterranean marketplace with ships and trader stalls. Sharp focus on the letters, bright daylight, 8k."
+  },
+  {
+    "filename": "image6.webp",
+    "prompt": "Close-up: A sleek, modern smartphone held by a hand. The screen is filled with a vibrant, colorful cloud of various emojis—smiling faces, hearts, animals, and symbols—bursting from a text message. The background is a soft-lit, modern urban café at night. Sharp focus, brilliant colors, high digital quality."
+  }
+]

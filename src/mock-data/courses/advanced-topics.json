@@ -2,6 +2,86 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-1-vocab",
+    "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-2-vocab",
+    "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-3-vocab",
+    "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-4-reading",
+    "lessonDisplay": "Lesson 4: Reading",
+    "description": "Reading",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-5-listening",
+    "lessonDisplay": "Lesson 5: Listening",
+    "description": "Listening",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-6-shadowing",
+    "lessonDisplay": "Lesson 6: Shadowing",
+    "description": "Shadowing",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-7-writing",
+    "lessonDisplay": "Lesson 7: Writing",
+    "description": "Writing",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "evolution-of-writing-systems",
+    "unitDisplay": "Evolution of Writing Systems",
+    "lesson": "lesson-8-presentation",
+    "lessonDisplay": "Lesson 8: Presentation",
+    "description": "Presentation",
+    "bg": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "types-of-bridges",
     "unitDisplay": "Types of Bridges",
     "lesson": "lesson-1-vocab",
