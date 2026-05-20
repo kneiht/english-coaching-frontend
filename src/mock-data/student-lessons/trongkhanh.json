@@ -26,7 +26,6 @@
       "unit": "multiple-intelligence-theory",
       "lesson": "lesson-6-shadowing"
     },
-
     {
       "course": "advanced-topics",
       "unit": "multiple-intelligence-theory",
@@ -181,6 +180,11 @@
       "course": "advanced-topics",
       "unit": "evolution-of-writing-systems",
       "lesson": "lesson-1-vocab"
+    },
+    {
+      "course": "advanced-topics",
+      "unit": "evolution-of-writing-systems",
+      "lesson": "lesson-2-vocab"
     }
   ]
 }
