@@ -41,7 +41,6 @@
       "unit": "whales-guardians-of-the-climate",
       "lesson": "lesson-8-presentation"
     },
-
     {
       "course": "advanced-topics",
       "unit": "multiple-intelligence-theory",
@@ -241,6 +240,11 @@
       "course": "advanced-topics",
       "unit": "evolution-of-writing-systems",
       "lesson": "lesson-1-vocab"
+    },
+    {
+      "course": "advanced-topics",
+      "unit": "evolution-of-writing-systems",
+      "lesson": "lesson-2-vocab"
     }
   ]
 }
