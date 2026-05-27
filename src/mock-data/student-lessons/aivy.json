@@ -101,7 +101,6 @@
       "unit": "music-language-we-all-speak",
       "lesson": "lesson-8-presentation"
     },
-
     {
       "course": "advanced-topics",
       "unit": "light-pollution",
@@ -160,7 +159,7 @@
     {
       "course": "advanced-topics",
       "unit": "types-of-bridges",
-      "lesson": "reading"
+      "lesson": "lesson-4-reading"
     }
   ]
 }
