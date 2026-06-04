@@ -2,6 +2,36 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-1-vocab",
+    "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-2-vocab",
+    "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-3-vocab",
+    "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "evolution-of-writing-systems",
     "unitDisplay": "Evolution of Writing Systems",
     "lesson": "lesson-1-vocab",
@@ -159,7 +189,6 @@
     "description": "Presentation",
     "bg": "https://media.cnn.com/api/v1/images/stellar/prod/181002113456-01-golden-gate-bridge-restricted.jpg?q=w_3653,h_2055,x_0,y_0,c_fill"
   },
-
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
@@ -240,7 +269,6 @@
     "description": "Presentation",
     "bg": "https://4kwallpapers.com/images/wallpapers/cityscape-night-city-city-lights-skyline-clouds-reflections-7087x4724-9017.jpg"
   },
-
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
@@ -401,7 +429,6 @@
     "description": "Presentation",
     "bg": "https://hips.hearstapps.com/hmg-prod/images/decorated-christmas-tree-near-fireplace-at-home-royalty-free-image-1731335629.jpg?crop=1xw:0.84375xh;0,0.0538xh"
   },
-
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
@@ -482,7 +509,6 @@
     "description": "Presentation",
     "bg": "https://storage.chillteacher.com/backgrounds/lessons/whales-guardians-of-the-climate.webp"
   },
-
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",

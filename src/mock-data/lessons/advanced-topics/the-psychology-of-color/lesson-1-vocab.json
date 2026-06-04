@@ -1,0 +1,240 @@
+{
+  "lesson-1-vocab": {
+    "background": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": "The Psychology of Color",
+    "description": "Lesson 1: Vocabulary - Part 1",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "vocab": [
+      {
+        "word": "affect",
+        "phonics": "/əˈfekt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/affect.webp",
+        "vietnameseMeaning": "ảnh hưởng, tác động",
+        "sampleSentence": "The weather can affect your mood.",
+        "vietnameseTranslation": "Thời tiết có thể ảnh hưởng đến tâm trạng của bạn.",
+        "wordPronunciation": "affect.wav",
+        "sentencePronunciation": "the-weather-can-affect-your-mood.wav"
+      },
+      {
+        "word": "mood",
+        "phonics": "/muːd/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mood.webp",
+        "vietnameseMeaning": "tâm trạng",
+        "sampleSentence": "I am in a good mood today.",
+        "vietnameseTranslation": "Hôm nay tôi có tâm trạng rất tốt.",
+        "wordPronunciation": "mood.wav",
+        "sentencePronunciation": "i-am-in-a-good-mood-today.wav"
+      },
+      {
+        "word": "feelings",
+        "phonics": "/ˈfiːlɪŋz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/feelings.webp",
+        "vietnameseMeaning": "cảm xúc, cảm giác",
+        "sampleSentence": "Colors can change our feelings.",
+        "vietnameseTranslation": "Màu sắc có thể thay đổi cảm xúc của chúng ta.",
+        "wordPronunciation": "feelings.wav",
+        "sentencePronunciation": "colors-can-change-our-feelings.wav"
+      },
+      {
+        "word": "behavior",
+        "phonics": "/bɪˈheɪvjər/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/behavior.webp",
+        "vietnameseMeaning": "hành vi, cách cư xử",
+        "sampleSentence": "Good design can change human behavior.",
+        "vietnameseTranslation": "Thiết kế tốt có thể thay đổi hành vi của con người.",
+        "wordPronunciation": "behavior.wav",
+        "sentencePronunciation": "good-design-can-change-human-behavior.wav"
+      },
+      {
+        "word": "trigger",
+        "phonics": "/ˈtrɪɡər/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/trigger.webp",
+        "vietnameseMeaning": "kích hoạt, khơi nguồn",
+        "sampleSentence": "Red can trigger energy.",
+        "vietnameseTranslation": "Màu đỏ có thể khơi nguồn năng lượng.",
+        "wordPronunciation": "trigger.wav",
+        "sentencePronunciation": "red-can-trigger-energy.wav"
+      },
+      {
+        "word": "mental",
+        "phonics": "/ˈmentl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/mental.webp",
+        "vietnameseMeaning": "thuộc tinh thần, trí óc",
+        "sampleSentence": "Doing puzzles is good for mental health.",
+        "vietnameseTranslation": "Chơi giải đố rất tốt cho sức khỏe tinh thần.",
+        "wordPronunciation": "mental.wav",
+        "sentencePronunciation": "doing-puzzles-is-good-for-mental-health.wav"
+      },
+      {
+        "word": "association",
+        "phonics": "/əˌsoʊʃiˈeɪʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/association.webp",
+        "vietnameseMeaning": "sự liên tưởng, kết nối",
+        "sampleSentence": "Many people make an association between blue and sky.",
+        "vietnameseTranslation": "Nhiều người liên tưởng màu xanh dương với bầu trời.",
+        "wordPronunciation": "association.wav",
+        "sentencePronunciation": "many-people-make-an-association-between-blue-and-sky.wav"
+      },
+      {
+        "word": "reaction",
+        "phonics": "/riˈækʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/reaction.webp",
+        "vietnameseMeaning": "phản ứng",
+        "sampleSentence": "What is your reaction to this color?",
+        "vietnameseTranslation": "Phản ứng của bạn đối với màu sắc này là gì?",
+        "wordPronunciation": "reaction.wav",
+        "sentencePronunciation": "what-is-your-reaction-to-this-color.wav"
+      },
+      {
+        "word": "attention",
+        "phonics": "/əˈtenʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/attention.webp",
+        "vietnameseMeaning": "sự chú ý",
+        "sampleSentence": "Yellow signs grab our attention quickly.",
+        "vietnameseTranslation": "Biển báo màu vàng thu hút sự chú ý của chúng ta nhanh chóng.",
+        "wordPronunciation": "attention.wav",
+        "sentencePronunciation": "yellow-signs-grab-our-attention-quickly.wav"
+      },
+      {
+        "word": "focus",
+        "phonics": "/ˈfoʊkəs/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/focus.webp",
+        "vietnameseMeaning": "sự tập trung / tập trung",
+        "sampleSentence": "Soft green helps me focus on study.",
+        "vietnameseTranslation": "Màu xanh lá nhẹ giúp tôi tập trung vào việc học.",
+        "wordPronunciation": "focus.wav",
+        "sentencePronunciation": "soft-green-helps-me-focus-on-study.wav"
+      },
+      {
+        "word": "memory",
+        "phonics": "/ˈmeməri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/memory.webp",
+        "vietnameseMeaning": "trí nhớ, kỷ niệm",
+        "sampleSentence": "This blue color brings back a memory of the sea.",
+        "vietnameseTranslation": "Màu xanh dương này gợi lại kỷ niệm về biển cả.",
+        "wordPronunciation": "memory.wav",
+        "sentencePronunciation": "this-blue-color-brings-back-a-memory-of-the-sea.wav"
+      },
+      {
+        "word": "hidden",
+        "phonics": "/ˈhɪdn/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/hidden.webp",
+        "vietnameseMeaning": "ẩn giấu, ngầm",
+        "sampleSentence": "Colors have a hidden power.",
+        "vietnameseTranslation": "Màu sắc có một sức mạnh ẩn giấu.",
+        "wordPronunciation": "hidden.wav",
+        "sentencePronunciation": "colors-have-a-hidden-power.wav"
+      },
+      {
+        "word": "signal",
+        "phonics": "/ˈsɪɡnəl/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/signal.webp",
+        "vietnameseMeaning": "báo hiệu",
+        "sampleSentence": "Red lights signal cars to stop.",
+        "vietnameseTranslation": "Đèn đỏ báo hiệu ô tô dừng lại.",
+        "wordPronunciation": "signal.wav",
+        "sentencePronunciation": "red-lights-signal-cars-to-stop.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        { "sentence": "The weather can _____ your mood.", "word": "affect" },
+        { "sentence": "I am in a good _____ today.", "word": "mood" },
+        { "sentence": "Colors can change our _____.", "word": "feelings" },
+        { "sentence": "Good design can change human _____.", "word": "behavior" },
+        { "sentence": "Red can _____ energy.", "word": "trigger" },
+        { "sentence": "Doing puzzles is good for _____ health.", "word": "mental" },
+        { "sentence": "Many people make an _____ between blue and sky.", "word": "association" },
+        { "sentence": "What is your _____ to this color?", "word": "reaction" },
+        { "sentence": "Yellow signs grab our _____ quickly.", "word": "attention" },
+        { "sentence": "Soft green helps me _____ on study.", "word": "focus" },
+        { "sentence": "This blue color brings back a _____ of the sea.", "word": "memory" },
+        { "sentence": "Colors have a _____ power.", "word": "hidden" },
+        { "sentence": "Red lights _____ cars to stop.", "word": "signal" }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "The Psychology of Color" },
+              { "tag": "br" },
+              { "text": "Lesson 1: Vocabulary - Part 1" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [
+              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
+            "children": [
+              { "text": "Chúc các em học tốt!" }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

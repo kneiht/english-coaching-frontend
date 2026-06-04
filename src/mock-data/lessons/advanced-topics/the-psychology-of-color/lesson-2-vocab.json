@@ -1,0 +1,252 @@
+{
+  "lesson-2-vocab": {
+    "background": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": "The Psychology of Color",
+    "description": "Lesson 2: Vocabulary - Part 2",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "vocabulary" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "activity", "id": "matching-game" },
+      { "type": "activity", "id": "memory-game" },
+      { "type": "activity", "id": "multiple-choice-envi" },
+      { "type": "activity", "id": "multiple-choice-vien" },
+      { "type": "activity", "id": "picture-choice" },
+      { "type": "activity", "id": "image-reveal" },
+      { "type": "activity", "id": "picture-typing" },
+      { "type": "activity", "id": "listening-typing" },
+      { "type": "activity", "id": "listening-sentence" },
+      { "type": "activity", "id": "translation-game" },
+      { "type": "activity", "id": "cloze-game" }
+    ],
+    "vocab": [
+      {
+        "word": "warm colors",
+        "phonics": "/wɔːrm ˈkʌlərz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/warm-colors.webp",
+        "vietnameseMeaning": "tông màu ấm",
+        "sampleSentence": "Warm colors are great for living rooms.",
+        "vietnameseTranslation": "Tông màu ấm rất tuyệt cho phòng khách.",
+        "wordPronunciation": "warm-colors.wav",
+        "sentencePronunciation": "warm-colors-are-great-for-living-rooms.wav"
+      },
+      {
+        "word": "cool colors",
+        "phonics": "/kuːl ˈkʌlərz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cool-colors.webp",
+        "vietnameseMeaning": "tông màu lạnh",
+        "sampleSentence": "Cool colors can help you sleep better.",
+        "vietnameseTranslation": "Tông màu lạnh có thể giúp bạn ngủ ngon hơn.",
+        "wordPronunciation": "cool-colors.wav",
+        "sentencePronunciation": "cool-colors-can-help-you-sleep-better.wav"
+      },
+      {
+        "word": "calmness",
+        "phonics": "/ˈkɑːmnəs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/calmness.webp",
+        "vietnameseMeaning": "sự yên bình, điềm tĩnh",
+        "sampleSentence": "The calmness of blue relaxes my mind.",
+        "vietnameseTranslation": "Sự yên bình của màu xanh dương làm thư giãn tâm trí tôi.",
+        "wordPronunciation": "calmness.wav",
+        "sentencePronunciation": "the-calmness-of-blue-relaxes-my-mind.wav"
+      },
+      {
+        "word": "trust",
+        "phonics": "/trʌst/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/trust.webp",
+        "vietnameseMeaning": "niềm tin, sự tin tưởng",
+        "sampleSentence": "Blue is the color of trust.",
+        "vietnameseTranslation": "Xanh dương là màu sắc của niềm tin.",
+        "wordPronunciation": "trust.wav",
+        "sentencePronunciation": "blue-is-the-color-of-trust.wav"
+      },
+      {
+        "word": "peace",
+        "phonics": "/piːs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/peace.webp",
+        "vietnameseMeaning": "sự bình yên, hòa bình",
+        "sampleSentence": "White represents peace.",
+        "vietnameseTranslation": "Màu trắng đại diện cho sự bình yên.",
+        "wordPronunciation": "peace.wav",
+        "sentencePronunciation": "white-represents-peace.wav"
+      },
+      {
+        "word": "appetite",
+        "phonics": "/ˈæpɪtaɪt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/appetite.webp",
+        "vietnameseMeaning": "sự thèm ăn",
+        "sampleSentence": "Red stimulates our appetite.",
+        "vietnameseTranslation": "Màu đỏ kích thích sự thèm ăn của chúng ta.",
+        "wordPronunciation": "appetite.wav",
+        "sentencePronunciation": "red-stimulates-our-appetite.wav"
+      },
+      {
+        "word": "caution",
+        "phonics": "/ˈcɔːʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/caution.webp",
+        "vietnameseMeaning": "sự cẩn trọng, cảnh báo",
+        "sampleSentence": "Use caution when crossing the street.",
+        "vietnameseTranslation": "Hãy cẩn trọng khi băng qua đường.",
+        "wordPronunciation": "caution.wav",
+        "sentencePronunciation": "use-caution-when-crossing-the-street.wav"
+      },
+      {
+        "word": "passion",
+        "phonics": "/ˈpæʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/passion.webp",
+        "vietnameseMeaning": "niềm đam mê, cảm xúc mạnh",
+        "sampleSentence": "Red represents passion and love.",
+        "vietnameseTranslation": "Màu đỏ đại diện cho đam mê và tình yêu.",
+        "wordPronunciation": "passion.wav",
+        "sentencePronunciation": "red-represents-passion-and-love.wav"
+      },
+      {
+        "word": "royalty",
+        "phonics": "/ˈrɔɪəlti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/royalty.webp",
+        "vietnameseMeaning": "hoàng gia, quý tộc",
+        "sampleSentence": "Purple was once the color of royalty.",
+        "vietnameseTranslation": "Màu tím từng là màu sắc của hoàng gia.",
+        "wordPronunciation": "royalty.wav",
+        "sentencePronunciation": "purple-was-once-the-color-of-royalty.wav"
+      },
+      {
+        "word": "purity",
+        "phonics": "/ˈpjʊərəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/purity.webp",
+        "vietnameseMeaning": "sự thuần khiết",
+        "sampleSentence": "White symbolizes purity.",
+        "vietnameseTranslation": "Màu trắng tượng trưng cho sự thuần khiết.",
+        "wordPronunciation": "purity.wav",
+        "sentencePronunciation": "white-symbolizes-purity.wav"
+      },
+      {
+        "word": "creativity",
+        "phonics": "/ˌkriːeɪˈtɪvəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/creativity.webp",
+        "vietnameseMeaning": "sự sáng tạo",
+        "sampleSentence": "Orange is a color of energy and creativity.",
+        "vietnameseTranslation": "Màu cam là màu sắc của năng lượng và sự sáng tạo.",
+        "wordPronunciation": "creativity.wav",
+        "sentencePronunciation": "orange-is-a-color-of-energy-and-creativity.wav"
+      },
+      {
+        "word": "physical",
+        "phonics": "/ˈfɪzɪkl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/physical.webp",
+        "vietnameseMeaning": "thuộc thể chất, cơ thể",
+        "sampleSentence": "Red causes physical changes like a fast heart rate.",
+        "vietnameseTranslation": "Màu đỏ gây ra những thay đổi về thể chất như nhịp tim nhanh.",
+        "wordPronunciation": "physical.wav",
+        "sentencePronunciation": "red-causes-physical-changes-like-a-fast-heart-rate.wav"
+      },
+      {
+        "word": "energy",
+        "phonics": "/ˈenərdʒi/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/energy.webp",
+        "vietnameseMeaning": "năng lượng",
+        "sampleSentence": "Bright colors give us energy.",
+        "vietnameseTranslation": "Màu sắc tươi sáng truyền cho chúng ta năng lượng.",
+        "wordPronunciation": "energy.wav",
+        "sentencePronunciation": "bright-colors-give-us-energy.wav"
+      },
+      {
+        "word": "luxury",
+        "phonics": "/ˈlʌkʃəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/luxury.webp",
+        "vietnameseMeaning": "sự sang trọng, xa xỉ",
+        "sampleSentence": "Black can represent luxury.",
+        "vietnameseTranslation": "Màu đen có thể đại diện cho sự sang trọng.",
+        "wordPronunciation": "luxury.wav",
+        "sentencePronunciation": "black-can-represent-luxury.wav"
+      }
+    ],
+    "clozeData": {
+      "sentences": [
+        { "sentence": "_____ are great for living rooms.", "word": "warm colors" },
+        { "sentence": "_____ can help you sleep better.", "word": "cool colors" },
+        { "sentence": "The _____ of blue relaxes my mind.", "word": "calmness" },
+        { "sentence": "Blue is the color of _____.", "word": "trust" },
+        { "sentence": "White represents _____.", "word": "peace" },
+        { "sentence": "Red stimulates our _____.", "word": "appetite" },
+        { "sentence": "Use _____ when crossing the street.", "word": "caution" },
+        { "sentence": "Red represents _____ and love.", "word": "passion" },
+        { "sentence": "Purple was once the color of _____.", "word": "royalty" },
+        { "sentence": "White symbolizes _____.", "word": "purity" },
+        { "sentence": "Orange is a color of energy and _____.", "word": "creativity" },
+        { "sentence": "Red causes _____ changes like a fast heart rate.", "word": "physical" },
+        { "sentence": "Bright colors give us _____.", "word": "energy" },
+        { "sentence": "Black can represent _____.", "word": "luxury" }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h2",
+            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "children": [
+              { "text": "The Psychology of Color" },
+              { "tag": "br" },
+              { "text": "Lesson 2: Vocabulary - Part 2" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-3xl text-gray-700 mb-4" },
+            "children": [
+              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "children": [
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+              },
+              {
+                "tag": "li",
+                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
+            "children": [
+              { "text": "Chúc các em học tốt!" }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}
