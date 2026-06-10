@@ -1,0 +1,10 @@
+{
+  "username": "ductrong",
+  "allowedLessons": [
+    {
+      "course": "advanced-topics",
+      "unit": "the-psychology-of-color",
+      "lesson": "lesson-1-vocab"
+    }
+  ]
+}
