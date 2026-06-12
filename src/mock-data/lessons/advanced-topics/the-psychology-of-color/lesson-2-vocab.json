@@ -177,18 +177,39 @@
     ],
     "clozeData": {
       "sentences": [
-        { "sentence": "_____ are great for living rooms.", "word": "warm colors" },
-        { "sentence": "_____ can help you sleep better.", "word": "cool colors" },
-        { "sentence": "The _____ of blue relaxes my mind.", "word": "calmness" },
+        {
+          "sentence": "_____ are great for living rooms.",
+          "word": "warm colors"
+        },
+        {
+          "sentence": "_____ can help you sleep better.",
+          "word": "cool colors"
+        },
+        {
+          "sentence": "The _____ of blue relaxes my mind.",
+          "word": "calmness"
+        },
         { "sentence": "Blue is the color of _____.", "word": "trust" },
         { "sentence": "White represents _____.", "word": "peace" },
         { "sentence": "Red stimulates our _____.", "word": "appetite" },
-        { "sentence": "Use _____ when crossing the street.", "word": "caution" },
+        {
+          "sentence": "Use _____ when crossing the street.",
+          "word": "caution"
+        },
         { "sentence": "Red represents _____ and love.", "word": "passion" },
-        { "sentence": "Purple was once the color of _____.", "word": "royalty" },
+        {
+          "sentence": "Purple was once the color of _____.",
+          "word": "royalty"
+        },
         { "sentence": "White symbolizes _____.", "word": "purity" },
-        { "sentence": "Orange is a color of energy and _____.", "word": "creativity" },
-        { "sentence": "Red causes _____ changes like a fast heart rate.", "word": "physical" },
+        {
+          "sentence": "Orange is a color of energy and _____.",
+          "word": "creativity"
+        },
+        {
+          "sentence": "Red causes _____ changes like a fast heart rate.",
+          "word": "physical"
+        },
         { "sentence": "Bright colors give us _____.", "word": "energy" },
         { "sentence": "Black can represent _____.", "word": "luxury" }
       ]
@@ -201,7 +222,9 @@
         "root": [
           {
             "tag": "h2",
-            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
             "children": [
               { "text": "The Psychology of Color" },
               { "tag": "br" },
@@ -211,38 +234,50 @@
           {
             "tag": "p",
             "attributes": { "class": "text-3xl text-gray-700 mb-4" },
-            "children": [
-              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
-            ]
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
           },
           {
             "tag": "ol",
-            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
             "children": [
               {
                 "tag": "li",
-                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+                "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên."
+                  }
+                ]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên."
+                  }
+                ]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên."
+                  }
+                ]
               }
             ]
           },
           {
             "tag": "p",
-            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
-            "children": [
-              { "text": "Chúc các em học tốt!" }
-            ]
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
           }
         ],
         "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"

@@ -1,0 +1,122 @@
+{
+  "lesson-5-listening": {
+    "background": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": "The Psychology of Color",
+    "description": "Lesson 5: Listening",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "embedPage", "id": "listening-exercise" }
+    ],
+    "externalContent": {
+      "videos": [],
+      "embedPages": [
+        {
+          "id": "listening-exercise",
+          "url": "https://storage.chillteacher.com/pages/the-psychology-of-color/listening/index.html",
+          "title": "Listening Exercise"
+        }
+      ]
+    },
+    "vocab": [
+      {
+        "word": "branding",
+        "phonics": "/ˈbrændɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/branding.webp",
+        "vietnameseMeaning": "xây dựng thương hiệu",
+        "sampleSentence": "Logos are important for company branding.",
+        "vietnameseTranslation": "Logo rất quan trọng đối với việc xây dựng thương hiệu công ty.",
+        "wordPronunciation": "branding.wav",
+        "sentencePronunciation": "logos-are-important-for-company-branding.wav"
+      },
+      {
+        "word": "marketing",
+        "phonics": "/ˈmɑːrkɪtɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/marketing.webp",
+        "vietnameseMeaning": "tiếp thị",
+        "sampleSentence": "Marketing team chooses color for the package.",
+        "vietnameseTranslation": "Đội ngũ tiếp thị chọn màu sắc cho bao bì sản phẩm.",
+        "wordPronunciation": "marketing.wav",
+        "sentencePronunciation": "marketing-team-chooses-color-for-the-package.wav"
+      },
+      {
+        "word": "consumer",
+        "phonics": "/kənˈsjuːmər/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/consumer.webp",
+        "vietnameseMeaning": "người tiêu dùng",
+        "sampleSentence": "Colors help consumers make decisions.",
+        "vietnameseTranslation": "Màu sắc giúp người tiêu dùng đưa ra quyết định.",
+        "wordPronunciation": "consumer.wav",
+        "sentencePronunciation": "colors-help-consumers-make-decisions.wav"
+      },
+      {
+        "word": "company identity",
+        "phonics": "/ˈkʌmpəni aɪˈdentəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/company-identity.webp",
+        "vietnameseMeaning": "nhận diện công ty",
+        "sampleSentence": "Blue logo is part of their company identity.",
+        "vietnameseTranslation": "Logo màu xanh dương là một phần trong nhận diện công ty của họ.",
+        "wordPronunciation": "company-identity.wav",
+        "sentencePronunciation": "blue-logo-is-part-of-their-company-identity.wav"
+      }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "The Psychology of Color" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 5: Listening" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [{ "text": "Xem lại flashcards để nhớ từ vựng." }]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Làm bài tập nghe hiểu và điền từ." }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}

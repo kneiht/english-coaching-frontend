@@ -1,0 +1,321 @@
+{
+  "lesson-8-presentation": {
+    "background": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": "The Psychology of Color",
+    "description": "Lesson 8: Presentation",
+    "menu": [
+      { "type": "video", "id": "lesson-video" },
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "presentation-guide" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "lesson-video",
+          "url": "https://youtu.be/z0N1z-N5Qig",
+          "title": "Video Overview"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "The Psychology of Color" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 8: Presentation" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Xem lại video overview để lấy ý tưởng và học thêm kiến thức về tâm lý học màu sắc."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Bấm vào đường dẫn bên dưới để xem infographic về Color Psychology. Hãy dựa vào thông tin đó để thực hiện bài thuyết trình đề xuất thiết kế màu sắc của bạn."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Tập luyện thuyết trình theo kịch bản mẫu và tự quay video thuyết trình." }]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "class": "text-center my-8"
+            },
+            "children": [
+              {
+                "tag": "a",
+                "attributes": {
+                  "href": "https://storage.chillteacher.com/pages/the-psychology-of-color/presentation/color-psychology.webp",
+                  "target": "_blank",
+                  "class": "inline-block bg-indigo-600 hover:bg-indigo-700 text-white text-2xl font-bold py-4 px-8 rounded-lg shadow-lg transition duration-300"
+                },
+                "children": [{ "text": "Xem Infographic Color Psychology" }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "presentation-guide",
+        "title": "Presentation Guide",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center mb-2"
+            },
+            "children": [{ "text": "The Psychology of Color" }]
+          },
+          {
+            "tag": "h2",
+            "attributes": {
+              "class": "text-3xl font-bold text-indigo-600 mb-8 text-center"
+            },
+            "children": [{ "text": "Presentation Script" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "INTRODUCTION: The Power of Visual Language" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Hello everyone. When we walk into a store, browse a website, or buy a product, we make choices in a matter of seconds. But did you know that up to ninety percent of these snap decisions are based on color alone?"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Color is a powerful visual language. It affects our mood, triggers physical responses, and shapes our behavior without us even realizing it."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4 font-semibold" },
+            "children": [
+              {
+                "text": "Today, I would like to present my branding and color design proposal for a new organic juice brand called 'GreenVibe', and show how we can use color psychology to build a successful company identity.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [
+              {
+                "text": "BODY PART 1: Selecting the Primary Color (Green)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the 'Primary Color' section of your presentation or infographic)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"First, let's discuss our primary color choice: Green. Since our brand is focused on healthy, organic juices, green is the perfect fit."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Green is a cool color and acts as a universal symbol for nature, growth, and freshness. In terms of psychology, green promotes calmness, peace, and purity."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "When consumers see our green packaging, they will immediately associate it with health and natural quality, which builds strong brand trust from the very first glance.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 2: Selecting the Secondary Color (Orange)" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              { "text": "(Point to the 'Secondary Color' section)" }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Next, we have selected Orange as our secondary color. While green provides calmness, orange brings high energy and friendliness."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "Orange is a warm color that stimulates creativity and keeps a positive mood. In food marketing, orange is also known to stimulate the appetite, making people feel hungry and enthusiastic about trying our products."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-4" },
+            "children": [
+              {
+                "text": "By balancing green and orange, we create a packaging design that feels both healthy and exciting, capturing the attention of busy shoppers.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "BODY PART 3: Expected Impact & Marketing Strategy" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-2 italic text-gray-600" },
+            "children": [
+              {
+                "text": "(Point to the 'Expected Results' or 'Branding Strategy' section)"
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"Finally, let's talk about the expected consumer reaction. By strategically placing these colors in our advertising and social media campaigns, we aim to control how people perceive GreenVibe."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "We want to trigger positive buying decisions, proving that organic options can be both delicious and vibrant. This design will help our brand stand out from competitors and establish a lasting memory in the minds of our target audience.\""
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-2xl font-bold text-blue-600 mt-6 mb-3"
+            },
+            "children": [{ "text": "CONCLUSION:" }]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "\"In conclusion, colors are not just decorative choices; they are critical tools in marketing and branding."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "By choosing a green and orange palette for GreenVibe, we create an identity that balances calmness and energy, health and passion."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "mb-3" },
+            "children": [
+              {
+                "text": "We are confident that this design proposal will successfully guide our consumers' choices and make our organic juice brand a household name."
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": { "class": "font-bold text-lg" },
+            "children": [{ "text": "Thank you for listening!\"" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-lg leading-relaxed"
+      }
+    ]
+  }
+}

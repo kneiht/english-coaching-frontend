@@ -1,0 +1,1622 @@
+{
+  "lesson-4-reading": {
+    "background": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": "The Psychology of Color",
+    "description": "Lesson 4: Reading",
+    "menu": [
+      {
+        "type": "page",
+        "id": "assignments"
+      },
+      {
+        "type": "activity",
+        "id": "flashcards"
+      },
+      {
+        "type": "activity",
+        "id": "cloze-game"
+      },
+      {
+        "type": "activity",
+        "id": "reading-slides"
+      },
+      {
+        "type": "activity",
+        "id": "reading-comprehension"
+      }
+    ],
+    "externalContent": {
+      "videos": []
+    },
+    "vocab": [
+      {
+        "word": "affect",
+        "phonics": "/əˈfekt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/affect.webp",
+        "vietnameseMeaning": "ảnh hưởng, tác động",
+        "sampleSentence": "The weather can affect your mood.",
+        "vietnameseTranslation": "Thời tiết có thể ảnh hưởng đến tâm trạng của bạn.",
+        "wordPronunciation": "affect.wav",
+        "sentencePronunciation": "the-weather-can-affect-your-mood.wav"
+      },
+      {
+        "word": "mood",
+        "phonics": "/muːd/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mood.webp",
+        "vietnameseMeaning": "tâm trạng",
+        "sampleSentence": "I am in a good mood today.",
+        "vietnameseTranslation": "Hôm nay tôi có tâm trạng rất tốt.",
+        "wordPronunciation": "mood.wav",
+        "sentencePronunciation": "i-am-in-a-good-mood-today.wav"
+      },
+      {
+        "word": "feelings",
+        "phonics": "/ˈfiːlɪŋz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/feelings.webp",
+        "vietnameseMeaning": "cảm xúc, cảm giác",
+        "sampleSentence": "Colors can change our feelings.",
+        "vietnameseTranslation": "Màu sắc có thể thay đổi cảm xúc của chúng ta.",
+        "wordPronunciation": "feelings.wav",
+        "sentencePronunciation": "colors-can-change-our-feelings.wav"
+      },
+      {
+        "word": "behavior",
+        "phonics": "/bɪˈheɪvjər/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/behavior.webp",
+        "vietnameseMeaning": "hành vi, cách cư xử",
+        "sampleSentence": "Good design can change human behavior.",
+        "vietnameseTranslation": "Thiết kế tốt có thể thay đổi hành vi của con người.",
+        "wordPronunciation": "behavior.wav",
+        "sentencePronunciation": "good-design-can-change-human-behavior.wav"
+      },
+      {
+        "word": "trigger",
+        "phonics": "/ˈtrɪɡər/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/trigger.webp",
+        "vietnameseMeaning": "kích hoạt, khơi nguồn",
+        "sampleSentence": "Red can trigger energy.",
+        "vietnameseTranslation": "Màu đỏ có thể khơi nguồn năng lượng.",
+        "wordPronunciation": "trigger.wav",
+        "sentencePronunciation": "red-can-trigger-energy.wav"
+      },
+      {
+        "word": "mental",
+        "phonics": "/ˈmentl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/mental.webp",
+        "vietnameseMeaning": "thuộc tinh thần, trí óc",
+        "sampleSentence": "Doing puzzles is good for mental health.",
+        "vietnameseTranslation": "Chơi giải đố rất tốt cho sức khỏe tinh thần.",
+        "wordPronunciation": "mental.wav",
+        "sentencePronunciation": "doing-puzzles-is-good-for-mental-health.wav"
+      },
+      {
+        "word": "association",
+        "phonics": "/əˌsoʊʃiˈeɪʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/association.webp",
+        "vietnameseMeaning": "sự liên tưởng, kết nối",
+        "sampleSentence": "Many people make an association between blue and sky.",
+        "vietnameseTranslation": "Nhiều người liên tưởng màu xanh dương với bầu trời.",
+        "wordPronunciation": "association.wav",
+        "sentencePronunciation": "many-people-make-an-association-between-blue-and-sky.wav"
+      },
+      {
+        "word": "reaction",
+        "phonics": "/riˈækʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/reaction.webp",
+        "vietnameseMeaning": "phản ứng",
+        "sampleSentence": "What is your reaction to this color?",
+        "vietnameseTranslation": "Phản ứng của bạn đối với màu sắc này là gì?",
+        "wordPronunciation": "reaction.wav",
+        "sentencePronunciation": "what-is-your-reaction-to-this-color.wav"
+      },
+      {
+        "word": "attention",
+        "phonics": "/əˈtenʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/attention.webp",
+        "vietnameseMeaning": "sự chú ý",
+        "sampleSentence": "Yellow signs grab our attention quickly.",
+        "vietnameseTranslation": "Biển báo màu vàng thu hút sự chú ý của chúng ta nhanh chóng.",
+        "wordPronunciation": "attention.wav",
+        "sentencePronunciation": "yellow-signs-grab-our-attention-quickly.wav"
+      },
+      {
+        "word": "focus",
+        "phonics": "/ˈfoʊkəs/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/focus.webp",
+        "vietnameseMeaning": "sự tập trung / tập trung",
+        "sampleSentence": "Soft green helps me focus on study.",
+        "vietnameseTranslation": "Màu xanh lá nhẹ giúp tôi tập trung vào việc học.",
+        "wordPronunciation": "focus.wav",
+        "sentencePronunciation": "soft-green-helps-me-focus-on-study.wav"
+      },
+      {
+        "word": "memory",
+        "phonics": "/ˈmeməri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/memory.webp",
+        "vietnameseMeaning": "trí nhớ, kỷ niệm",
+        "sampleSentence": "This blue color brings back a memory of the sea.",
+        "vietnameseTranslation": "Màu xanh dương này gợi lại kỷ niệm về biển cả.",
+        "wordPronunciation": "memory.wav",
+        "sentencePronunciation": "this-blue-color-brings-back-a-memory-of-the-sea.wav"
+      },
+      {
+        "word": "hidden",
+        "phonics": "/ˈhɪdn/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/hidden.webp",
+        "vietnameseMeaning": "ẩn giấu, ngầm",
+        "sampleSentence": "Colors have a hidden power.",
+        "vietnameseTranslation": "Màu sắc có một sức mạnh ẩn giấu.",
+        "wordPronunciation": "hidden.wav",
+        "sentencePronunciation": "colors-have-a-hidden-power.wav"
+      },
+      {
+        "word": "signal",
+        "phonics": "/ˈsɪɡnəl/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/signal.webp",
+        "vietnameseMeaning": "báo hiệu",
+        "sampleSentence": "Red lights signal cars to stop.",
+        "vietnameseTranslation": "Đèn đỏ báo hiệu ô tô dừng lại.",
+        "wordPronunciation": "signal.wav",
+        "sentencePronunciation": "red-lights-signal-cars-to-stop.wav"
+      },
+      {
+        "word": "warm colors",
+        "phonics": "/wɔːrm ˈkʌlərz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/warm-colors.webp",
+        "vietnameseMeaning": "tông màu ấm",
+        "sampleSentence": "Warm colors are great for living rooms.",
+        "vietnameseTranslation": "Tông màu ấm rất tuyệt cho phòng khách.",
+        "wordPronunciation": "warm-colors.wav",
+        "sentencePronunciation": "warm-colors-are-great-for-living-rooms.wav"
+      },
+      {
+        "word": "cool colors",
+        "phonics": "/kuːl ˈkʌlərz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cool-colors.webp",
+        "vietnameseMeaning": "tông màu lạnh",
+        "sampleSentence": "Cool colors can help you sleep better.",
+        "vietnameseTranslation": "Tông màu lạnh có thể giúp bạn ngủ ngon hơn.",
+        "wordPronunciation": "cool-colors.wav",
+        "sentencePronunciation": "cool-colors-can-help-you-sleep-better.wav"
+      },
+      {
+        "word": "calmness",
+        "phonics": "/ˈkɑːmnəs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/calmness.webp",
+        "vietnameseMeaning": "sự yên bình, điềm tĩnh",
+        "sampleSentence": "The calmness of blue relaxes my mind.",
+        "vietnameseTranslation": "Sự yên bình của màu xanh dương làm thư giãn tâm trí tôi.",
+        "wordPronunciation": "calmness.wav",
+        "sentencePronunciation": "the-calmness-of-blue-relaxes-my-mind.wav"
+      },
+      {
+        "word": "trust",
+        "phonics": "/trʌst/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/trust.webp",
+        "vietnameseMeaning": "niềm tin, sự tin tưởng",
+        "sampleSentence": "Blue is the color of trust.",
+        "vietnameseTranslation": "Xanh dương là màu sắc của niềm tin.",
+        "wordPronunciation": "trust.wav",
+        "sentencePronunciation": "blue-is-the-color-of-trust.wav"
+      },
+      {
+        "word": "peace",
+        "phonics": "/piːs/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/peace.webp",
+        "vietnameseMeaning": "sự bình yên, hòa bình",
+        "sampleSentence": "White represents peace.",
+        "vietnameseTranslation": "Màu trắng đại diện cho sự bình yên.",
+        "wordPronunciation": "peace.wav",
+        "sentencePronunciation": "white-represents-peace.wav"
+      },
+      {
+        "word": "appetite",
+        "phonics": "/ˈæpɪtaɪt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/appetite.webp",
+        "vietnameseMeaning": "sự thèm ăn",
+        "sampleSentence": "Red stimulates our appetite.",
+        "vietnameseTranslation": "Màu đỏ kích thích sự thèm ăn của chúng ta.",
+        "wordPronunciation": "appetite.wav",
+        "sentencePronunciation": "red-stimulates-our-appetite.wav"
+      },
+      {
+        "word": "caution",
+        "phonics": "/ˈcɔːʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/caution.webp",
+        "vietnameseMeaning": "sự cẩn trọng, cảnh báo",
+        "sampleSentence": "Use caution when crossing the street.",
+        "vietnameseTranslation": "Hãy cẩn trọng khi băng qua đường.",
+        "wordPronunciation": "caution.wav",
+        "sentencePronunciation": "use-caution-when-crossing-the-street.wav"
+      },
+      {
+        "word": "passion",
+        "phonics": "/ˈpæʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/passion.webp",
+        "vietnameseMeaning": "niềm đam mê, cảm xúc mạnh",
+        "sampleSentence": "Red represents passion and love.",
+        "vietnameseTranslation": "Màu đỏ đại diện cho đam mê và tình yêu.",
+        "wordPronunciation": "passion.wav",
+        "sentencePronunciation": "red-represents-passion-and-love.wav"
+      },
+      {
+        "word": "royalty",
+        "phonics": "/ˈrɔɪəlti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/royalty.webp",
+        "vietnameseMeaning": "hoàng gia, quý tộc",
+        "sampleSentence": "Purple was once the color of royalty.",
+        "vietnameseTranslation": "Màu tím từng là màu sắc của hoàng gia.",
+        "wordPronunciation": "royalty.wav",
+        "sentencePronunciation": "purple-was-once-the-color-of-royalty.wav"
+      },
+      {
+        "word": "purity",
+        "phonics": "/ˈpjʊərəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/purity.webp",
+        "vietnameseMeaning": "sự thuần khiết",
+        "sampleSentence": "White symbolizes purity.",
+        "vietnameseTranslation": "Màu trắng tượng trưng cho sự thuần khiết.",
+        "wordPronunciation": "purity.wav",
+        "sentencePronunciation": "white-symbolizes-purity.wav"
+      },
+      {
+        "word": "creativity",
+        "phonics": "/ˌkriːeɪˈtɪvəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/creativity.webp",
+        "vietnameseMeaning": "sự sáng tạo",
+        "sampleSentence": "Orange is a color of energy and creativity.",
+        "vietnameseTranslation": "Màu cam là màu sắc của năng lượng và sự sáng tạo.",
+        "wordPronunciation": "creativity.wav",
+        "sentencePronunciation": "orange-is-a-color-of-energy-and-creativity.wav"
+      },
+      {
+        "word": "physical",
+        "phonics": "/ˈfɪzɪkl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/physical.webp",
+        "vietnameseMeaning": "thuộc thể chất, cơ thể",
+        "sampleSentence": "Red causes physical changes like a fast heart rate.",
+        "vietnameseTranslation": "Màu đỏ gây ra những thay đổi về thể chất như nhịp tim nhanh.",
+        "wordPronunciation": "physical.wav",
+        "sentencePronunciation": "red-causes-physical-changes-like-a-fast-heart-rate.wav"
+      },
+      {
+        "word": "energy",
+        "phonics": "/ˈenərdʒi/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/energy.webp",
+        "vietnameseMeaning": "năng lượng",
+        "sampleSentence": "Bright colors give us energy.",
+        "vietnameseTranslation": "Màu sắc tươi sáng truyền cho chúng ta năng lượng.",
+        "wordPronunciation": "energy.wav",
+        "sentencePronunciation": "bright-colors-give-us-energy.wav"
+      },
+      {
+        "word": "luxury",
+        "phonics": "/ˈlʌkʃəri/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/luxury.webp",
+        "vietnameseMeaning": "sự sang trọng, xa xỉ",
+        "sampleSentence": "Black can represent luxury.",
+        "vietnameseTranslation": "Màu đen có thể đại diện cho sự sang trọng.",
+        "wordPronunciation": "luxury.wav",
+        "sentencePronunciation": "black-can-represent-luxury.wav"
+      },
+      {
+        "word": "branding",
+        "phonics": "/ˈbrændɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/branding.webp",
+        "vietnameseMeaning": "xây dựng thương hiệu",
+        "sampleSentence": "Logos are important for company branding.",
+        "vietnameseTranslation": "Logo rất quan trọng đối với việc xây dựng thương hiệu công ty.",
+        "wordPronunciation": "branding.wav",
+        "sentencePronunciation": "logos-are-important-for-company-branding.wav"
+      },
+      {
+        "word": "marketing",
+        "phonics": "/ˈmɑːrkɪtɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/marketing.webp",
+        "vietnameseMeaning": "tiếp thị",
+        "sampleSentence": "Marketing team chooses color for the package.",
+        "vietnameseTranslation": "Đội ngũ tiếp thị chọn màu sắc cho bao bì sản phẩm.",
+        "wordPronunciation": "marketing.wav",
+        "sentencePronunciation": "marketing-team-chooses-color-for-the-package.wav"
+      },
+      {
+        "word": "advertising",
+        "phonics": "/ˈædvərtaɪzɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/advertising.webp",
+        "vietnameseMeaning": "quảng cáo",
+        "sampleSentence": "Good advertising uses colors to catch eyes.",
+        "vietnameseTranslation": "Quảng cáo tốt sử dụng màu sắc để thu hút ánh nhìn.",
+        "wordPronunciation": "advertising.wav",
+        "sentencePronunciation": "good-advertising-uses-colors-to-catch-eyes.wav"
+      },
+      {
+        "word": "consumer",
+        "phonics": "/kənˈsjuːmər/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/consumer.webp",
+        "vietnameseMeaning": "người tiêu dùng",
+        "sampleSentence": "Colors help consumers make decisions.",
+        "vietnameseTranslation": "Màu sắc giúp người tiêu dùng đưa ra quyết định.",
+        "wordPronunciation": "consumer.wav",
+        "sentencePronunciation": "colors-help-consumers-make-decisions.wav"
+      },
+      {
+        "word": "control",
+        "phonics": "/kənˈtroʊl/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/control.webp",
+        "vietnameseMeaning": "kiểm soát, điều khiển",
+        "sampleSentence": "Stores use music and colors to control buying habits.",
+        "vietnameseTranslation": "Cửa hàng dùng âm nhạc và màu sắc để kiểm soát thói quen mua hàng.",
+        "wordPronunciation": "control.wav",
+        "sentencePronunciation": "stores-use-music-and-colors-to-control-buying-habits.wav"
+      },
+      {
+        "word": "company identity",
+        "phonics": "/ˈkʌmpəni aɪˈdentəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/company-identity.webp",
+        "vietnameseMeaning": "nhận diện công ty",
+        "sampleSentence": "Blue logo is part of their company identity.",
+        "vietnameseTranslation": "Logo màu xanh dương là một phần trong nhận diện công ty của họ.",
+        "wordPronunciation": "company-identity.wav",
+        "sentencePronunciation": "blue-logo-is-part-of-their-company-identity.wav"
+      },
+      {
+        "word": "cultural differences",
+        "phonics": "/ˈkʌltʃərəl ˈdɪfrənsɪz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cultural-differences.webp",
+        "vietnameseMeaning": "sự khác biệt văn hóa",
+        "sampleSentence": "Cultural differences change color meanings.",
+        "vietnameseTranslation": "Sự khác biệt văn hóa làm thay đổi ý nghĩa của màu sắc.",
+        "wordPronunciation": "cultural-differences.wav",
+        "sentencePronunciation": "cultural-differences-change-color-meanings.wav"
+      },
+      {
+        "word": "mourning",
+        "phonics": "/ˈmɔːnɪŋ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/mourning.webp",
+        "vietnameseMeaning": "sự tang tóc, đau buồn",
+        "sampleSentence": "Black is the color of mourning in Western countries.",
+        "vietnameseTranslation": "Màu đen là màu của tang tóc ở các nước phương Tây.",
+        "wordPronunciation": "mourning.wav",
+        "sentencePronunciation": "black-is-the-color-of-mourning-in-western-countries.wav"
+      },
+      {
+        "word": "wealth",
+        "phonics": "/welθ/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/wealth.webp",
+        "vietnameseMeaning": "sự giàu có, thịnh vượng",
+        "sampleSentence": "In Asia, red is linked with wealth and luck.",
+        "vietnameseTranslation": "Ở châu Á, màu đỏ gắn liền với sự giàu có và may mắn.",
+        "wordPronunciation": "wealth.wav",
+        "sentencePronunciation": "in-asia-red-is-linked-with-wealth-and-luck.wav"
+      },
+      {
+        "word": "preference",
+        "phonics": "/ˈprefrəns/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/preference.webp",
+        "vietnameseMeaning": "sở thích, sự ưu tiên",
+        "sampleSentence": "What is your color preference?",
+        "vietnameseTranslation": "Sở thích màu sắc của bạn là gì?",
+        "wordPronunciation": "preference.wav",
+        "sentencePronunciation": "what-is-your-color-preference.wav"
+      },
+      {
+        "word": "decisions",
+        "phonics": "/dɪˈsɪʒnz/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/decisions.webp",
+        "vietnameseMeaning": "quyết định",
+        "sampleSentence": "Colors affect our shopping decisions.",
+        "vietnameseTranslation": "Màu sắc ảnh hưởng đến quyết định mua sắm của chúng ta.",
+        "wordPronunciation": "decisions.wav",
+        "sentencePronunciation": "colors-affect-our-shopping-decisions.wav"
+      },
+      {
+        "word": "organic",
+        "phonics": "/ɔːrˈɡænɪk/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/organic.webp",
+        "vietnameseMeaning": "hữu cơ, tự nhiên",
+        "sampleSentence": "Green is always used for organic food.",
+        "vietnameseTranslation": "Màu xanh lá luôn được dùng cho thực phẩm hữu cơ.",
+        "wordPronunciation": "organic.wav",
+        "sentencePronunciation": "green-is-always-used-for-organic-food.wav"
+      },
+      {
+        "word": "universal",
+        "phonics": "/ˌjuːnɪˈvɜːrsl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/universal.webp",
+        "vietnameseMeaning": "toàn cầu, phổ quát",
+        "sampleSentence": "Smiling is a universal language.",
+        "vietnameseTranslation": "Cười là ngôn ngữ chung toàn cầu.",
+        "wordPronunciation": "universal.wav",
+        "sentencePronunciation": "smiling-is-a-universal-language.wav"
+      }
+    ],
+    "readingSlidesData": [
+      {
+        "audio": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/audio/audio1.wav",
+        "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+        "title": "The Psychology of Color",
+        "text": ""
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/audio/audio2.wav",
+        "image": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/images/image2.webp",
+        "textTitle": "Introduction",
+        "text": "Color is a powerful tool that can deeply affect our mood, feelings, and behavior. In our daily lives, we are surrounded by colors that trigger a specific mental and physical reaction. While we may not always notice it, every shade sends a hidden signal to our brain. The association between color and emotion has a long history, and modern science shows how colors can influence our attention, focus, and memory."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/audio/audio3.wav",
+        "image": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/images/image3.webp",
+        "textTitle": "Warm vs. Cool Colors",
+        "text": "One of the main divisions in color psychology is between warm colors and cool colors. Warm colors, such as red, orange, and yellow, are known to stimulate energy and creativity. For example, red can increase our heart rate and stimulate our appetite, which is why it is often used in restaurant design. On the other hand, cool colors like blue and green promote calmness and peace. Green helps us focus on tasks, while blue is a symbol of trust and reliability."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/audio/audio4.wav",
+        "image": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/images/image4.webp",
+        "textTitle": "Meanings and Symbols",
+        "text": "Different colors carry specific symbolic meanings. For centuries, purple was associated with royalty because the dye was rare and expensive, representing luxury and wealth. White, which represents purity, is often used to convey cleanliness. In contrast, colors like red represent intense passion, while yellow is frequently used to signal caution or danger. These associations shape our immediate reaction to visual information."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/audio/audio5.wav",
+        "image": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/images/image5.webp",
+        "textTitle": "Marketing and Branding",
+        "text": "In the commercial world, branding, marketing, and advertising rely heavily on color psychology. Companies carefully select colors to establish their company identity and influence consumer decisions. For instance, a green logo is commonly used for organic products to suggest nature and health. By understanding how colors work, businesses can control how people perceive their products, guiding their purchasing choices."
+      },
+      {
+        "audio": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/audio/audio6.wav",
+        "image": "https://storage.chillteacher.com/page-data/the-psychology-of-color/reading/images/image6.webp",
+        "textTitle": "Conclusion",
+        "text": "However, color meanings are not always universal. There are significant cultural differences that change how we view colors. For example, while black is the color of mourning in Western countries, white is used for this purpose in some Asian cultures. In Asia, red is also linked with wealth and good luck. Individual preference also plays a role, as a person's memory of a color can affect their personal choices. Despite these differences, color remains a powerful language that connects us all."
+      }
+    ],
+    "readingComprehensionData": {
+      "title": "The Psychology of Color",
+      "passage": [
+        {
+          "content": "Color is a powerful tool that can deeply affect our mood, feelings, and behavior. In our daily lives, we are surrounded by colors that trigger a specific mental and physical reaction. While we may not always notice it, every shade sends a hidden signal to our brain. The association between color and emotion has a long history, and modern science shows how colors can influence our attention, focus, and memory."
+        },
+        {
+          "heading": "Warm vs. Cool Colors",
+          "content": "One of the main divisions in color psychology is between warm colors and cool colors. Warm colors, such as red, orange, and yellow, are known to stimulate energy and creativity. For example, red can increase our heart rate and stimulate our appetite, which is why it is often used in restaurant design. On the other hand, cool colors like blue and green promote calmness and peace. Green helps us focus on tasks, while blue is a symbol of trust and reliability."
+        },
+        {
+          "heading": "Meanings and Symbols",
+          "content": "Different colors carry specific symbolic meanings. For centuries, purple was associated with royalty because the dye was rare and expensive, representing luxury and wealth. White, which represents purity, is often used to convey cleanliness. In contrast, colors like red represent intense passion, while yellow is frequently used to signal caution or danger. These associations shape our immediate reaction to visual information."
+        },
+        {
+          "heading": "Marketing and Branding",
+          "content": "In the commercial world, branding, marketing, and advertising rely heavily on color psychology. Companies carefully select colors to establish their company identity and influence consumer decisions. For instance, a green logo is commonly used for organic products to suggest nature and health. By understanding how colors work, businesses can control how people perceive their products, guiding their purchasing choices."
+        },
+        {
+          "heading": "Conclusion",
+          "content": "However, color meanings are not always universal. There are significant cultural differences that change how we view colors. For example, while black is the color of mourning in Western countries, white is used for this purpose in some Asian cultures. In Asia, red is also linked with wealth and good luck. Individual preference also plays a role, as a person's memory of a color can affect their personal choices. Despite these differences, color remains a powerful language that connects us all."
+        }
+      ],
+      "questions": {
+        "singleChoice": [
+          {
+            "id": "sc1",
+            "prompt": "What is the main effect of colors according to the passage?",
+            "options": [
+              {
+                "value": "mood-behavior",
+                "label": "They can deeply affect our mood, feelings, and behavior"
+              },
+              {
+                "value": "only-physical",
+                "label": "They only affect our physical health"
+              },
+              {
+                "value": "no-impact",
+                "label": "They have no impact on human brains"
+              }
+            ],
+            "correct": "mood-behavior"
+          },
+          {
+            "id": "sc2",
+            "prompt": "Which of the following is true about warm colors?",
+            "options": [
+              {
+                "value": "stimulate-energy",
+                "label": "They stimulate energy and creativity"
+              },
+              {
+                "value": "promote-calmness",
+                "label": "They promote calmness and peace"
+              },
+              {
+                "value": "bedrooms",
+                "label": "They are mainly used for bedrooms"
+              }
+            ],
+            "correct": "stimulate-energy"
+          },
+          {
+            "id": "sc3",
+            "prompt": "Why was purple historically associated with royalty?",
+            "options": [
+              {
+                "value": "rare-expensive",
+                "label": "Because the dye was rare and expensive"
+              },
+              {
+                "value": "represent-purity",
+                "label": "Because it represented purity"
+              },
+              {
+                "value": "signal-caution",
+                "label": "Because it was used to signal caution"
+              }
+            ],
+            "correct": "rare-expensive"
+          },
+          {
+            "id": "sc4",
+            "prompt": "How do companies use colors in branding and marketing?",
+            "options": [
+              {
+                "value": "identity-decisions",
+                "label": "To establish their company identity and influence consumer decisions"
+              },
+              {
+                "value": "cheaper-products",
+                "label": "To make products cheaper"
+              },
+              {
+                "value": "hide-ingredients",
+                "label": "To hide the ingredients of products"
+              }
+            ],
+            "correct": "identity-decisions"
+          }
+        ],
+        "tfng": [
+          {
+            "id": "tf1",
+            "statement": "Colors send hidden signals that can affect human behavior.",
+            "correct": "true"
+          },
+          {
+            "id": "tf2",
+            "statement": "Cool colors like green help people focus on tasks.",
+            "correct": "true"
+          },
+          {
+            "id": "tf3",
+            "statement": "In Western countries, white is the traditional color of mourning.",
+            "correct": "false"
+          },
+          {
+            "id": "tf4",
+            "statement": "Most companies use purple logos to attract consumers.",
+            "correct": "not_given"
+          },
+          {
+            "id": "tf5",
+            "statement": "An individual's memory of a color can influence their preference.",
+            "correct": "true"
+          }
+        ],
+        "matching": {
+          "questions": [
+            {
+              "id": "m1",
+              "statement": "Effect of green color on human focus",
+              "correct": "option1"
+            },
+            {
+              "id": "m2",
+              "statement": "Historical association of purple dye",
+              "correct": "option2"
+            },
+            {
+              "id": "m3",
+              "statement": "Use of green in organic product branding",
+              "correct": "option3"
+            }
+          ],
+          "options": [
+            {
+              "value": "option1",
+              "label": "Helps us concentrate on tasks"
+            },
+            {
+              "value": "option2",
+              "label": "Represented royalty and luxury"
+            },
+            {
+              "value": "option3",
+              "label": "Suggests nature and health"
+            }
+          ]
+        },
+        "summary": [
+          {
+            "id": "sum1",
+            "prompt": "Complete: Warm colors are known to stimulate energy and ______.",
+            "answers": ["creativity"]
+          },
+          {
+            "id": "sum2",
+            "prompt": "Complete: Green is commonly used for ______ products to suggest nature.",
+            "answers": ["organic"]
+          },
+          {
+            "id": "sum3",
+            "prompt": "Complete: White is used for ______ in some Asian cultures.",
+            "answers": ["mourning"]
+          }
+        ],
+        "shortAnswer": [
+          {
+            "id": "sa1",
+            "prompt": "What do warm colors like red stimulate in restaurant design?"
+          },
+          {
+            "id": "sa2",
+            "prompt": "Why are color meanings not considered universal?"
+          }
+        ]
+      }
+    },
+    "clozeData": {
+      "paragraph": "Color is a powerful tool that can deeply _____ our mood and behavior. Warm colors stimulate energy and _____, while cool colors like blue promote calmness and _____. For centuries, purple was associated with _____ because the dye was rare. In the commercial world, businesses use color to establish their _____ and influence consumer decisions. For example, green is often used for _____ products. However, color meanings are not _____ due to cultural _____.",
+      "words": [
+        "affect",
+        "creativity",
+        "peace",
+        "royalty",
+        "company identity",
+        "organic",
+        "universal",
+        "cultural differences"
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [
+              {
+                "text": "The Psychology of Color"
+              }
+            ]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [
+              {
+                "text": "Lesson 4: Reading"
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [
+              {
+                "text": "Hãy hoàn thành các nhiệm vụ sau:"
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Ôn từ vựng bằng Flashcards."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Làm bài điền từ vào đoạn văn."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Làm các bài tập đọc hiểu. Chụp điểm số gửi giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện đọc thành tiếng và ghi âm lại gửi giáo viên. Chú ý phát âm và ngữ điệu khi đọc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [
+              {
+                "text": "Chúc các em học tốt!"
+              }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ],
+    "questions": [
+      {
+        "type": "multipleChoice",
+        "question": "\"affect\" nghĩa là gì?",
+        "correctAnswer": "ảnh hưởng, tác động",
+        "options": [
+          "ảnh hưởng, tác động",
+          "thuộc thể chất, cơ thể",
+          "sự tang tóc, đau buồn",
+          "kích hoạt, khơi nguồn"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"mood\" nghĩa là gì?",
+        "correctAnswer": "tâm trạng",
+        "options": [
+          "tâm trạng",
+          "sự yên bình, điềm tĩnh",
+          "niềm tin, sự tin tưởng",
+          "tông màu lạnh"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"feelings\" nghĩa là gì?",
+        "correctAnswer": "cảm xúc, cảm giác",
+        "options": [
+          "cảm xúc, cảm giác",
+          "trí nhớ, kỷ niệm",
+          "ảnh hưởng, tác động",
+          "sự sang trọng, xa xỉ"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"behavior\" nghĩa là gì?",
+        "correctAnswer": "hành vi, cách cư xử",
+        "options": [
+          "hành vi, cách cư xử",
+          "năng lượng",
+          "thuộc thể chất, cơ thể",
+          "sở thích, sự ưu tiên"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"trigger\" nghĩa là gì?",
+        "correctAnswer": "kích hoạt, khơi nguồn",
+        "options": [
+          "kích hoạt, khơi nguồn",
+          "sở thích, sự ưu tiên",
+          "tông màu lạnh",
+          "tiếp thị"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"mental\" nghĩa là gì?",
+        "correctAnswer": "thuộc tinh thần, trí óc",
+        "options": [
+          "thuộc tinh thần, trí óc",
+          "báo hiệu",
+          "quyết định",
+          "năng lượng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"association\" nghĩa là gì?",
+        "correctAnswer": "sự liên tưởng, kết nối",
+        "options": [
+          "sự liên tưởng, kết nối",
+          "sự tập trung / tập trung",
+          "trí nhớ, kỷ niệm",
+          "nhận diện công ty"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"reaction\" nghĩa là gì?",
+        "correctAnswer": "phản ứng",
+        "options": [
+          "phản ứng",
+          "sự thuần khiết",
+          "cảm xúc, cảm giác",
+          "sự chú ý"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"attention\" nghĩa là gì?",
+        "correctAnswer": "sự chú ý",
+        "options": [
+          "sự chú ý",
+          "hành vi, cách cư xử",
+          "quảng cáo",
+          "hoàng gia, quý tộc"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"focus\" nghĩa là gì?",
+        "correctAnswer": "sự tập trung / tập trung",
+        "options": [
+          "sự tập trung / tập trung",
+          "tâm trạng",
+          "tông màu ấm",
+          "sự bình yên, hòa bình"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"memory\" nghĩa là gì?",
+        "correctAnswer": "trí nhớ, kỷ niệm",
+        "options": [
+          "trí nhớ, kỷ niệm",
+          "quyết định",
+          "kiểm soát, điều khiển",
+          "sự khác biệt văn hóa"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"hidden\" nghĩa là gì?",
+        "correctAnswer": "ẩn giấu, ngầm",
+        "options": [
+          "ẩn giấu, ngầm",
+          "sự cẩn trọng, cảnh báo",
+          "quảng cáo",
+          "sở thích, sự ưu tiên"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"signal\" nghĩa là gì?",
+        "correctAnswer": "báo hiệu",
+        "options": [
+          "báo hiệu",
+          "sự yên bình, điềm tĩnh",
+          "sự giàu có, thịnh vượng",
+          "năng lượng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"warm colors\" nghĩa là gì?",
+        "correctAnswer": "tông màu ấm",
+        "options": [
+          "tông màu ấm",
+          "phản ứng",
+          "xây dựng thương hiệu",
+          "sự thuần khiết"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"cool colors\" nghĩa là gì?",
+        "correctAnswer": "tông màu lạnh",
+        "options": [
+          "tông màu lạnh",
+          "sở thích, sự ưu tiên",
+          "sự thèm ăn",
+          "tiếp thị"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"calmness\" nghĩa là gì?",
+        "correctAnswer": "sự yên bình, điềm tĩnh",
+        "options": [
+          "sự yên bình, điềm tĩnh",
+          "hoàng gia, quý tộc",
+          "xây dựng thương hiệu",
+          "sự khác biệt văn hóa"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"trust\" nghĩa là gì?",
+        "correctAnswer": "niềm tin, sự tin tưởng",
+        "options": [
+          "niềm tin, sự tin tưởng",
+          "hành vi, cách cư xử",
+          "tâm trạng",
+          "tông màu lạnh"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"peace\" nghĩa là gì?",
+        "correctAnswer": "sự bình yên, hòa bình",
+        "options": [
+          "sự bình yên, hòa bình",
+          "sự khác biệt văn hóa",
+          "sự thuần khiết",
+          "thuộc tinh thần, trí óc"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"appetite\" nghĩa là gì?",
+        "correctAnswer": "sự thèm ăn",
+        "options": [
+          "sự thèm ăn",
+          "sự sang trọng, xa xỉ",
+          "hữu cơ, tự nhiên",
+          "sự tang tóc, đau buồn"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"caution\" nghĩa là gì?",
+        "correctAnswer": "sự cẩn trọng, cảnh báo",
+        "options": [
+          "sự cẩn trọng, cảnh báo",
+          "cảm xúc, cảm giác",
+          "sự giàu có, thịnh vượng",
+          "trí nhớ, kỷ niệm"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"passion\" nghĩa là gì?",
+        "correctAnswer": "niềm đam mê, cảm xúc mạnh",
+        "options": [
+          "niềm đam mê, cảm xúc mạnh",
+          "tông màu lạnh",
+          "xây dựng thương hiệu",
+          "tiếp thị"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"royalty\" nghĩa là gì?",
+        "correctAnswer": "hoàng gia, quý tộc",
+        "options": [
+          "hoàng gia, quý tộc",
+          "niềm tin, sự tin tưởng",
+          "sự thèm ăn",
+          "sự sang trọng, xa xỉ"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"purity\" nghĩa là gì?",
+        "correctAnswer": "sự thuần khiết",
+        "options": [
+          "sự thuần khiết",
+          "sự khác biệt văn hóa",
+          "tiếp thị",
+          "sự giàu có, thịnh vượng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"creativity\" nghĩa là gì?",
+        "correctAnswer": "sự sáng tạo",
+        "options": [
+          "sự sáng tạo",
+          "người tiêu dùng",
+          "sự thuần khiết",
+          "niềm tin, sự tin tưởng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"physical\" nghĩa là gì?",
+        "correctAnswer": "thuộc thể chất, cơ thể",
+        "options": [
+          "thuộc thể chất, cơ thể",
+          "sự thuần khiết",
+          "nhận diện công ty",
+          "cảm xúc, cảm giác"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"energy\" nghĩa là gì?",
+        "correctAnswer": "năng lượng",
+        "options": [
+          "năng lượng",
+          "sự sáng tạo",
+          "tông màu lạnh",
+          "sự tập trung / tập trung"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"luxury\" nghĩa là gì?",
+        "correctAnswer": "sự sang trọng, xa xỉ",
+        "options": [
+          "sự sang trọng, xa xỉ",
+          "ẩn giấu, ngầm",
+          "sự khác biệt văn hóa",
+          "cảm xúc, cảm giác"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"branding\" nghĩa là gì?",
+        "correctAnswer": "xây dựng thương hiệu",
+        "options": [
+          "xây dựng thương hiệu",
+          "sự thèm ăn",
+          "hoàng gia, quý tộc",
+          "ẩn giấu, ngầm"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"marketing\" nghĩa là gì?",
+        "correctAnswer": "tiếp thị",
+        "options": [
+          "tiếp thị",
+          "sự cẩn trọng, cảnh báo",
+          "sự giàu có, thịnh vượng",
+          "sự chú ý"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"advertising\" nghĩa là gì?",
+        "correctAnswer": "quảng cáo",
+        "options": [
+          "quảng cáo",
+          "sự cẩn trọng, cảnh báo",
+          "người tiêu dùng",
+          "phản ứng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"consumer\" nghĩa là gì?",
+        "correctAnswer": "người tiêu dùng",
+        "options": [
+          "người tiêu dùng",
+          "sự khác biệt văn hóa",
+          "sự yên bình, điềm tĩnh",
+          "trí nhớ, kỷ niệm"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"control\" nghĩa là gì?",
+        "correctAnswer": "kiểm soát, điều khiển",
+        "options": [
+          "kiểm soát, điều khiển",
+          "sở thích, sự ưu tiên",
+          "niềm tin, sự tin tưởng",
+          "thuộc thể chất, cơ thể"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"company identity\" nghĩa là gì?",
+        "correctAnswer": "nhận diện công ty",
+        "options": [
+          "nhận diện công ty",
+          "niềm đam mê, cảm xúc mạnh",
+          "sự cẩn trọng, cảnh báo",
+          "sự thuần khiết"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"cultural differences\" nghĩa là gì?",
+        "correctAnswer": "sự khác biệt văn hóa",
+        "options": [
+          "sự khác biệt văn hóa",
+          "kiểm soát, điều khiển",
+          "nhận diện công ty",
+          "sở thích, sự ưu tiên"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"mourning\" nghĩa là gì?",
+        "correctAnswer": "sự tang tóc, đau buồn",
+        "options": [
+          "sự tang tóc, đau buồn",
+          "sự yên bình, điềm tĩnh",
+          "sự khác biệt văn hóa",
+          "thuộc tinh thần, trí óc"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"wealth\" nghĩa là gì?",
+        "correctAnswer": "sự giàu có, thịnh vượng",
+        "options": [
+          "sự giàu có, thịnh vượng",
+          "người tiêu dùng",
+          "sự cẩn trọng, cảnh báo",
+          "tiếp thị"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"preference\" nghĩa là gì?",
+        "correctAnswer": "sở thích, sự ưu tiên",
+        "options": [
+          "sở thích, sự ưu tiên",
+          "ảnh hưởng, tác động",
+          "quyết định",
+          "thuộc thể chất, cơ thể"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"decisions\" nghĩa là gì?",
+        "correctAnswer": "quyết định",
+        "options": [
+          "quyết định",
+          "kiểm soát, điều khiển",
+          "sự tang tóc, đau buồn",
+          "sự khác biệt văn hóa"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"organic\" nghĩa là gì?",
+        "correctAnswer": "hữu cơ, tự nhiên",
+        "options": [
+          "hữu cơ, tự nhiên",
+          "tâm trạng",
+          "sự khác biệt văn hóa",
+          "quyết định"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"universal\" nghĩa là gì?",
+        "correctAnswer": "toàn cầu, phổ quát",
+        "options": [
+          "toàn cầu, phổ quát",
+          "sự yên bình, điềm tĩnh",
+          "niềm đam mê, cảm xúc mạnh",
+          "năng lượng"
+        ]
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "affect",
+        "options": ["affect", "cultural differences", "consumer", "physical"],
+        "wordToSpeak": "affect"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "mood",
+        "options": ["mood", "focus", "cultural differences", "memory"],
+        "wordToSpeak": "mood"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "behavior",
+        "options": ["behavior", "branding", "trigger", "cool colors"],
+        "wordToSpeak": "behavior"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "calmness",
+        "options": ["calmness", "purity", "company identity", "focus"],
+        "wordToSpeak": "calmness"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "passion",
+        "options": ["passion", "mental", "affect", "warm colors"],
+        "wordToSpeak": "passion"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "branding",
+        "options": ["branding", "company identity", "advertising", "mental"],
+        "wordToSpeak": "branding"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "marketing",
+        "options": ["marketing", "company identity", "consumer", "passion"],
+        "wordToSpeak": "marketing"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "consumer",
+        "options": ["consumer", "peace", "passion", "organic"],
+        "wordToSpeak": "consumer"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "universal",
+        "options": ["universal", "mood", "memory", "creativity"],
+        "wordToSpeak": "universal"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "preference",
+        "options": ["preference", "cool colors", "association", "wealth"],
+        "wordToSpeak": "preference"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"ảnh hưởng, tác động\"",
+        "correctAnswer": "affect"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"tâm trạng\"",
+        "correctAnswer": "mood"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"hành vi, cách cư xử\"",
+        "correctAnswer": "behavior"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"sự yên bình, điềm tĩnh\"",
+        "correctAnswer": "calmness"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"niềm đam mê, cảm xúc mạnh\"",
+        "correctAnswer": "passion"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"xây dựng thương hiệu\"",
+        "correctAnswer": "branding"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"tiếp thị\"",
+        "correctAnswer": "marketing"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"người tiêu dùng\"",
+        "correctAnswer": "consumer"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"toàn cầu, phổ quát\"",
+        "correctAnswer": "universal"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"sở thích, sự ưu tiên\"",
+        "correctAnswer": "preference"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The weather can _____ your mood.",
+        "correctAnswer": "affect",
+        "options": ["affect", "caution", "branding", "physical"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "I am in a good _____ today.",
+        "correctAnswer": "mood",
+        "options": ["mood", "peace", "attention", "mourning"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Colors can change our _____.",
+        "correctAnswer": "feelings",
+        "options": [
+          "feelings",
+          "creativity",
+          "universal",
+          "cultural differences"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Good design can change human _____.",
+        "correctAnswer": "behavior",
+        "options": ["behavior", "cool colors", "passion", "trust"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Red can _____ energy.",
+        "correctAnswer": "trigger",
+        "options": ["trigger", "behavior", "reaction", "affect"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Doing puzzles is good for _____ health.",
+        "correctAnswer": "mental",
+        "options": ["mental", "signal", "peace", "calmness"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Many people make an _____ between blue and sky.",
+        "correctAnswer": "association",
+        "options": ["association", "trust", "mental", "organic"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "What is your _____ to this color?",
+        "correctAnswer": "reaction",
+        "options": ["reaction", "mental", "luxury", "cool colors"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Yellow signs grab our _____ quickly.",
+        "correctAnswer": "attention",
+        "options": ["attention", "advertising", "mood", "trust"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Soft green helps me _____ on study.",
+        "correctAnswer": "focus",
+        "options": ["focus", "cool colors", "reaction", "decisions"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "This blue color brings back a _____ of the sea.",
+        "correctAnswer": "memory",
+        "options": ["memory", "branding", "signal", "appetite"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Colors have a _____ power.",
+        "correctAnswer": "hidden",
+        "options": ["hidden", "reaction", "company identity", "caution"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Red lights _____ cars to stop.",
+        "correctAnswer": "signal",
+        "options": ["signal", "physical", "focus", "calmness"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "_____ are great for living rooms.",
+        "correctAnswer": "Warm colors",
+        "options": ["Warm colors", "association", "energy", "purity"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "_____ can help you sleep better.",
+        "correctAnswer": "Cool colors",
+        "options": ["Cool colors", "control", "passion", "mood"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The _____ of blue relaxes my mind.",
+        "correctAnswer": "calmness",
+        "options": ["calmness", "royalty", "peace", "energy"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Blue is the color of _____.",
+        "correctAnswer": "trust",
+        "options": ["trust", "universal", "control", "passion"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "White represents _____.",
+        "correctAnswer": "peace",
+        "options": ["peace", "mood", "company identity", "caution"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Red stimulates our _____.",
+        "correctAnswer": "appetite",
+        "options": ["appetite", "royalty", "mourning", "organic"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Use _____ when crossing the street.",
+        "correctAnswer": "caution",
+        "options": ["caution", "luxury", "cultural differences", "hidden"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Red represents _____ and love.",
+        "correctAnswer": "passion",
+        "options": ["passion", "cool colors", "mood", "branding"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Purple was once the color of _____.",
+        "correctAnswer": "royalty",
+        "options": ["royalty", "control", "behavior", "purity"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "White symbolizes _____.",
+        "correctAnswer": "purity",
+        "options": ["purity", "peace", "mental", "memory"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Orange is a color of energy and _____.",
+        "correctAnswer": "creativity",
+        "options": ["creativity", "preference", "mental", "trigger"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Red causes _____ changes like a fast heart rate.",
+        "correctAnswer": "physical",
+        "options": ["physical", "branding", "behavior", "passion"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Bright colors give us _____.",
+        "correctAnswer": "energy",
+        "options": ["energy", "behavior", "attention", "consumer"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Black can represent _____.",
+        "correctAnswer": "luxury",
+        "options": [
+          "luxury",
+          "company identity",
+          "reaction",
+          "cultural differences"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Logos are important for company _____.",
+        "correctAnswer": "branding",
+        "options": ["branding", "warm colors", "wealth", "advertising"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "_____ team chooses color for the package.",
+        "correctAnswer": "Marketing",
+        "options": ["Marketing", "decisions", "focus", "branding"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Good _____ uses colors to catch eyes.",
+        "correctAnswer": "advertising",
+        "options": ["advertising", "universal", "royalty", "company identity"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Colors help _____s make decisions.",
+        "correctAnswer": "consumer",
+        "options": ["consumer", "marketing", "branding", "attention"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Stores use music and colors to _____ buying habits.",
+        "correctAnswer": "control",
+        "options": ["control", "company identity", "wealth", "peace"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Blue logo is part of their _____.",
+        "correctAnswer": "company identity",
+        "options": ["company identity", "wealth", "affect", "signal"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "_____ change color meanings.",
+        "correctAnswer": "Cultural differences",
+        "options": ["Cultural differences", "behavior", "marketing", "consumer"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Black is the color of _____ in Western countries.",
+        "correctAnswer": "mourning",
+        "options": ["mourning", "affect", "trust", "preference"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "In Asia, red is linked with _____ and luck.",
+        "correctAnswer": "wealth",
+        "options": ["wealth", "affect", "branding", "caution"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "What is your color _____?",
+        "correctAnswer": "preference",
+        "options": ["preference", "mood", "trust", "attention"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Colors affect our shopping _____.",
+        "correctAnswer": "decisions",
+        "options": ["decisions", "peace", "caution", "warm colors"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Green is always used for _____ food.",
+        "correctAnswer": "organic",
+        "options": ["organic", "appetite", "trust", "mourning"]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Smiling is a _____ language.",
+        "correctAnswer": "universal",
+        "options": ["universal", "cultural differences", "organic", "decisions"]
+      }
+    ]
+  }
+}

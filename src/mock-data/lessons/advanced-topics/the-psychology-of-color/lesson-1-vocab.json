@@ -169,14 +169,29 @@
         { "sentence": "The weather can _____ your mood.", "word": "affect" },
         { "sentence": "I am in a good _____ today.", "word": "mood" },
         { "sentence": "Colors can change our _____.", "word": "feelings" },
-        { "sentence": "Good design can change human _____.", "word": "behavior" },
+        {
+          "sentence": "Good design can change human _____.",
+          "word": "behavior"
+        },
         { "sentence": "Red can _____ energy.", "word": "trigger" },
-        { "sentence": "Doing puzzles is good for _____ health.", "word": "mental" },
-        { "sentence": "Many people make an _____ between blue and sky.", "word": "association" },
+        {
+          "sentence": "Doing puzzles is good for _____ health.",
+          "word": "mental"
+        },
+        {
+          "sentence": "Many people make an _____ between blue and sky.",
+          "word": "association"
+        },
         { "sentence": "What is your _____ to this color?", "word": "reaction" },
-        { "sentence": "Yellow signs grab our _____ quickly.", "word": "attention" },
+        {
+          "sentence": "Yellow signs grab our _____ quickly.",
+          "word": "attention"
+        },
         { "sentence": "Soft green helps me _____ on study.", "word": "focus" },
-        { "sentence": "This blue color brings back a _____ of the sea.", "word": "memory" },
+        {
+          "sentence": "This blue color brings back a _____ of the sea.",
+          "word": "memory"
+        },
         { "sentence": "Colors have a _____ power.", "word": "hidden" },
         { "sentence": "Red lights _____ cars to stop.", "word": "signal" }
       ]
@@ -189,7 +204,9 @@
         "root": [
           {
             "tag": "h2",
-            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
             "children": [
               { "text": "The Psychology of Color" },
               { "tag": "br" },
@@ -199,38 +216,50 @@
           {
             "tag": "p",
             "attributes": { "class": "text-3xl text-gray-700 mb-4" },
-            "children": [
-              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
-            ]
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
           },
           {
             "tag": "ol",
-            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
             "children": [
               {
                 "tag": "li",
-                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+                "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên."
+                  }
+                ]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên."
+                  }
+                ]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên."
+                  }
+                ]
               }
             ]
           },
           {
             "tag": "p",
-            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
-            "children": [
-              { "text": "Chúc các em học tốt!" }
-            ]
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
           }
         ],
         "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"

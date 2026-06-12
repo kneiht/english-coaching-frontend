@@ -1,0 +1,275 @@
+{
+  "lesson-7-writing": {
+    "background": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": "The Psychology of Color",
+    "description": "Lesson 7: Writing",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "writing-guide" }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "The Psychology of Color" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 7: Writing" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Đọc kỹ bài hướng dẫn trong phần Writing Guide."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Làm theo hướng dẫn viết bài đề xuất thiết kế màu sắc cho một thương hiệu (khoảng 200 từ) và chụp hình nộp cho thầy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "writing-guide",
+        "title": "Writing Guide",
+        "scrollable": true,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "The Psychology of Color",
+            "className": "text-4xl font-bold text-indigo-700 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Lesson 7: Writing Guide",
+            "className": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "GUIDE TO WRITING A BRANDING & COLOR DESIGN PROPOSAL (Around 200 words)",
+            "className": "text-2xl font-bold text-blue-600"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "HƯỚNG DẪN VIẾT BẢN ĐỀ XUẤT THIẾT KẾ MÀU SẮC THƯƠNG HIỆU (Khoảng 200 từ)",
+            "className": "text-2xl font-bold text-indigo-600 mb-4"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "1. Choose Your Business Concept",
+            "className": "text-xl font-semibold text-blue-600 pt-2"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": true,
+            "items": [
+              "Identify the type of business or product you want to design for (Xác định loại hình doanh nghiệp hoặc sản phẩm bạn muốn thiết kế)",
+              "Name your brand (Đặt tên cho thương hiệu của bạn)",
+              "Define your brand values and identity (Xác định các giá trị và nhận diện thương hiệu của bạn)",
+              "Describe your target customers (Mô tả khách hàng mục tiêu của bạn)"
+            ],
+            "className": "list-decimal list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Business Examples: (Ví dụ doanh nghiệp:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1 mt-4"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Organic Juice Shop (Cửa hàng nước ép hữu cơ): representing health, freshness, and nature.",
+              "Eco-Friendly Clothing Line (Dòng quần áo thân thiện môi trường): representing sustainability and purity.",
+              "Tech Startup (Khởi nghiệp công nghệ): representing trust, innovation, and calmness.",
+              "Luxury Watch Brand (Thương hiệu đồng hồ xa xỉ): representing wealth, luxury, and royalty."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "2. Select Your Color Palette",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Choose one primary color and one or two secondary colors (Chọn một màu chủ đạo và một hoặc hai màu phụ)",
+              "Explain the psychological meaning of each color (Giải thích ý nghĩa tâm lý học của mỗi màu sắc)",
+              "Link the colors to your brand identity (Kết nối màu sắc với nhận diện thương hiệu của bạn)"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "3. Explain Expected Consumer Reactions",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "text": "Instructions: (Hướng dẫn:)",
+            "className": "text-lg font-semibold text-gray-700 pt-1"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Describe how these colors will affect consumer mood and emotions (Mô tả cách các màu này ảnh hưởng đến tâm trạng và cảm xúc của người tiêu dùng)",
+              "Show how they trigger positive decisions or actions (Cho thấy cách chúng kích hoạt các quyết định hoặc hành động tích cực)",
+              "Mention how it helps control customer perception of your product (Đề cập cách nó giúp kiểm soát nhận thức của khách hàng về sản phẩm)"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "4. Structure of Your Proposal",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Proposal Section (Phần đề xuất)",
+              "What to Include (Nội dung cần có)",
+              "Word Count (Số từ)"
+            ],
+            "rows": [
+              [
+                "Introduction (Giới thiệu)",
+                "Introduce the brand name, product, and target values.\nGiới thiệu tên thương hiệu, sản phẩm và giá trị mục tiêu.",
+                "40-50 words"
+              ],
+              [
+                "Color Choice (Lựa chọn màu sắc)",
+                "State your primary and secondary colors and their psychological meanings.\nNêu các màu chủ đạo và màu phụ cùng ý nghĩa tâm lý.",
+                "60-70 words"
+              ],
+              [
+                "Consumer Impact (Tác động người tiêu dùng)",
+                "Explain how these colors affect feelings, trigger buying decisions, and build trust.\nGiải thích cách màu sắc ảnh hưởng cảm xúc, quyết định mua và tạo niềm tin.",
+                "60-70 words"
+              ],
+              [
+                "Conclusion (Kết luận)",
+                "Summarize your design proposal and its expected success.\nTóm tắt đề xuất thiết kế và mức độ thành công mong đợi.",
+                "30-40 words"
+              ]
+            ],
+            "className": "w-full border-collapse mt-2 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "5. Vocabulary to Use in Your Proposal",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Core Branding: branding, marketing, company identity, advertising, consumer.",
+              "Psychology Terms: affect, mood, feelings, behavior, trigger, mental, decisions.",
+              "Color Categories: warm colors, cool colors, calmness, trust, peace, luxury, royalty.",
+              "Product Attributes: organic, purity, creativity, energy, appetite."
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "6. Sample Proposal: 'GreenVibe' Juice Bar Design",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "Đề xuất mẫu: Thiết kế cho quán nước ép 'GreenVibe'",
+            "className": "text-xl font-semibold text-indigo-600 pt-1"
+          },
+          {
+            "type": "paragraph",
+            "text": "GreenVibe is a new organic juice shop aimed at health-conscious consumers. Our goal is to establish a strong company identity that communicates freshness, health, and natural purity.",
+            "className": "text-gray-800 mt-4 font-medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "To achieve this, we have selected green as our primary color and orange as our secondary color. Green is a cool color that acts as a universal symbol for nature, which helps promote trust and calmness. On the other hand, orange is a warm color representing high energy and creativity. It is also known to stimulate the appetite, making it perfect for a food brand.",
+            "className": "text-gray-800 mt-2 font-medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "We believe these color choices will deeply affect a consumer's mood and feelings when they enter our shop. By combining green and orange in our marketing and packaging design, we can trigger positive purchasing decisions and control how people perceive our brand. This visual strategy will ensure GreenVibe stays in our customers' memory for a long time.",
+            "className": "text-gray-800 mt-2 font-medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "In conclusion, utilizing color psychology is a vital part of our branding campaign. A well-designed color scheme will not only attract attention but also build a sustainable connection with our community.",
+            "className": "text-gray-800 mt-2 mb-4 font-medium"
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-xl"
+      }
+    ]
+  }
+}

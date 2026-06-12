@@ -32,6 +32,56 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-4-reading",
+    "lessonDisplay": "Lesson 4: Reading",
+    "description": "Reading",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-5-listening",
+    "lessonDisplay": "Lesson 5: Listening",
+    "description": "Listening",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-6-shadowing",
+    "lessonDisplay": "Lesson 6: Shadowing",
+    "description": "Shadowing",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-7-writing",
+    "lessonDisplay": "Lesson 7: Writing",
+    "description": "Writing",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-psychology-of-color",
+    "unitDisplay": "The Psychology of Color",
+    "lesson": "lesson-8-presentation",
+    "lessonDisplay": "Lesson 8: Presentation",
+    "description": "Presentation",
+    "bg": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "evolution-of-writing-systems",
     "unitDisplay": "Evolution of Writing Systems",
     "lesson": "lesson-1-vocab",

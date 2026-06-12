@@ -166,18 +166,51 @@
     ],
     "clozeData": {
       "sentences": [
-        { "sentence": "Logos are important for company _____.", "word": "branding" },
-        { "sentence": "Marketing team chooses color for the _____.", "word": "package" },
-        { "sentence": "Good _____ uses colors to catch eyes.", "word": "advertising" },
-        { "sentence": "Colors help _____ make decisions.", "word": "consumers" },
-        { "sentence": "Stores use music and colors to _____ buying habits.", "word": "control" },
-        { "sentence": "Blue logo is part of their company _____.", "word": "identity" },
-        { "sentence": "Cultural _____ change color meanings.", "word": "differences" },
-        { "sentence": "Black is the color of _____ in Western countries.", "word": "mourning" },
-        { "sentence": "In Asia, red is linked with _____ and luck.", "word": "wealth" },
+        {
+          "sentence": "Logos are important for company _____.",
+          "word": "branding"
+        },
+        {
+          "sentence": "Marketing team chooses color for the _____.",
+          "word": "package"
+        },
+        {
+          "sentence": "Good _____ uses colors to catch eyes.",
+          "word": "advertising"
+        },
+        {
+          "sentence": "Colors help _____ make decisions.",
+          "word": "consumers"
+        },
+        {
+          "sentence": "Stores use music and colors to _____ buying habits.",
+          "word": "control"
+        },
+        {
+          "sentence": "Blue logo is part of their company _____.",
+          "word": "identity"
+        },
+        {
+          "sentence": "Cultural _____ change color meanings.",
+          "word": "differences"
+        },
+        {
+          "sentence": "Black is the color of _____ in Western countries.",
+          "word": "mourning"
+        },
+        {
+          "sentence": "In Asia, red is linked with _____ and luck.",
+          "word": "wealth"
+        },
         { "sentence": "What is your color _____?", "word": "preference" },
-        { "sentence": "Colors affect our shopping _____.", "word": "decisions" },
-        { "sentence": "Green is always used for _____ food.", "word": "organic" },
+        {
+          "sentence": "Colors affect our shopping _____.",
+          "word": "decisions"
+        },
+        {
+          "sentence": "Green is always used for _____ food.",
+          "word": "organic"
+        },
         { "sentence": "Smiling is a _____ language.", "word": "universal" }
       ]
     },
@@ -189,7 +222,9 @@
         "root": [
           {
             "tag": "h2",
-            "attributes": { "class": "text-4xl font-bold text-indigo-700 mb-6 text-center" },
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
             "children": [
               { "text": "The Psychology of Color" },
               { "tag": "br" },
@@ -199,38 +234,50 @@
           {
             "tag": "p",
             "attributes": { "class": "text-3xl text-gray-700 mb-4" },
-            "children": [
-              { "text": "Hãy hoàn thành các nhiệm vụ sau:" }
-            ]
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
           },
           {
             "tag": "ol",
-            "attributes": { "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside" },
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
             "children": [
               {
                 "tag": "li",
-                "children": [ { "text": "Luyện tập phát âm từ vựng và câu." } ]
+                "children": [{ "text": "Luyện tập phát âm từ vựng và câu." }]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Luyện tập từ vựng bằng các hoạt động tương tác, chụp kết quả gửi lại cho giáo viên."
+                  }
+                ]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Viết lại từ vựng và câu vào vở, chụp hình gửi giáo viên."
+                  }
+                ]
               },
               {
                 "tag": "li",
-                "children": [ { "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên." } ]
+                "children": [
+                  {
+                    "text": "Ghi âm hoặc quay video phát âm các từ vựng và câu gửi cho giáo viên."
+                  }
+                ]
               }
             ]
           },
           {
             "tag": "p",
-            "attributes": { "class": "text-xl text-gray-600 mt-6 italic text-center" },
-            "children": [
-              { "text": "Chúc các em học tốt!" }
-            ]
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
           }
         ],
         "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
