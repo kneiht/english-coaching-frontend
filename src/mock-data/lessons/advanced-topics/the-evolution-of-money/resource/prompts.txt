@@ -1,0 +1,202 @@
+[
+  {
+    "object": "currency",
+    "prompt": "A photo of various modern currency banknotes and coins spread neatly on a flat surface, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "currency.webp"
+  },
+  {
+    "object": "barter",
+    "prompt": "A photo of two people in an ancient market bartering, exchanging a basket of fruit for a bag of grain, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "barter.webp"
+  },
+  {
+    "object": "exchange",
+    "prompt": "A photo of hands exchanging goods over a wooden counter, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "exchange.webp"
+  },
+  {
+    "object": "coincidence",
+    "prompt": "A photo showing a coincidental meeting of two friends in a busy street, looking surprised, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "coincidence.webp"
+  },
+  {
+    "object": "transaction",
+    "prompt": "A close-up photo of a transaction, a hand paying with cash at a store checkout, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "transaction.webp"
+  },
+  {
+    "object": "commodity",
+    "prompt": "A photo of raw commodities like sacks of wheat, salt, and coffee beans in a rustic marketplace, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "commodity.webp"
+  },
+  {
+    "object": "precious",
+    "prompt": "A photo of precious items like gold rings and silver bars shining under spotlight, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "precious.webp"
+  },
+  {
+    "object": "durable",
+    "prompt": "A photo showing a strong, durable metal tool withstanding wear and pressure, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "durable.webp"
+  },
+  {
+    "object": "portable",
+    "prompt": "A photo of a person carrying a small portable wallet easily inside their pocket, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "portable.webp"
+  },
+  {
+    "object": "divide",
+    "prompt": "A photo showing a loaf of bread being divided into equal smaller slices on a board, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "divide.webp"
+  },
+  {
+    "object": "mint",
+    "prompt": "A photo of a coin minting machine stamping metal sheets to create new coins, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "mint.webp"
+  },
+  {
+    "object": "standard",
+    "prompt": "A photo of a set of standard measuring weights sitting next to each other on a table, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "standard.webp"
+  },
+  {
+    "object": "guarantee",
+    "prompt": "A photo showing an official certificate or gold seal that guarantees the quality of a product, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "guarantee.webp"
+  },
+  {
+    "object": "counterfeit",
+    "prompt": "A photo comparing a genuine dollar bill next to a counterfeit bill, highlighting details with a magnifying glass, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "counterfeit.webp"
+  },
+  {
+    "object": "deposit",
+    "prompt": "A photo of a customer depositing cash at a bank counter, handing bills to a teller, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "deposit.webp"
+  },
+  {
+    "object": "bank",
+    "prompt": "A photo showing the grand neoclassical exterior facade of a traditional bank building, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "bank.webp"
+  },
+  {
+    "object": "receipt",
+    "prompt": "A close-up photo of a printed paper receipt showing transactions on a desk, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "receipt.webp"
+  },
+  {
+    "object": "purchase",
+    "prompt": "A photo of a person making a purchase, selecting items at a retail store checkout, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "purchase.webp"
+  },
+  {
+    "object": "redeem",
+    "prompt": "A photo showing a customer redeeming a paper coupon for a product at a service counter, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "redeem.webp"
+  },
+  {
+    "object": "backed",
+    "prompt": "A conceptual photo showing paper bills backed by a solid stack of gold bars underneath them, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "backed.webp"
+  },
+  {
+    "object": "financial",
+    "prompt": "A photo showing financial charts, stock market graphs, and a calculator on an office desk, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "financial.webp"
+  },
+  {
+    "object": "fiat",
+    "prompt": "A photo of local government-issued banknotes representing fiat money, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "fiat.webp"
+  },
+  {
+    "object": "central",
+    "prompt": "A photo of a grand national central bank headquarters building, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "central.webp"
+  },
+  {
+    "object": "legal",
+    "prompt": "A close-up photo of a legal document showing a contract and a gavel on a wooden table, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "legal.webp"
+  },
+  {
+    "object": "payment",
+    "prompt": "A photo showing a payment terminal processing a card swipe at a store, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "payment.webp"
+  },
+  {
+    "object": "trust",
+    "prompt": "A photo of two business partners shaking hands, representing trust and agreement, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "trust.webp"
+  },
+  {
+    "object": "inflation",
+    "prompt": "A conceptual photo of a rising line chart next to a shopping cart to symbolize inflation, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "inflation.webp"
+  },
+  {
+    "object": "circulation",
+    "prompt": "A photo of paper notes in circulation, passing through hands in a busy crowded marketplace, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "circulation.webp"
+  },
+  {
+    "object": "commercial",
+    "prompt": "A photo of a commercial shopping district with multiple local stores and bank offices, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "commercial.webp"
+  },
+  {
+    "object": "credit",
+    "prompt": "A photo of a credit card being used to pay on a modern keypad terminal, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "credit.webp"
+  },
+  {
+    "object": "transfer",
+    "prompt": "A photo of a mobile phone screen displaying a successful money transfer screen, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "transfer.webp"
+  },
+  {
+    "object": "cashless",
+    "prompt": "A photo of a customer using a smartwatch to tap and pay, symbolizing a cashless system, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "cashless.webp"
+  },
+  {
+    "object": "cryptocurrency",
+    "prompt": "A photo of physical golden bitcoin coins sitting on top of a glowing computer circuit board, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "cryptocurrency.webp"
+  },
+  {
+    "object": "decentralized",
+    "prompt": "A graphic of a decentralized global network connecting many points together without a center, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "decentralized.webp"
+  },
+  {
+    "object": "blockchain",
+    "prompt": "A modern 3D abstract rendering of interconnected glowing digital blocks forming a chain, representing blockchain, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "blockchain.webp"
+  },
+  {
+    "object": "security",
+    "prompt": "A photo of a safe digital key icon glowing green on a dark keyboard background, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "security.webp"
+  },
+  {
+    "object": "transparent",
+    "prompt": "A clean transparent glass sphere sitting on a table under soft light, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "transparent.webp"
+  },
+  {
+    "object": "record",
+    "prompt": "A photo of a digital record of transactions displayed clearly on a computer screen, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "record.webp"
+  },
+  {
+    "object": "volatile",
+    "prompt": "A chart showing volatile price action with rapid spikes and sudden drops, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "volatile.webp"
+  },
+  {
+    "object": "accumulate",
+    "prompt": "A photo of coins slowly being accumulated and stacked into a tall tower, highly detailed, photorealistic, 8k, don't add any text to the image",
+    "filename": "accumulate.webp"
+  }
+]

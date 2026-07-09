@@ -310,6 +310,16 @@
       "course": "advanced-topics",
       "unit": "the-psychology-of-color",
       "lesson": "lesson-8-presentation"
+    },
+    {
+      "course": "advanced-topics",
+      "courseDisplay": "Advanced Topics",
+      "unit": "the-evolution-of-money",
+      "unitDisplay": "The Evolution of Money",
+      "lesson": "lesson-1-vocab",
+      "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+      "description": "Vocabulary",
+      "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
     }
   ]
 }

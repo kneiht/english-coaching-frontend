@@ -1,0 +1,17 @@
+
+=== Run started at 2026-04-07T14:56:00.671252 ===
+Model: IMAGEN_3_5, Size: LANDSCAPE
+--- Processing file 1/1: /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json ---
+  [1/6] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json -> image1.webp
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/images/image1.webp
+  [2/6] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json -> image2.webp
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/images/image2.webp
+  [3/6] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json -> image3.webp
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/images/image3.webp
+  [4/6] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json -> image4.webp
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/images/image4.webp
+  [5/6] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json -> image5.webp
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/images/image5.webp
+  [6/6] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/prompts-reading.json -> image6.webp
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/evolution-of-writing-systems/resource/reading/images/image6.webp
+Finished processing. Total images generated: 6

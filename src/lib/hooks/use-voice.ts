@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from 'react'
 import { useStore } from '@tanstack/react-store'
+import { useParams } from '@tanstack/react-router'
 import { ttsStore, setVoice, setRate } from '@/lib/stores/tts.store'
+
 
 export const useVoice = () => {
   const [voices, setVoices] = useState<Array<SpeechSynthesisVoice>>([])
@@ -112,17 +114,22 @@ export const useVoice = () => {
     return true
   }
 
+  const params = useParams({ strict: false }) as Record<string, string>
+  const course = params?.course
+  const unit = params?.unit
+  const isLocal = course && course !== 'everybody-up-starter'
+
   const speakWord = (
     word: string,
     pronunciation?: string,
     stopPrevious?: boolean,
   ) => {
     if (pronunciation) {
-      playOnlineAudio(
-        `https://storage.chillteacher.com/audio-words/${pronunciation.replace('.mp3', '.wav')}`,
-        word,
-        stopPrevious,
-      )
+      const cleanFile = pronunciation.replace('.mp3', '.wav')
+      const url = isLocal
+        ? `/src/mock-data/lessons/${course}/${unit}/audio-words/${cleanFile}`
+        : `https://storage.chillteacher.com/audio-words/${cleanFile}`
+      playOnlineAudio(url, word, stopPrevious)
     } else {
       speak(word)
     }
@@ -134,11 +141,11 @@ export const useVoice = () => {
     stopPrevious?: boolean,
   ) => {
     if (pronunciation) {
-      playOnlineAudio(
-        `https://storage.chillteacher.com/audio-sentences/${pronunciation.replace('.mp3', '.wav')}`,
-        sentence,
-        stopPrevious,
-      )
+      const cleanFile = pronunciation.replace('.mp3', '.wav')
+      const url = isLocal
+        ? `/src/mock-data/lessons/${course}/${unit}/audio-sentences/${cleanFile}`
+        : `https://storage.chillteacher.com/audio-sentences/${cleanFile}`
+      playOnlineAudio(url, sentence, stopPrevious)
     } else {
       speak(sentence)
     }

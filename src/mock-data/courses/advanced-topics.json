@@ -2,6 +2,36 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-1-vocab",
+    "lessonDisplay": "Lesson 1: Vocabulary - Part 1",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-2-vocab",
+    "lessonDisplay": "Lesson 2: Vocabulary - Part 2",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-3-vocab",
+    "lessonDisplay": "Lesson 3: Vocabulary - Part 3",
+    "description": "Vocabulary",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "the-psychology-of-color",
     "unitDisplay": "The Psychology of Color",
     "lesson": "lesson-1-vocab",

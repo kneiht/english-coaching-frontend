@@ -17,7 +17,6 @@ wait-upload/
 
 # 
 prompts.json
-images/
 public/demo-slides
 
 __pycache__

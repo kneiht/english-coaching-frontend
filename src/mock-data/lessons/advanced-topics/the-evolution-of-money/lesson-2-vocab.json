@@ -1,0 +1,210 @@
+{
+  "lesson-2-vocab": {
+    "background": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+    "title": "The Evolution of Money",
+    "description": "Lesson 2: Vocabulary - Part 2",
+    "menu": [
+      {
+        "type": "page",
+        "id": "assignments"
+      },
+      {
+        "type": "activity",
+        "id": "vocabulary"
+      },
+      {
+        "type": "activity",
+        "id": "flashcards"
+      },
+      {
+        "type": "activity",
+        "id": "matching-game"
+      },
+      {
+        "type": "activity",
+        "id": "memory-game"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-envi"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-vien"
+      },
+      {
+        "type": "activity",
+        "id": "picture-choice"
+      },
+      {
+        "type": "activity",
+        "id": "image-reveal"
+      },
+      {
+        "type": "activity",
+        "id": "picture-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-sentence"
+      },
+      {
+        "type": "activity",
+        "id": "translation-game"
+      },
+      {
+        "type": "activity",
+        "id": "cloze-game"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "counterfeit",
+        "phonics": "/ˈkaʊntərfɪt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/counterfeit.webp",
+        "vietnameseMeaning": "giả mạo",
+        "sampleSentence": "Standardized coins helped prevent counterfeit money from spreading.",
+        "vietnameseTranslation": "Đồng xu tiêu chuẩn hóa giúp ngăn ngừa tiền giả lan truyền.",
+        "wordPronunciation": "counterfeit.wav",
+        "sentencePronunciation": "standardized-coins-helped-prevent-counterfeit-money-from-spreading.wav"
+      },
+      {
+        "word": "deposit",
+        "phonics": "/dɪˈpɑːzɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/deposit.webp",
+        "vietnameseMeaning": "gửi tiền",
+        "sampleSentence": "Merchants would deposit their gold at a bank for safekeeping.",
+        "vietnameseTranslation": "Các thương nhân thường gửi vàng của họ tại ngân hàng để bảo quản an toàn.",
+        "wordPronunciation": "deposit.wav",
+        "sentencePronunciation": "merchants-would-deposit-their-gold-at-a-bank-for-safekeeping.wav"
+      },
+      {
+        "word": "bank",
+        "phonics": "/bæŋk/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/bank.webp",
+        "vietnameseMeaning": "ngân hàng",
+        "sampleSentence": "The bank kept the merchants' gold safe in a secure place.",
+        "vietnameseTranslation": "Ngân hàng đã giữ vàng của các thương nhân an toàn ở một nơi bảo mật.",
+        "wordPronunciation": "bank.wav",
+        "sentencePronunciation": "the-bank-kept-the-merchants-gold-safe-in-a-secure-place.wav"
+      },
+      {
+        "word": "receipt",
+        "phonics": "/rɪˈsiːt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/receipt.webp",
+        "vietnameseMeaning": "biên lai, hóa đơn",
+        "sampleSentence": "The goldsmith issued a paper receipt for the gold deposited.",
+        "vietnameseTranslation": "Người thợ kim hoàn đã cấp một biên lai giấy cho số vàng được gửi.",
+        "wordPronunciation": "receipt.wav",
+        "sentencePronunciation": "the-goldsmith-issued-a-paper-receipt-for-the-gold-deposited.wav"
+      },
+      {
+        "word": "purchase",
+        "phonics": "/ˈpɜːrtʃəs/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/purchase.webp",
+        "vietnameseMeaning": "mua, mua sắm",
+        "sampleSentence": "People could use receipts to purchase goods directly.",
+        "vietnameseTranslation": "Mọi người có thể sử dụng biên lai để mua hàng hóa trực tiếp.",
+        "wordPronunciation": "purchase.wav",
+        "sentencePronunciation": "people-could-use-receipts-to-purchase-goods-directly.wav"
+      },
+      {
+        "word": "redeem",
+        "phonics": "/rɪˈdiːm/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/redeem.webp",
+        "vietnameseMeaning": "quy đổi",
+        "sampleSentence": "They did not need to redeem their physical gold for every purchase.",
+        "vietnameseTranslation": "Họ không cần phải đổi lấy vàng vật chất cho mỗi lần mua hàng.",
+        "wordPronunciation": "redeem.wav",
+        "sentencePronunciation": "they-did-not-need-to-redeem-their-physical-gold-for-every-purchase.wav"
+      },
+      {
+        "word": "backed",
+        "phonics": "/bækt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/backed.webp",
+        "vietnameseMeaning": "được bảo chứng",
+        "sampleSentence": "Paper money was backed by actual gold reserves.",
+        "vietnameseTranslation": "Tiền giấy được bảo chứng bởi các dự trữ vàng thực tế.",
+        "wordPronunciation": "backed.wav",
+        "sentencePronunciation": "paper-money-was-backed-by-actual-gold-reserves.wav"
+      },
+      {
+        "word": "financial",
+        "phonics": "/faɪˈnænʃl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/financial.webp",
+        "vietnameseMeaning": "thuộc tài chính",
+        "sampleSentence": "The modern financial system is very complex.",
+        "vietnameseTranslation": "Hệ thống tài chính hiện đại rất phức tạp.",
+        "wordPronunciation": "financial.wav",
+        "sentencePronunciation": "the-modern-financial-system-is-very-complex.wav"
+      },
+      {
+        "word": "fiat",
+        "phonics": "/ˈfiːæt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/fiat.webp",
+        "vietnameseMeaning": "pháp định",
+        "sampleSentence": "Most countries now use fiat money instead of gold-backed currency.",
+        "vietnameseTranslation": "Hầu hết các quốc gia hiện nay sử dụng tiền pháp định thay vì tiền tệ được bảo chứng bằng vàng.",
+        "wordPronunciation": "fiat.wav",
+        "sentencePronunciation": "most-countries-now-use-fiat-money-instead-of-gold-backed-currency.wav"
+      },
+      {
+        "word": "central",
+        "phonics": "/ˈsentrəl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/central.webp",
+        "vietnameseMeaning": "trung ương",
+        "sampleSentence": "A central bank controls the money supply of a nation.",
+        "vietnameseTranslation": "Một ngân hàng trung ương kiểm soát lượng cung tiền của một quốc gia.",
+        "wordPronunciation": "central.wav",
+        "sentencePronunciation": "a-central-bank-controls-the-money-supply-of-a-nation.wav"
+      },
+      {
+        "word": "legal",
+        "phonics": "/ˈliːɡl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/legal.webp",
+        "vietnameseMeaning": "hợp pháp",
+        "sampleSentence": "Fiat currency is recognized as legal payment.",
+        "vietnameseTranslation": "Tiền tệ pháp định được công nhận là hình thức thanh toán hợp pháp.",
+        "wordPronunciation": "legal.wav",
+        "sentencePronunciation": "fiat-currency-is-recognized-as-legal-payment.wav"
+      },
+      {
+        "word": "payment",
+        "phonics": "/ˈpeɪmənt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/payment.webp",
+        "vietnameseMeaning": "thanh toán",
+        "sampleSentence": "Digital methods are now a common way to make a payment.",
+        "vietnameseTranslation": "Các phương thức kỹ thuật số hiện là cách phổ biến để thực hiện thanh toán.",
+        "wordPronunciation": "payment.wav",
+        "sentencePronunciation": "digital-methods-are-now-a-common-way-to-make-a-payment.wav"
+      },
+      {
+        "word": "trust",
+        "phonics": "/trʌst/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/trust.webp",
+        "vietnameseMeaning": "niềm tin",
+        "sampleSentence": "The value of fiat money is based entirely on public trust.",
+        "vietnameseTranslation": "Giá trị của tiền pháp định hoàn toàn dựa trên niềm tin của công chúng.",
+        "wordPronunciation": "trust.wav",
+        "sentencePronunciation": "the-value-of-fiat-money-is-based-entirely-on-public-trust.wav"
+      }
+    ]
+  }
+}

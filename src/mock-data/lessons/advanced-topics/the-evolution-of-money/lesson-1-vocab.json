@@ -1,0 +1,210 @@
+{
+  "lesson-1-vocab": {
+    "background": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+    "title": "The Evolution of Money",
+    "description": "Lesson 1: Vocabulary - Part 1",
+    "menu": [
+      {
+        "type": "page",
+        "id": "assignments"
+      },
+      {
+        "type": "activity",
+        "id": "vocabulary"
+      },
+      {
+        "type": "activity",
+        "id": "flashcards"
+      },
+      {
+        "type": "activity",
+        "id": "matching-game"
+      },
+      {
+        "type": "activity",
+        "id": "memory-game"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-envi"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-vien"
+      },
+      {
+        "type": "activity",
+        "id": "picture-choice"
+      },
+      {
+        "type": "activity",
+        "id": "image-reveal"
+      },
+      {
+        "type": "activity",
+        "id": "picture-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-sentence"
+      },
+      {
+        "type": "activity",
+        "id": "translation-game"
+      },
+      {
+        "type": "activity",
+        "id": "cloze-game"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "currency",
+        "phonics": "/ˈkɜːrənsi/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/currency.webp",
+        "vietnameseMeaning": "tiền tệ",
+        "sampleSentence": "Before modern currency existed, early human societies relied on a barter system.",
+        "vietnameseTranslation": "Trước khi tiền tệ hiện đại tồn tại, các xã hội loài người sơ khai phụ thuộc vào hệ thống trao đổi hàng hóa.",
+        "wordPronunciation": "currency.wav",
+        "sentencePronunciation": "before-modern-currency-existed-early-human-societies-relied-on-a-barter-system.wav"
+      },
+      {
+        "word": "barter",
+        "phonics": "/ˈbɑːrtər/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/barter.webp",
+        "vietnameseMeaning": "trao đổi hàng hóa",
+        "sampleSentence": "Early human societies relied on a barter system to exchange goods and services.",
+        "vietnameseTranslation": "Các xã hội loài người sơ khai phụ thuộc vào hệ thống trao đổi để trao đổi hàng hóa và dịch vụ.",
+        "wordPronunciation": "barter.wav",
+        "sentencePronunciation": "early-human-societies-relied-on-a-barter-system-to-exchange-goods-and-services.wav"
+      },
+      {
+        "word": "exchange",
+        "phonics": "/ɪksˈtʃeɪndʒ/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/exchange.webp",
+        "vietnameseMeaning": "trao đổi",
+        "sampleSentence": "People wanted to exchange goods and services more easily.",
+        "vietnameseTranslation": "Con người muốn trao đổi hàng hóa và dịch vụ một cách dễ dàng hơn.",
+        "wordPronunciation": "exchange.wav",
+        "sentencePronunciation": "people-wanted-to-exchange-goods-and-services-more-easily.wav"
+      },
+      {
+        "word": "coincidence",
+        "phonics": "/koʊˈɪnsɪdəns/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/coincidence.webp",
+        "vietnameseMeaning": "sự trùng hợp",
+        "sampleSentence": "Trading required a coincidence of wants, which made a transaction slow.",
+        "vietnameseTranslation": "Giao dịch yêu cầu sự trùng hợp về nhu cầu, điều này làm cho giao dịch bị chậm.",
+        "wordPronunciation": "coincidence.wav",
+        "sentencePronunciation": "trading-required-a-coincidence-of-wants-which-made-a-transaction-slow.wav"
+      },
+      {
+        "word": "transaction",
+        "phonics": "/trænˈzækʃn/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/transaction.webp",
+        "vietnameseMeaning": "giao dịch",
+        "sampleSentence": "A basic transaction could take a long time to complete.",
+        "vietnameseTranslation": "Một giao dịch cơ bản có thể mất nhiều thời gian để hoàn thành.",
+        "wordPronunciation": "transaction.wav",
+        "sentencePronunciation": "a-basic-transaction-could-take-a-long-time-to-complete.wav"
+      },
+      {
+        "word": "commodity",
+        "phonics": "/kəˈmɑːdəti/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/commodity.webp",
+        "vietnameseMeaning": "hàng hóa",
+        "sampleSentence": "Salt was a valuable commodity used as money in the past.",
+        "vietnameseTranslation": "Muối là một loại hàng hóa có giá trị được sử dụng như tiền tệ trong quá khứ.",
+        "wordPronunciation": "commodity.wav",
+        "sentencePronunciation": "salt-was-a-valuable-commodity-used-as-money-in-the-past.wav"
+      },
+      {
+        "word": "precious",
+        "phonics": "/ˈpreʃəs/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/precious.webp",
+        "vietnameseMeaning": "quý giá",
+        "sampleSentence": "Precious metals like gold and silver became popular for trade.",
+        "vietnameseTranslation": "Các kim loại quý như vàng và bạc đã trở nên phổ biến trong thương mại.",
+        "wordPronunciation": "precious.wav",
+        "sentencePronunciation": "precious-metals-like-gold-and-silver-became-popular-for-trade.wav"
+      },
+      {
+        "word": "durable",
+        "phonics": "/ˈdʊrəbl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/durable.webp",
+        "vietnameseMeaning": "bền bỉ",
+        "sampleSentence": "Gold is very durable and does not rust over time.",
+        "vietnameseTranslation": "Vàng rất bền và không bị gỉ sét theo thời gian.",
+        "wordPronunciation": "durable.wav",
+        "sentencePronunciation": "gold-is-very-durable-and-does-not-rust-over-time.wav"
+      },
+      {
+        "word": "portable",
+        "phonics": "/ˈpɔːrtəbl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/portable.webp",
+        "vietnameseMeaning": "dễ mang theo, tiện lợi",
+        "sampleSentence": "Paper money is more portable than heavy metal coins.",
+        "vietnameseTranslation": "Tiền giấy dễ mang theo hơn các đồng xu kim loại nặng.",
+        "wordPronunciation": "portable.wav",
+        "sentencePronunciation": "paper-money-is-more-portable-than-heavy-metal-coins.wav"
+      },
+      {
+        "word": "divide",
+        "phonics": "/dɪˈvaɪd/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/divide.webp",
+        "vietnameseMeaning": "chia nhỏ",
+        "sampleSentence": "It was easy to divide precious metals into smaller pieces.",
+        "vietnameseTranslation": "Rất dễ dàng để chia nhỏ các kim loại quý thành các phần nhỏ hơn.",
+        "wordPronunciation": "divide.wav",
+        "sentencePronunciation": "it-was-easy-to-divide-precious-metals-into-smaller-pieces.wav"
+      },
+      {
+        "word": "mint",
+        "phonics": "/mɪnt/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/mint.webp",
+        "vietnameseMeaning": "đúc tiền",
+        "sampleSentence": "Governments began to mint coins with official designs.",
+        "vietnameseTranslation": "Các chính phủ bắt đầu đúc tiền xu với các thiết kế chính thức.",
+        "wordPronunciation": "mint.wav",
+        "sentencePronunciation": "governments-began-to-mint-coins-with-official-designs.wav"
+      },
+      {
+        "word": "standard",
+        "phonics": "/ˈstændərd/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/standard.webp",
+        "vietnameseMeaning": "tiêu chuẩn",
+        "sampleSentence": "Rulers created coins of a standard weight to make trading fair.",
+        "vietnameseTranslation": "Các nhà cai trị đã tạo ra những đồng xu có trọng lượng tiêu chuẩn để giúp giao thương công bằng.",
+        "wordPronunciation": "standard.wav",
+        "sentencePronunciation": "rulers-created-coins-of-a-standard-weight-to-make-trading-fair.wav"
+      },
+      {
+        "word": "guarantee",
+        "phonics": "/ˌɡærənˈtiː/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/guarantee.webp",
+        "vietnameseMeaning": "đảm bảo",
+        "sampleSentence": "Official stamps on coins guarantee their weight and purity.",
+        "vietnameseTranslation": "Các con dấu chính thức trên tiền xu đảm bảo trọng lượng và độ tinh khiết của chúng.",
+        "wordPronunciation": "guarantee.wav",
+        "sentencePronunciation": "official-stamps-on-coins-guarantee-their-weight-and-purity.wav"
+      }
+    ]
+  }
+}

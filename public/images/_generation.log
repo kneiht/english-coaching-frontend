@@ -1,0 +1,322 @@
+
+=== Run started at 2026-01-16T13:27:35.752155 ===
+Model: IMAGEN_3_5, Size: SQUARE
+--- Processing file 1/1: /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt ---
+  [1/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> artificial-light.png
+      -> ERROR: artificial-light.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [2/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> excessive.png
+      -> ERROR: excessive.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [3/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> over-illumination.png
+      -> ERROR: over-illumination.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [4/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> inefficient.png
+      -> ERROR: inefficient.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [5/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> urban-areas.png
+      -> ERROR: urban-areas.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [6/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> disrupts.png
+      -> ERROR: disrupts.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [7/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> natural-rhythm.png
+      -> ERROR: natural-rhythm.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [8/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> ecosystem.png
+      -> ERROR: ecosystem.png - imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+  [9/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> wildlife.png
+
+=== Run started at 2026-01-16T13:34:29.892910 ===
+Model: IMAGEN_3_5, Size: SQUARE
+--- Processing file 1/1: /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt ---
+  [1/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> artificial-light.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/artificial-light.png
+  [2/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> excessive.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/excessive.png
+  [3/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> over-illumination.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/over-illumination.png
+  [4/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> inefficient.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/inefficient.png
+  [5/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> urban-areas.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/urban-areas.png
+  [6/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> disrupts.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/disrupts.png
+  [7/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> natural-rhythm.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/natural-rhythm.png
+  [8/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> ecosystem.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/ecosystem.png
+  [9/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> wildlife.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/wildlife.png
+  [10/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> stellar.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/stellar.png
+  [11/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> navigation.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/navigation.png
+  [12/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> streetlights.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/streetlights.png
+  [13/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> billboards.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/billboards.png
+  [14/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> skyglow.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/skyglow.png
+  [15/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> disorientated.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/disorientated.png
+  [16/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> hatchlings.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/hatchlings.png
+  [17/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> fatal.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/fatal.png
+  [18/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> ecological.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/ecological.png
+  [19/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> foraging.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/foraging.png
+  [20/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> predators.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/predators.png
+  [21/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> prey.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/prey.png
+  [22/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> brightness.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/brightness.png
+  [23/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> glaring.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/glaring.png
+  [24/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> human-health.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/human-health.png
+  [25/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> light-trespass.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/light-trespass.png
+  [26/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> melatonin-production.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/melatonin-production.png
+  [27/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> sleep-disorders.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/sleep-disorders.png
+  [28/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> insomnia.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/insomnia.png
+  [29/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> astronomers.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/astronomers.png
+  [30/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> visibility.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/visibility.png
+  [31/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> observe.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/observe.png
+  [32/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> energy-waste.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/energy-waste.png
+  [33/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> reflect.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/reflect.png
+  [34/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> mitigate.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/mitigate.png
+  [35/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> implementation.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/implementation.png
+  [36/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> shielded-lighting.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/shielded-lighting.png
+  [37/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> raise-awareness.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/raise-awareness.png
+  [38/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> dark-sky-preserves.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/dark-sky-preserves.png
+  [39/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> sustainable.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/sustainable.png
+  [40/40] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt -> migration.png
+      -> /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/images/migration.png
+Finished processing. Total images generated: 40

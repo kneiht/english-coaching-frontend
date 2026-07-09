@@ -1,0 +1,256 @@
+[2026-01-16T13:27:37.367702] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: artificial-light.png
+  prompt: a cinematic photograph of a city skyline at night with glowing neon lights, LED billboards, and streetlamps illuminating the streets below, representing artificial lighting
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:38.500371] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: excessive.png
+  prompt: a dramatic photograph showing an overwhelming amount of bright lights flooding a small room, creating an uncomfortable overexposed atmosphere, representing excess
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:40.054514] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: over-illumination.png
+  prompt: a cinematic aerial view of a city at night with extremely bright lights everywhere, every building and street glowing intensely, representing over-illumination
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:41.377886] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: inefficient.png
+  prompt: a photograph of an old flickering light bulb wasting energy with visible heat waves around it, next to a modern LED bulb, representing inefficiency
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:42.840539] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: urban-areas.png
+  prompt: a stunning aerial photograph of a densely populated modern city at night with tall skyscrapers, busy streets, and bright lights everywhere, representing urban areas
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:43.992318] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: disrupts.png
+  prompt: a conceptual photograph showing a peaceful sleeping scene being interrupted by harsh bright light coming through window, representing disruption
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:45.491207] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: natural-rhythm.png
+  prompt: a beautiful artistic photograph showing the cycle of day and night with sun and moon in harmony, representing natural circadian rhythm
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+
+[2026-01-16T13:27:46.654539] /Users/kay/KAY/Coding/chill-labs/chill-teacher-frontend/src/mock-data/lessons/advanced-topics/light-pollution/resource/prompts.txt
+  filename: ecosystem.png
+  prompt: a stunning photograph of a diverse forest ecosystem with various animals, plants, insects, and birds coexisting in harmony, representing ecosystem
+  error: imagefx failed: ImageFX generate
+
+Generate new images
+
+Options:
+      --version     Show version number  [boolean]
+  -h, --help        Show help  [boolean]
+  -p, --prompt      Textual description of image to be generated  [string]
+  -m, --model       Model to be used for image generation  [string] [choices: "IMAGEN_3_5"] [default: "IMAGEN_3_5"]
+  -n, --count       Number of images to generate [Max: 8]  [number] [default: 4]
+      --size, --sz  Aspect ratio of image to be generated  [string] [choices: "SQUARE", "PORTRAIT", "LANDSCAPE", "LANDSCAPE_FOUR_THREE", "UNSPECIFIED"] [default: "LANDSCAPE"]
+  -s, --seed        Seed value for image to be generated  [number] [default: 0]
+  -r, --retry       Number of retries if in case fetch fails  [number] [default: 1]
+  -d, --dir         Directory to save generated images  [string] [default: "."]
+  -c, --cookie      Google account cookie  [string] [required]
+
+ImageFXError: Server responded with invalid response (401): {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    at ImageFX.fetchImages (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:160:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ImageFX.generateImage (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/ImageFX.js:43:33)
+    at async Object.handler (file:///Users/kay/.nvm/versions/node/v24.2.0/lib/node_modules/@rohitaryal/imagefx-api/dist/cli.js:78:29)
+

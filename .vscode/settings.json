@@ -9,7 +9,6 @@
     "**/routeTree.gen.ts": true
   },
   "files.exclude": {
-    "node_modules": true,
     ".tanstack": true,
     ".prettierignore": true,
     "prettier.config.js": true,

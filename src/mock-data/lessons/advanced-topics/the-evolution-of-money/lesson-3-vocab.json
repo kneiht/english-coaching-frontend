@@ -1,0 +1,221 @@
+{
+  "lesson-3-vocab": {
+    "background": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+    "title": "The Evolution of Money",
+    "description": "Lesson 3: Vocabulary - Part 3",
+    "menu": [
+      {
+        "type": "page",
+        "id": "assignments"
+      },
+      {
+        "type": "activity",
+        "id": "vocabulary"
+      },
+      {
+        "type": "activity",
+        "id": "flashcards"
+      },
+      {
+        "type": "activity",
+        "id": "matching-game"
+      },
+      {
+        "type": "activity",
+        "id": "memory-game"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-envi"
+      },
+      {
+        "type": "activity",
+        "id": "multiple-choice-vien"
+      },
+      {
+        "type": "activity",
+        "id": "picture-choice"
+      },
+      {
+        "type": "activity",
+        "id": "image-reveal"
+      },
+      {
+        "type": "activity",
+        "id": "picture-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-typing"
+      },
+      {
+        "type": "activity",
+        "id": "listening-sentence"
+      },
+      {
+        "type": "activity",
+        "id": "translation-game"
+      },
+      {
+        "type": "activity",
+        "id": "cloze-game"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "inflation",
+        "phonics": "/ɪnˈfleɪʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/inflation.webp",
+        "vietnameseMeaning": "lạm phát",
+        "sampleSentence": "High inflation reduces the value of a currency over time.",
+        "vietnameseTranslation": "Lạm phát cao làm giảm giá trị của một đồng tiền theo thời gian.",
+        "wordPronunciation": "inflation.wav",
+        "sentencePronunciation": "high-inflation-reduces-the-value-of-a-currency-over-time.wav"
+      },
+      {
+        "word": "circulation",
+        "phonics": "/ˌsɜːrkjəˈleɪʃn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/circulation.webp",
+        "vietnameseMeaning": "sự lưu thông",
+        "sampleSentence": "The amount of money in circulation affects inflation.",
+        "vietnameseTranslation": "Lượng tiền lưu thông ảnh hưởng đến lạm phát.",
+        "wordPronunciation": "circulation.wav",
+        "sentencePronunciation": "the-amount-of-money-in-circulation-affects-inflation.wav"
+      },
+      {
+        "word": "commercial",
+        "phonics": "/kəˈmɜːrʃl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/commercial.webp",
+        "vietnameseMeaning": "thuộc thương mại",
+        "sampleSentence": "People hold accounts in commercial banks for daily use.",
+        "vietnameseTranslation": "Mọi người mở tài khoản tại các ngân hàng thương mại để sử dụng hàng ngày.",
+        "wordPronunciation": "commercial.wav",
+        "sentencePronunciation": "people-hold-accounts-in-commercial-banks-for-daily-use.wav"
+      },
+      {
+        "word": "credit",
+        "phonics": "/ˈkredɪt/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/credit.webp",
+        "vietnameseMeaning": "tín dụng",
+        "sampleSentence": "Many people prefer using credit cards to carrying cash.",
+        "vietnameseTranslation": "Nhiều người thích sử dụng thẻ tín dụng hơn là mang theo tiền mặt.",
+        "wordPronunciation": "credit.wav",
+        "sentencePronunciation": "many-people-prefer-using-credit-cards-to-carrying-cash.wav"
+      },
+      {
+        "word": "transfer",
+        "phonics": "/ˈtrænsfɜːr/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/transfer.webp",
+        "vietnameseMeaning": "sự chuyển khoản",
+        "sampleSentence": "Electronic transfer systems make payments instant and secure.",
+        "vietnameseTranslation": "Các hệ thống chuyển khoản điện tử giúp thanh toán diễn ra tức thì và an toàn.",
+        "wordPronunciation": "transfer.wav",
+        "sentencePronunciation": "electronic-transfer-systems-make-payments-instant-and-secure.wav"
+      },
+      {
+        "word": "cashless",
+        "phonics": "/ˈkæʃləs/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/cashless.webp",
+        "vietnameseMeaning": "không dùng tiền mặt",
+        "sampleSentence": "We are moving closer to a cashless society.",
+        "vietnameseTranslation": "Chúng ta đang tiến gần hơn đến một xã hội không dùng tiền mặt.",
+        "wordPronunciation": "cashless.wav",
+        "sentencePronunciation": "we-are-moving-closer-to-a-cashless-society.wav"
+      },
+      {
+        "word": "cryptocurrency",
+        "phonics": "/ˈkrɪptoʊkʌrənsi/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/cryptocurrency.webp",
+        "vietnameseMeaning": "tiền mã hóa",
+        "sampleSentence": "Bitcoin was the first successful cryptocurrency.",
+        "vietnameseTranslation": "Bitcoin là đồng tiền mã hóa thành công đầu tiên.",
+        "wordPronunciation": "cryptocurrency.wav",
+        "sentencePronunciation": "bitcoin-was-the-first-successful-cryptocurrency.wav"
+      },
+      {
+        "word": "decentralized",
+        "phonics": "/ˌdiːˈsentrəlaɪzd/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/decentralized.webp",
+        "vietnameseMeaning": "phi tập trung",
+        "sampleSentence": "Cryptocurrencies operate on a decentralized network.",
+        "vietnameseTranslation": "Tiền mã hóa hoạt động trên một mạng lưới phi tập trung.",
+        "wordPronunciation": "decentralized.wav",
+        "sentencePronunciation": "cryptocurrencies-operate-on-a-decentralized-network.wav"
+      },
+      {
+        "word": "blockchain",
+        "phonics": "/ˈblɑːktʃeɪn/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/blockchain.webp",
+        "vietnameseMeaning": "chuỗi khối, blockchain",
+        "sampleSentence": "A blockchain secures transactions across a network of computers.",
+        "vietnameseTranslation": "Blockchain bảo mật các giao dịch trên một mạng lưới máy tính.",
+        "wordPronunciation": "blockchain.wav",
+        "sentencePronunciation": "a-blockchain-secures-transactions-across-a-network-of-computers.wav"
+      },
+      {
+        "word": "security",
+        "phonics": "/sɪˈkjʊrəti/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/security.webp",
+        "vietnameseMeaning": "sự bảo mật, an ninh",
+        "sampleSentence": "Blockchain technology offers high security for transactions.",
+        "vietnameseTranslation": "Công nghệ blockchain mang lại độ bảo mật cao cho các giao dịch.",
+        "wordPronunciation": "security.wav",
+        "sentencePronunciation": "blockchain-technology-offers-high-security-for-transactions.wav"
+      },
+      {
+        "word": "transparent",
+        "phonics": "/trænsˈpærənt/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/transparent.webp",
+        "vietnameseMeaning": "minh bạch",
+        "sampleSentence": "The transaction history is transparent and cannot be altered.",
+        "vietnameseTranslation": "Lịch sử giao dịch diễn ra minh bạch và không thể bị thay đổi.",
+        "wordPronunciation": "transparent.wav",
+        "sentencePronunciation": "the-transaction-history-is-transparent-and-cannot-be-altered.wav"
+      },
+      {
+        "word": "record",
+        "phonics": "/ˈrekərd/",
+        "partOfSpeech": "n",
+        "image": "https://storage.chillteacher.com/images-words/record.webp",
+        "vietnameseMeaning": "hồ sơ, ghi chép",
+        "sampleSentence": "All transactions are written on a permanent digital record.",
+        "vietnameseTranslation": "Tất cả giao dịch được ghi lại trên một hồ sơ kỹ thuật số vĩnh viễn.",
+        "wordPronunciation": "record.wav",
+        "sentencePronunciation": "all-transactions-are-written-on-a-permanent-digital-record.wav"
+      },
+      {
+        "word": "volatile",
+        "phonics": "/ˈvɑːlətl/",
+        "partOfSpeech": "adj",
+        "image": "https://storage.chillteacher.com/images-words/volatile.webp",
+        "vietnameseMeaning": "biến động mạnh",
+        "sampleSentence": "The value of cryptocurrency is highly volatile.",
+        "vietnameseTranslation": "Giá trị của tiền mã hóa biến động rất mạnh.",
+        "wordPronunciation": "volatile.wav",
+        "sentencePronunciation": "the-value-of-cryptocurrency-is-highly-volatile.wav"
+      },
+      {
+        "word": "accumulate",
+        "phonics": "/əˈkjuːmjəleɪt/",
+        "partOfSpeech": "v",
+        "image": "https://storage.chillteacher.com/images-words/accumulate.webp",
+        "vietnameseMeaning": "tích lũy",
+        "sampleSentence": "It is now easy to accumulate wealth digitally.",
+        "vietnameseTranslation": "Hiện nay rất dễ dàng để tích lũy tài sản dưới dạng kỹ thuật số.",
+        "wordPronunciation": "accumulate.wav",
+        "sentencePronunciation": "it-is-now-easy-to-accumulate-wealth-digitally.wav"
+      }
+    ]
+  }
+}
