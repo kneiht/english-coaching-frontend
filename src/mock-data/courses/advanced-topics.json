@@ -32,6 +32,56 @@
   {
     "course": "advanced-topics",
     "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-4-reading",
+    "lessonDisplay": "Lesson 4: Reading",
+    "description": "Reading",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-5-listening",
+    "lessonDisplay": "Lesson 5: Listening",
+    "description": "Listening",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-6-shadowing",
+    "lessonDisplay": "Lesson 6: Shadowing",
+    "description": "Shadowing",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-7-writing",
+    "lessonDisplay": "Lesson 7: Writing",
+    "description": "Writing",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
+    "unit": "the-evolution-of-money",
+    "unitDisplay": "The Evolution of Money",
+    "lesson": "lesson-8-presentation",
+    "lessonDisplay": "Lesson 8: Presentation",
+    "description": "Presentation",
+    "bg": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070"
+  },
+  {
+    "course": "advanced-topics",
+    "courseDisplay": "Advanced Topics",
     "unit": "the-psychology-of-color",
     "unitDisplay": "The Psychology of Color",
     "lesson": "lesson-1-vocab",

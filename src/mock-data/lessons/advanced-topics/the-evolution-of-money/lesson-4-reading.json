@@ -1,0 +1,1855 @@
+{
+  "lesson-4-reading": {
+    "background": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+    "title": "The Evolution of Money",
+    "description": "Lesson 4: Reading",
+    "menu": [
+      {
+        "type": "page",
+        "id": "assignments"
+      },
+      {
+        "type": "activity",
+        "id": "flashcards"
+      },
+      {
+        "type": "activity",
+        "id": "cloze-game"
+      },
+      {
+        "type": "activity",
+        "id": "reading-slides"
+      },
+      {
+        "type": "activity",
+        "id": "reading-comprehension"
+      }
+    ],
+    "externalContent": {
+      "videos": []
+    },
+    "vocab": [
+      {
+        "word": "currency",
+        "phonics": "/ˈkɜːrənsi/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/currency.webp",
+        "vietnameseMeaning": "tiền tệ",
+        "sampleSentence": "Before modern currency existed, early human societies relied on a barter system.",
+        "vietnameseTranslation": "Trước khi tiền tệ hiện đại tồn tại, các xã hội loài người sơ khai phụ thuộc vào hệ thống trao đổi hàng hóa.",
+        "wordPronunciation": "currency.wav",
+        "sentencePronunciation": "before-modern-currency-existed-early-human-societies-relied-on-a-barter-system.wav"
+      },
+      {
+        "word": "barter",
+        "phonics": "/ˈbɑːrtər/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/barter.webp",
+        "vietnameseMeaning": "trao đổi hàng hóa",
+        "sampleSentence": "Early human societies relied on a barter system to exchange goods and services.",
+        "vietnameseTranslation": "Các xã hội loài người sơ khai phụ thuộc vào hệ thống trao đổi để trao đổi hàng hóa và dịch vụ.",
+        "wordPronunciation": "barter.wav",
+        "sentencePronunciation": "early-human-societies-relied-on-a-barter-system-to-exchange-goods-and-services.wav"
+      },
+      {
+        "word": "exchange",
+        "phonics": "/ɪksˈtʃeɪndʒ/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/exchange.webp",
+        "vietnameseMeaning": "trao đổi",
+        "sampleSentence": "People wanted to exchange goods and services more easily.",
+        "vietnameseTranslation": "Con người muốn trao đổi hàng hóa và dịch vụ một cách dễ dàng hơn.",
+        "wordPronunciation": "exchange.wav",
+        "sentencePronunciation": "people-wanted-to-exchange-goods-and-services-more-easily.wav"
+      },
+      {
+        "word": "coincidence",
+        "phonics": "/koʊˈɪnsɪdəns/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/coincidence.webp",
+        "vietnameseMeaning": "sự trùng hợp",
+        "sampleSentence": "Trading required a coincidence of wants, which made a transaction slow.",
+        "vietnameseTranslation": "Giao dịch yêu cầu sự trùng hợp về nhu cầu, điều này làm cho giao dịch bị chậm.",
+        "wordPronunciation": "coincidence.wav",
+        "sentencePronunciation": "trading-required-a-coincidence-of-wants-which-made-a-transaction-slow.wav"
+      },
+      {
+        "word": "transaction",
+        "phonics": "/trænˈzækʃn/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/transaction.webp",
+        "vietnameseMeaning": "giao dịch",
+        "sampleSentence": "A basic transaction could take a long time to complete.",
+        "vietnameseTranslation": "Một giao dịch cơ bản có thể mất nhiều thời gian để hoàn thành.",
+        "wordPronunciation": "transaction.wav",
+        "sentencePronunciation": "a-basic-transaction-could-take-a-long-time-to-complete.wav"
+      },
+      {
+        "word": "commodity",
+        "phonics": "/kəˈmɑːdəti/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/commodity.webp",
+        "vietnameseMeaning": "hàng hóa",
+        "sampleSentence": "Salt was a valuable commodity used as money in the past.",
+        "vietnameseTranslation": "Muối là một loại hàng hóa có giá trị được sử dụng như tiền tệ trong quá khứ.",
+        "wordPronunciation": "commodity.wav",
+        "sentencePronunciation": "salt-was-a-valuable-commodity-used-as-money-in-the-past.wav"
+      },
+      {
+        "word": "precious",
+        "phonics": "/ˈpreʃəs/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/precious.webp",
+        "vietnameseMeaning": "quý giá",
+        "sampleSentence": "Precious metals like gold and silver became popular for trade.",
+        "vietnameseTranslation": "Các kim loại quý như vàng và bạc đã trở nên phổ biến trong thương mại.",
+        "wordPronunciation": "precious.wav",
+        "sentencePronunciation": "precious-metals-like-gold-and-silver-became-popular-for-trade.wav"
+      },
+      {
+        "word": "durable",
+        "phonics": "/ˈdʊrəbl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/durable.webp",
+        "vietnameseMeaning": "bền bỉ",
+        "sampleSentence": "Gold is very durable and does not rust over time.",
+        "vietnameseTranslation": "Vàng rất bền và không bị gỉ sét theo thời gian.",
+        "wordPronunciation": "durable.wav",
+        "sentencePronunciation": "gold-is-very-durable-and-does-not-rust-over-time.wav"
+      },
+      {
+        "word": "portable",
+        "phonics": "/ˈpɔːrtəbl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/portable.webp",
+        "vietnameseMeaning": "dễ mang theo, tiện lợi",
+        "sampleSentence": "Paper money is more portable than heavy metal coins.",
+        "vietnameseTranslation": "Tiền giấy dễ mang theo hơn các đồng xu kim loại nặng.",
+        "wordPronunciation": "portable.wav",
+        "sentencePronunciation": "paper-money-is-more-portable-than-heavy-metal-coins.wav"
+      },
+      {
+        "word": "mint",
+        "phonics": "/mɪnt/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/mint.webp",
+        "vietnameseMeaning": "đúc tiền",
+        "sampleSentence": "Governments began to mint coins with official designs.",
+        "vietnameseTranslation": "Các chính phủ bắt đầu đúc tiền xu với các thiết kế chính thức.",
+        "wordPronunciation": "mint.wav",
+        "sentencePronunciation": "governments-began-to-mint-coins-with-official-designs.wav"
+      },
+      {
+        "word": "counterfeit",
+        "phonics": "/ˈkaʊntərfɪt/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/counterfeit.webp",
+        "vietnameseMeaning": "giả mạo",
+        "sampleSentence": "Standardized coins helped prevent counterfeit money from spreading.",
+        "vietnameseTranslation": "Đồng xu tiêu chuẩn hóa giúp ngăn ngừa tiền giả lan truyền.",
+        "wordPronunciation": "counterfeit.wav",
+        "sentencePronunciation": "standardized-coins-helped-prevent-counterfeit-money-from-spreading.wav"
+      },
+      {
+        "word": "deposit",
+        "phonics": "/dɪˈpɑːzɪt/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/deposit.webp",
+        "vietnameseMeaning": "gửi tiền",
+        "sampleSentence": "Merchants would deposit their gold at a bank for safekeeping.",
+        "vietnameseTranslation": "Các thương nhân thường gửi vàng của họ tại ngân hàng để bảo quản an toàn.",
+        "wordPronunciation": "deposit.wav",
+        "sentencePronunciation": "merchants-would-deposit-their-gold-at-a-bank-for-safekeeping.wav"
+      },
+      {
+        "word": "receipt",
+        "phonics": "/rɪˈsiːt/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/receipt.webp",
+        "vietnameseMeaning": "biên lai, hóa đơn",
+        "sampleSentence": "The goldsmith issued a paper receipt for the gold deposited.",
+        "vietnameseTranslation": "Người thợ kim hoàn đã cấp một biên lai giấy cho số vàng được gửi.",
+        "wordPronunciation": "receipt.wav",
+        "sentencePronunciation": "the-goldsmith-issued-a-paper-receipt-for-the-gold-deposited.wav"
+      },
+      {
+        "word": "purchase",
+        "phonics": "/ˈpɜːrtʃəs/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/purchase.webp",
+        "vietnameseMeaning": "mua, mua sắm",
+        "sampleSentence": "People could use receipts to purchase goods directly.",
+        "vietnameseTranslation": "Mọi người có thể sử dụng biên lai để mua hàng hóa trực tiếp.",
+        "wordPronunciation": "purchase.wav",
+        "sentencePronunciation": "people-could-use-receipts-to-purchase-goods-directly.wav"
+      },
+      {
+        "word": "redeem",
+        "phonics": "/rɪˈdiːm/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/redeem.webp",
+        "vietnameseMeaning": "quy đổi",
+        "sampleSentence": "They did not need to redeem their physical gold for every purchase.",
+        "vietnameseTranslation": "Họ không cần phải đổi lấy vàng vật chất cho mỗi lần mua hàng.",
+        "wordPronunciation": "redeem.wav",
+        "sentencePronunciation": "they-did-not-need-to-redeem-their-physical-gold-for-every-purchase.wav"
+      },
+      {
+        "word": "backed",
+        "phonics": "/bækt/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/backed.webp",
+        "vietnameseMeaning": "được bảo chứng",
+        "sampleSentence": "Paper money was backed by actual gold reserves.",
+        "vietnameseTranslation": "Tiền giấy được bảo chứng bởi các dự trữ vàng thực tế.",
+        "wordPronunciation": "backed.wav",
+        "sentencePronunciation": "paper-money-was-backed-by-actual-gold-reserves.wav"
+      },
+      {
+        "word": "fiat",
+        "phonics": "/ˈfiːæt/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/fiat.webp",
+        "vietnameseMeaning": "pháp định",
+        "sampleSentence": "Most countries now use fiat money instead of gold-backed currency.",
+        "vietnameseTranslation": "Hầu hết các quốc gia hiện nay sử dụng tiền pháp định thay vì tiền tệ được bảo chứng bằng vàng.",
+        "wordPronunciation": "fiat.wav",
+        "sentencePronunciation": "most-countries-now-use-fiat-money-instead-of-gold-backed-currency.wav"
+      },
+      {
+        "word": "central",
+        "phonics": "/ˈsentrəl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/central.webp",
+        "vietnameseMeaning": "trung ương",
+        "sampleSentence": "A central bank controls the money supply of a nation.",
+        "vietnameseTranslation": "Một ngân hàng trung ương kiểm soát lượng cung tiền của một quốc gia.",
+        "wordPronunciation": "central.wav",
+        "sentencePronunciation": "a-central-bank-controls-the-money-supply-of-a-nation.wav"
+      },
+      {
+        "word": "legal",
+        "phonics": "/ˈliːɡl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/legal.webp",
+        "vietnameseMeaning": "hợp pháp",
+        "sampleSentence": "Fiat currency is recognized as legal payment.",
+        "vietnameseTranslation": "Tiền tệ pháp định được công nhận là hình thức thanh toán hợp pháp.",
+        "wordPronunciation": "legal.wav",
+        "sentencePronunciation": "fiat-currency-is-recognized-as-legal-payment.wav"
+      },
+      {
+        "word": "trust",
+        "phonics": "/trʌst/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/trust.webp",
+        "vietnameseMeaning": "niềm tin",
+        "sampleSentence": "The value of fiat money is based entirely on public trust.",
+        "vietnameseTranslation": "Giá trị của tiền pháp định hoàn toàn dựa trên niềm tin của công chúng.",
+        "wordPronunciation": "trust.wav",
+        "sentencePronunciation": "the-value-of-fiat-money-is-based-entirely-on-public-trust.wav"
+      },
+      {
+        "word": "inflation",
+        "phonics": "/ɪnˈfleɪʃn/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/inflation.webp",
+        "vietnameseMeaning": "lạm phát",
+        "sampleSentence": "High inflation reduces the value of a currency over time.",
+        "vietnameseTranslation": "Lạm phát cao làm giảm giá trị của một đồng tiền theo thời gian.",
+        "wordPronunciation": "inflation.wav",
+        "sentencePronunciation": "high-inflation-reduces-the-value-of-a-currency-over-time.wav"
+      },
+      {
+        "word": "circulation",
+        "phonics": "/ˌsɜːrkjəˈleɪʃn/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/circulation.webp",
+        "vietnameseMeaning": "sự lưu thông",
+        "sampleSentence": "The amount of money in circulation affects inflation.",
+        "vietnameseTranslation": "Lượng tiền lưu thông ảnh hưởng đến lạm phát.",
+        "wordPronunciation": "circulation.wav",
+        "sentencePronunciation": "the-amount-of-money-in-circulation-affects-inflation.wav"
+      },
+      {
+        "word": "commercial",
+        "phonics": "/kəˈmɜːrʃl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/commercial.webp",
+        "vietnameseMeaning": "thuộc thương mại",
+        "sampleSentence": "People hold accounts in commercial banks for daily use.",
+        "vietnameseTranslation": "Mọi người mở tài khoản tại các ngân hàng thương mại để sử dụng hàng ngày.",
+        "wordPronunciation": "commercial.wav",
+        "sentencePronunciation": "people-hold-accounts-in-commercial-banks-for-daily-use.wav"
+      },
+      {
+        "word": "credit",
+        "phonics": "/ˈkredɪt/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/credit.webp",
+        "vietnameseMeaning": "tín dụng",
+        "sampleSentence": "Many people prefer using credit cards to carrying cash.",
+        "vietnameseTranslation": "Nhiều người thích sử dụng thẻ tín dụng hơn là mang theo tiền mặt.",
+        "wordPronunciation": "credit.wav",
+        "sentencePronunciation": "many-people-prefer-using-credit-cards-to-carrying-cash.wav"
+      },
+      {
+        "word": "transfer",
+        "phonics": "/ˈtrænsfɜːr/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/transfer.webp",
+        "vietnameseMeaning": "sự chuyển khoản",
+        "sampleSentence": "Electronic transfer systems make payments instant and secure.",
+        "vietnameseTranslation": "Các hệ thống chuyển khoản điện tử giúp thanh toán diễn ra tức thì và an toàn.",
+        "wordPronunciation": "transfer.wav",
+        "sentencePronunciation": "electronic-transfer-systems-make-payments-instant-and-secure.wav"
+      },
+      {
+        "word": "cashless",
+        "phonics": "/ˈkæʃləs/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/cashless.webp",
+        "vietnameseMeaning": "không dùng tiền mặt",
+        "sampleSentence": "We are moving closer to a cashless society.",
+        "vietnameseTranslation": "Chúng ta đang tiến gần hơn đến một xã hội không dùng tiền mặt.",
+        "wordPronunciation": "cashless.wav",
+        "sentencePronunciation": "we-are-moving-closer-to-a-cashless-society.wav"
+      },
+      {
+        "word": "cryptocurrency",
+        "phonics": "/ˈkrɪptoʊkʌrənsi/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/cryptocurrency.webp",
+        "vietnameseMeaning": "tiền mã hóa",
+        "sampleSentence": "Bitcoin was the first successful cryptocurrency.",
+        "vietnameseTranslation": "Bitcoin là đồng tiền mã hóa thành công đầu tiên.",
+        "wordPronunciation": "cryptocurrency.wav",
+        "sentencePronunciation": "bitcoin-was-the-first-successful-cryptocurrency.wav"
+      },
+      {
+        "word": "decentralized",
+        "phonics": "/ˌdiːˈsentrəlaɪzd/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/decentralized.webp",
+        "vietnameseMeaning": "phi tập trung",
+        "sampleSentence": "Cryptocurrencies operate on a decentralized network.",
+        "vietnameseTranslation": "Tiền mã hóa hoạt động trên một mạng lưới phi tập trung.",
+        "wordPronunciation": "decentralized.wav",
+        "sentencePronunciation": "cryptocurrencies-operate-on-a-decentralized-network.wav"
+      },
+      {
+        "word": "blockchain",
+        "phonics": "/ˈblɑːktʃeɪn/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/blockchain.webp",
+        "vietnameseMeaning": "chuỗi khối, blockchain",
+        "sampleSentence": "A blockchain secures transactions across a network of computers.",
+        "vietnameseTranslation": "Blockchain bảo mật các giao dịch trên một mạng lưới máy tính.",
+        "wordPronunciation": "blockchain.wav",
+        "sentencePronunciation": "a-blockchain-secures-transactions-across-a-network-of-computers.wav"
+      },
+      {
+        "word": "security",
+        "phonics": "/sɪˈkjʊrəti/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/security.webp",
+        "vietnameseMeaning": "sự bảo mật, an ninh",
+        "sampleSentence": "Blockchain technology offers high security for transactions.",
+        "vietnameseTranslation": "Công nghệ blockchain mang lại độ bảo mật cao cho các giao dịch.",
+        "wordPronunciation": "security.wav",
+        "sentencePronunciation": "blockchain-technology-offers-high-security-for-transactions.wav"
+      },
+      {
+        "word": "transparent",
+        "phonics": "/trænsˈpærənt/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/transparent.webp",
+        "vietnameseMeaning": "minh bạch",
+        "sampleSentence": "The transaction history is transparent and cannot be altered.",
+        "vietnameseTranslation": "Lịch sử giao dịch diễn ra minh bạch và không thể bị thay đổi.",
+        "wordPronunciation": "transparent.wav",
+        "sentencePronunciation": "the-transaction-history-is-transparent-and-cannot-be-altered.wav"
+      },
+      {
+        "word": "record",
+        "phonics": "/ˈrekərd/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/record.webp",
+        "vietnameseMeaning": "hồ sơ, ghi chép",
+        "sampleSentence": "All transactions are written on a permanent digital record.",
+        "vietnameseTranslation": "Tất cả giao dịch được ghi lại trên một hồ sơ kỹ thuật số vĩnh viễn.",
+        "wordPronunciation": "record.wav",
+        "sentencePronunciation": "all-transactions-are-written-on-a-permanent-digital-record.wav"
+      },
+      {
+        "word": "volatile",
+        "phonics": "/ˈvɑːlətl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/volatile.webp",
+        "vietnameseMeaning": "biến động mạnh",
+        "sampleSentence": "The value of cryptocurrency is highly volatile.",
+        "vietnameseTranslation": "Giá trị của tiền mã hóa biến động rất mạnh.",
+        "wordPronunciation": "volatile.wav",
+        "sentencePronunciation": "the-value-of-cryptocurrency-is-highly-volatile.wav"
+      },
+      {
+        "word": "accumulate",
+        "phonics": "/əˈkjuːmjəleɪt/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/accumulate.webp",
+        "vietnameseMeaning": "tích lũy",
+        "sampleSentence": "It is now easy to accumulate wealth digitally.",
+        "vietnameseTranslation": "Hiện nay rất dễ dàng để tích lũy tài sản dưới dạng kỹ thuật số.",
+        "wordPronunciation": "accumulate.wav",
+        "sentencePronunciation": "it-is-now-easy-to-accumulate-wealth-digitally.wav"
+      },
+      {
+        "word": "divide",
+        "phonics": "/dɪˈvaɪd/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/divide.webp",
+        "vietnameseMeaning": "chia nhỏ",
+        "sampleSentence": "It was easy to divide precious metals into smaller pieces.",
+        "vietnameseTranslation": "Rất dễ dàng để chia nhỏ các kim loại quý thành các phần nhỏ hơn.",
+        "wordPronunciation": "divide.wav",
+        "sentencePronunciation": "it-was-easy-to-divide-precious-metals-into-smaller-pieces.wav"
+      },
+      {
+        "word": "standard",
+        "phonics": "/ˈstændərd/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/standard.webp",
+        "vietnameseMeaning": "tiêu chuẩn",
+        "sampleSentence": "Rulers created coins of a standard weight to make trading fair.",
+        "vietnameseTranslation": "Các nhà cai trị đã tạo ra những đồng xu có trọng lượng tiêu chuẩn để giúp giao thương công bằng.",
+        "wordPronunciation": "standard.wav",
+        "sentencePronunciation": "rulers-created-coins-of-a-standard-weight-to-make-trading-fair.wav"
+      },
+      {
+        "word": "guarantee",
+        "phonics": "/ˌɡærənˈtiː/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/guarantee.webp",
+        "vietnameseMeaning": "đảm bảo",
+        "sampleSentence": "Official stamps on coins guarantee their weight and purity.",
+        "vietnameseTranslation": "Các con dấu chính thức trên tiền xu đảm bảo trọng lượng và độ tinh khiết của chúng.",
+        "wordPronunciation": "guarantee.wav",
+        "sentencePronunciation": "official-stamps-on-coins-guarantee-their-weight-and-purity.wav"
+      },
+      {
+        "word": "bank",
+        "phonics": "/bæŋk/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/bank.webp",
+        "vietnameseMeaning": "ngân hàng",
+        "sampleSentence": "The bank kept the merchants' gold safe in a secure place.",
+        "vietnameseTranslation": "Ngân hàng đã giữ vàng của các thương nhân an toàn ở một nơi bảo mật.",
+        "wordPronunciation": "bank.wav",
+        "sentencePronunciation": "the-bank-kept-the-merchants-gold-safe-in-a-secure-place.wav"
+      },
+      {
+        "word": "financial",
+        "phonics": "/faɪˈnænʃl/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/financial.webp",
+        "vietnameseMeaning": "thuộc tài chính",
+        "sampleSentence": "The modern financial system is very complex.",
+        "vietnameseTranslation": "Hệ thống tài chính hiện đại rất phức tạp.",
+        "wordPronunciation": "financial.wav",
+        "sentencePronunciation": "the-modern-financial-system-is-very-complex.wav"
+      },
+      {
+        "word": "payment",
+        "phonics": "/ˈpeɪmənt/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/payment.webp",
+        "vietnameseMeaning": "thanh toán",
+        "sampleSentence": "Digital methods are now a common way to make a payment.",
+        "vietnameseTranslation": "Các phương thức kỹ thuật số hiện là cách phổ biến để thực hiện thanh toán.",
+        "wordPronunciation": "payment.wav",
+        "sentencePronunciation": "digital-methods-are-now-a-common-way-to-make-a-payment.wav"
+      }
+    ],
+    "readingSlidesData": [
+      {
+        "audio": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-audio/audio1.wav",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+        "title": "The Evolution of Money: From Barter to Bitcoin",
+        "text": ""
+      },
+      {
+        "audio": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-audio/audio2.wav",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-images/image2.webp",
+        "textTitle": "From Barter to Coins",
+        "text": "Before modern currency existed, early human societies relied on a barter system to exchange goods and services. However, trading required a coincidence of wants, which made a transaction slow and difficult. To solve this problem, people started using commodity money like salt or shells. Eventually, they chose precious metals like gold and silver because they were durable, portable, and easy to divide into smaller pieces. Rulers began to mint coins of a standard weight and design to guarantee quality and prevent counterfeit money from spreading in trade."
+      },
+      {
+        "audio": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-audio/audio3.wav",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-images/image3.webp",
+        "textTitle": "Paper Money and Modern Banking",
+        "text": "As trade grew, carrying heavy coins became difficult. During the Middle Ages, merchants began to deposit their gold at a bank for safekeeping, receiving a paper receipt in return. They quickly realized they could use these receipts to purchase goods directly, instead of returning to redeem their metal. This led to paper money backed by gold. Today, our modern financial system operates on fiat money issued by a central bank. It has no physical value but serves as legal payment based on public trust. However, printing too much money causes inflation, which reduces its value in circulation and hurts the economy."
+      },
+      {
+        "audio": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-audio/audio4.wav",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/reading-images/image4.webp",
+        "textTitle": "The Digital Revolution",
+        "text": "Now, money is undergoing another major change. The rise of commercial bank accounts, credit cards, and electronic transfer methods has moved us closer to a cashless society, where physical coins and paper notes are rarely used. In 2009, a new digital money called cryptocurrency emerged. Cryptocurrencies operate on a decentralized network using blockchain technology. This system offers high security and records transactions on a transparent digital record for everyone to see. Although cryptocurrency is highly volatile and its price changes rapidly, it represents an exciting new way to accumulate wealth for the future."
+      }
+    ],
+    "readingComprehensionData": {
+      "title": "The Evolution of Money: From Barter to Bitcoin",
+      "passage": [
+        {
+          "content": "Before modern currency existed, early human societies relied on a barter system to exchange goods and services. However, trading required a coincidence of wants, which made a transaction slow and difficult. To solve this problem, people started using commodity money like salt or shells. Eventually, they chose precious metals like gold and silver because they were durable, portable, and easy to divide into smaller pieces. Rulers began to mint coins of a standard weight and design to guarantee quality and prevent counterfeit money from spreading in trade."
+        },
+        {
+          "heading": "Paper Money and Modern Banking",
+          "content": "As trade grew, carrying heavy coins became difficult. During the Middle Ages, merchants began to deposit their gold at a bank for safekeeping, receiving a paper receipt in return. They quickly realized they could use these receipts to purchase goods directly, instead of returning to redeem their metal. This led to paper money backed by gold. Today, our modern financial system operates on fiat money issued by a central bank. It has no physical value but serves as legal payment based on public trust. However, printing too much money causes inflation, which reduces its value in circulation and hurts the economy."
+        },
+        {
+          "heading": "The Digital Revolution",
+          "content": "Now, money is undergoing another major change. The rise of commercial bank accounts, credit cards, and electronic transfer methods has moved us closer to a cashless society, where physical coins and paper notes are rarely used. In 2009, a new digital money called cryptocurrency emerged. Cryptocurrencies operate on a decentralized network using blockchain technology. This system offers high security and records transactions on a transparent digital record for everyone to see. Although cryptocurrency is highly volatile and its price changes rapidly, it represents an exciting new way to accumulate wealth for the future."
+        }
+      ],
+      "questions": {
+        "singleChoice": [
+          {
+            "id": "sc1",
+            "prompt": "What was the main problem with the barter system?",
+            "options": [
+              {
+                "value": "coincidence-wants",
+                "label": "It required a coincidence of wants, making transactions slow and difficult"
+              },
+              {
+                "value": "too-expensive",
+                "label": "It was too expensive for ordinary people"
+              },
+              {
+                "value": "only-food",
+                "label": "It only worked for food products"
+              }
+            ],
+            "correct": "coincidence-wants"
+          },
+          {
+            "id": "sc2",
+            "prompt": "Why did people choose precious metals like gold and silver as money?",
+            "options": [
+              {
+                "value": "durable-portable-divisible",
+                "label": "Because they were durable, portable, and easy to divide"
+              },
+              {
+                "value": "beautiful",
+                "label": "Because they were the most beautiful metals"
+              },
+              {
+                "value": "easy-to-find",
+                "label": "Because they were easy to find everywhere"
+              }
+            ],
+            "correct": "durable-portable-divisible"
+          },
+          {
+            "id": "sc3",
+            "prompt": "How did paper money first develop?",
+            "options": [
+              {
+                "value": "receipts-for-gold",
+                "label": "Merchants used paper receipts for deposited gold to purchase goods directly"
+              },
+              {
+                "value": "government-invented",
+                "label": "Governments invented paper money to replace gold"
+              },
+              {
+                "value": "banks-printed",
+                "label": "Banks printed money to give to poor people"
+              }
+            ],
+            "correct": "receipts-for-gold"
+          },
+          {
+            "id": "sc4",
+            "prompt": "What is the basis for the value of fiat money?",
+            "options": [
+              {
+                "value": "public-trust",
+                "label": "Public trust"
+              },
+              {
+                "value": "gold-reserves",
+                "label": "Gold reserves held by the government"
+              },
+              {
+                "value": "physical-material",
+                "label": "The physical material it is made from"
+              }
+            ],
+            "correct": "public-trust"
+          }
+        ],
+        "tfng": [
+          {
+            "id": "tf1",
+            "statement": "Before modern currency, people used a barter system to exchange goods.",
+            "correct": "true"
+          },
+          {
+            "id": "tf2",
+            "statement": "Salt and shells were examples of commodity money.",
+            "correct": "true"
+          },
+          {
+            "id": "tf3",
+            "statement": "Paper money was originally backed by silver, not gold.",
+            "correct": "false"
+          },
+          {
+            "id": "tf4",
+            "statement": "Most people in the world now prefer cryptocurrency over fiat money.",
+            "correct": "not_given"
+          },
+          {
+            "id": "tf5",
+            "statement": "Blockchain technology records transactions on a transparent digital record.",
+            "correct": "true"
+          }
+        ],
+        "matching": {
+          "questions": [
+            {
+              "id": "m1",
+              "statement": "The problem of the barter system",
+              "correct": "option1"
+            },
+            {
+              "id": "m2",
+              "statement": "The result of printing too much money",
+              "correct": "option2"
+            },
+            {
+              "id": "m3",
+              "statement": "The technology behind cryptocurrency",
+              "correct": "option3"
+            }
+          ],
+          "options": [
+            {
+              "value": "option1",
+              "label": "Required a coincidence of wants"
+            },
+            {
+              "value": "option2",
+              "label": "Causes inflation and reduces money's value"
+            },
+            {
+              "value": "option3",
+              "label": "Blockchain and decentralized networks"
+            }
+          ]
+        },
+        "summary": [
+          {
+            "id": "sum1",
+            "prompt": "Complete: Trading required a ______ of wants, which made a transaction slow.",
+            "answers": [
+              "coincidence"
+            ]
+          },
+          {
+            "id": "sum2",
+            "prompt": "Complete: Fiat money serves as ______ payment based on public trust.",
+            "answers": [
+              "legal"
+            ]
+          },
+          {
+            "id": "sum3",
+            "prompt": "Complete: Cryptocurrencies operate on a ______ network using blockchain technology.",
+            "answers": [
+              "decentralized"
+            ]
+          }
+        ],
+        "shortAnswer": [
+          {
+            "id": "sa1",
+            "prompt": "Why did rulers begin to mint coins of a standard weight and design?"
+          },
+          {
+            "id": "sa2",
+            "prompt": "What are the advantages and disadvantages of cryptocurrency mentioned in the passage?"
+          }
+        ]
+      }
+    },
+    "clozeData": {
+      "paragraph": "Before modern _____ existed, people relied on a _____ system to exchange goods. Trading required a _____ of wants, which was slow and difficult. People then started using _____ money like salt. They later chose _____ metals because they were durable and _____. Merchants would _____ gold at a bank and use paper _____ to purchase goods. Today, _____ money is issued by a _____ bank and is based on public _____. However, printing too much money causes _____. Now, _____ operates on a _____ network using _____ technology.",
+      "words": [
+        "currency",
+        "barter",
+        "coincidence",
+        "commodity",
+        "precious",
+        "portable",
+        "deposit",
+        "receipts",
+        "fiat",
+        "central",
+        "trust",
+        "inflation",
+        "cryptocurrency",
+        "decentralized",
+        "blockchain"
+      ]
+    },
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [
+              {
+                "text": "The Evolution of Money"
+              }
+            ]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [
+              {
+                "text": "Lesson 4: Reading"
+              }
+            ]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [
+              {
+                "text": "Hãy hoàn thành các nhiệm vụ sau:"
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Ôn từ vựng bằng Flashcards."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Làm bài điền từ vào đoạn văn."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Làm các bài tập đọc hiểu. Chụp điểm số gửi giáo viên."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện đọc thành tiếng và ghi âm lại gửi giáo viên. Chú ý phát âm và ngữ điệu khi đọc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [
+              {
+                "text": "Chúc các em học tốt!"
+              }
+            ]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ],
+    "questions": [
+      {
+        "type": "multipleChoice",
+        "question": "\"currency\" nghĩa là gì?",
+        "correctAnswer": "tiền tệ",
+        "options": [
+          "tiền tệ",
+          "hàng hóa",
+          "giao dịch",
+          "sự trùng hợp"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"barter\" nghĩa là gì?",
+        "correctAnswer": "trao đổi hàng hóa",
+        "options": [
+          "trao đổi hàng hóa",
+          "đúc tiền",
+          "gửi tiền",
+          "mua, mua sắm"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"exchange\" nghĩa là gì?",
+        "correctAnswer": "trao đổi",
+        "options": [
+          "trao đổi",
+          "đảm bảo",
+          "quy đổi",
+          "tích lũy"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"coincidence\" nghĩa là gì?",
+        "correctAnswer": "sự trùng hợp",
+        "options": [
+          "sự trùng hợp",
+          "sự lưu thông",
+          "sự bảo mật, an ninh",
+          "thanh toán"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"transaction\" nghĩa là gì?",
+        "correctAnswer": "giao dịch",
+        "options": [
+          "giao dịch",
+          "sự chuyển khoản",
+          "lạm phát",
+          "niềm tin"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"commodity\" nghĩa là gì?",
+        "correctAnswer": "hàng hóa",
+        "options": [
+          "hàng hóa",
+          "tiền tệ",
+          "biên lai, hóa đơn",
+          "thuộc thương mại"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"precious\" nghĩa là gì?",
+        "correctAnswer": "quý giá",
+        "options": [
+          "quý giá",
+          "bền bỉ",
+          "giả mạo",
+          "minh bạch"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"durable\" nghĩa là gì?",
+        "correctAnswer": "bền bỉ",
+        "options": [
+          "bền bỉ",
+          "dễ mang theo, tiện lợi",
+          "biến động mạnh",
+          "hợp pháp"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"portable\" nghĩa là gì?",
+        "correctAnswer": "dễ mang theo, tiện lợi",
+        "options": [
+          "dễ mang theo, tiện lợi",
+          "bền bỉ",
+          "pháp định",
+          "phi tập trung"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"mint\" nghĩa là gì?",
+        "correctAnswer": "đúc tiền",
+        "options": [
+          "đúc tiền",
+          "chia nhỏ",
+          "gửi tiền",
+          "trao đổi"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"counterfeit\" nghĩa là gì?",
+        "correctAnswer": "giả mạo",
+        "options": [
+          "giả mạo",
+          "tiêu chuẩn",
+          "được bảo chứng",
+          "trung ương"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"deposit\" nghĩa là gì?",
+        "correctAnswer": "gửi tiền",
+        "options": [
+          "gửi tiền",
+          "quy đổi",
+          "mua, mua sắm",
+          "đảm bảo"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"receipt\" nghĩa là gì?",
+        "correctAnswer": "biên lai, hóa đơn",
+        "options": [
+          "biên lai, hóa đơn",
+          "hồ sơ, ghi chép",
+          "thanh toán",
+          "tín dụng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"purchase\" nghĩa là gì?",
+        "correctAnswer": "mua, mua sắm",
+        "options": [
+          "mua, mua sắm",
+          "trao đổi hàng hóa",
+          "tích lũy",
+          "gửi tiền"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"redeem\" nghĩa là gì?",
+        "correctAnswer": "quy đổi",
+        "options": [
+          "quy đổi",
+          "đúc tiền",
+          "chia nhỏ",
+          "trao đổi"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"backed\" nghĩa là gì?",
+        "correctAnswer": "được bảo chứng",
+        "options": [
+          "được bảo chứng",
+          "giả mạo",
+          "pháp định",
+          "không dùng tiền mặt"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"fiat\" nghĩa là gì?",
+        "correctAnswer": "pháp định",
+        "options": [
+          "pháp định",
+          "trung ương",
+          "thuộc tài chính",
+          "thuộc thương mại"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"central\" nghĩa là gì?",
+        "correctAnswer": "trung ương",
+        "options": [
+          "trung ương",
+          "phi tập trung",
+          "hợp pháp",
+          "minh bạch"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"legal\" nghĩa là gì?",
+        "correctAnswer": "hợp pháp",
+        "options": [
+          "hợp pháp",
+          "pháp định",
+          "tiêu chuẩn",
+          "được bảo chứng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"trust\" nghĩa là gì?",
+        "correctAnswer": "niềm tin",
+        "options": [
+          "niềm tin",
+          "sự bảo mật, an ninh",
+          "thanh toán",
+          "lạm phát"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"inflation\" nghĩa là gì?",
+        "correctAnswer": "lạm phát",
+        "options": [
+          "lạm phát",
+          "sự lưu thông",
+          "sự chuyển khoản",
+          "giao dịch"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"circulation\" nghĩa là gì?",
+        "correctAnswer": "sự lưu thông",
+        "options": [
+          "sự lưu thông",
+          "lạm phát",
+          "sự trùng hợp",
+          "hồ sơ, ghi chép"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"commercial\" nghĩa là gì?",
+        "correctAnswer": "thuộc thương mại",
+        "options": [
+          "thuộc thương mại",
+          "thuộc tài chính",
+          "trung ương",
+          "quý giá"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"credit\" nghĩa là gì?",
+        "correctAnswer": "tín dụng",
+        "options": [
+          "tín dụng",
+          "thanh toán",
+          "biên lai, hóa đơn",
+          "tiền tệ"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"transfer\" nghĩa là gì?",
+        "correctAnswer": "sự chuyển khoản",
+        "options": [
+          "sự chuyển khoản",
+          "giao dịch",
+          "trao đổi",
+          "sự lưu thông"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"cashless\" nghĩa là gì?",
+        "correctAnswer": "không dùng tiền mặt",
+        "options": [
+          "không dùng tiền mặt",
+          "phi tập trung",
+          "minh bạch",
+          "biến động mạnh"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"cryptocurrency\" nghĩa là gì?",
+        "correctAnswer": "tiền mã hóa",
+        "options": [
+          "tiền mã hóa",
+          "tiền tệ",
+          "hàng hóa",
+          "tín dụng"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"decentralized\" nghĩa là gì?",
+        "correctAnswer": "phi tập trung",
+        "options": [
+          "phi tập trung",
+          "trung ương",
+          "pháp định",
+          "hợp pháp"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"blockchain\" nghĩa là gì?",
+        "correctAnswer": "chuỗi khối, blockchain",
+        "options": [
+          "chuỗi khối, blockchain",
+          "tiền mã hóa",
+          "sự bảo mật, an ninh",
+          "hồ sơ, ghi chép"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"security\" nghĩa là gì?",
+        "correctAnswer": "sự bảo mật, an ninh",
+        "options": [
+          "sự bảo mật, an ninh",
+          "niềm tin",
+          "đảm bảo",
+          "minh bạch"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"transparent\" nghĩa là gì?",
+        "correctAnswer": "minh bạch",
+        "options": [
+          "minh bạch",
+          "được bảo chứng",
+          "giả mạo",
+          "không dùng tiền mặt"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"record\" nghĩa là gì?",
+        "correctAnswer": "hồ sơ, ghi chép",
+        "options": [
+          "hồ sơ, ghi chép",
+          "biên lai, hóa đơn",
+          "sự lưu thông",
+          "giao dịch"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"volatile\" nghĩa là gì?",
+        "correctAnswer": "biến động mạnh",
+        "options": [
+          "biến động mạnh",
+          "bền bỉ",
+          "dễ mang theo, tiện lợi",
+          "quý giá"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"accumulate\" nghĩa là gì?",
+        "correctAnswer": "tích lũy",
+        "options": [
+          "tích lũy",
+          "gửi tiền",
+          "mua, mua sắm",
+          "đúc tiền"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"divide\" nghĩa là gì?",
+        "correctAnswer": "chia nhỏ",
+        "options": [
+          "chia nhỏ",
+          "trao đổi",
+          "quy đổi",
+          "đảm bảo"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"standard\" nghĩa là gì?",
+        "correctAnswer": "tiêu chuẩn",
+        "options": [
+          "tiêu chuẩn",
+          "hợp pháp",
+          "pháp định",
+          "trung ương"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"guarantee\" nghĩa là gì?",
+        "correctAnswer": "đảm bảo",
+        "options": [
+          "đảm bảo",
+          "sự bảo mật, an ninh",
+          "niềm tin",
+          "minh bạch"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"bank\" nghĩa là gì?",
+        "correctAnswer": "ngân hàng",
+        "options": [
+          "ngân hàng",
+          "hàng hóa",
+          "tiền tệ",
+          "hồ sơ, ghi chép"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"financial\" nghĩa là gì?",
+        "correctAnswer": "thuộc tài chính",
+        "options": [
+          "thuộc tài chính",
+          "thuộc thương mại",
+          "pháp định",
+          "hợp pháp"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "\"payment\" nghĩa là gì?",
+        "correctAnswer": "thanh toán",
+        "options": [
+          "thanh toán",
+          "tín dụng",
+          "sự chuyển khoản",
+          "biên lai, hóa đơn"
+        ]
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "currency",
+        "options": [
+          "currency",
+          "commodity",
+          "counterfeit",
+          "circulation"
+        ],
+        "wordToSpeak": "currency"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "barter",
+        "options": [
+          "barter",
+          "backed",
+          "blockchain",
+          "bank"
+        ],
+        "wordToSpeak": "barter"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "transaction",
+        "options": [
+          "transaction",
+          "transfer",
+          "transparent",
+          "trust"
+        ],
+        "wordToSpeak": "transaction"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "deposit",
+        "options": [
+          "deposit",
+          "divide",
+          "durable",
+          "decentralized"
+        ],
+        "wordToSpeak": "deposit"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "inflation",
+        "options": [
+          "inflation",
+          "exchange",
+          "accumulate",
+          "fiat"
+        ],
+        "wordToSpeak": "inflation"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "cryptocurrency",
+        "options": [
+          "cryptocurrency",
+          "circulation",
+          "commercial",
+          "credit"
+        ],
+        "wordToSpeak": "cryptocurrency"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "blockchain",
+        "options": [
+          "blockchain",
+          "backed",
+          "bank",
+          "barter"
+        ],
+        "wordToSpeak": "blockchain"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "volatile",
+        "options": [
+          "volatile",
+          "precious",
+          "portable",
+          "purchase"
+        ],
+        "wordToSpeak": "volatile"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "security",
+        "options": [
+          "security",
+          "standard",
+          "receipt",
+          "record"
+        ],
+        "wordToSpeak": "security"
+      },
+      {
+        "type": "listening",
+        "question": "🔊 Nghe và chọn từ đúng:",
+        "correctAnswer": "cashless",
+        "options": [
+          "cashless",
+          "central",
+          "coincidence",
+          "counterfeit"
+        ],
+        "wordToSpeak": "cashless"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"tiền tệ\"",
+        "correctAnswer": "currency"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"trao đổi hàng hóa\"",
+        "correctAnswer": "barter"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"giao dịch\"",
+        "correctAnswer": "transaction"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"gửi tiền\"",
+        "correctAnswer": "deposit"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"lạm phát\"",
+        "correctAnswer": "inflation"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"tiền mã hóa\"",
+        "correctAnswer": "cryptocurrency"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"chuỗi khối, blockchain\"",
+        "correctAnswer": "blockchain"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"biến động mạnh\"",
+        "correctAnswer": "volatile"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"sự bảo mật, an ninh\"",
+        "correctAnswer": "security"
+      },
+      {
+        "type": "fillBlank",
+        "question": "Điền từ tiếng Anh cho: \"không dùng tiền mặt\"",
+        "correctAnswer": "cashless"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Before modern _____ existed, early human societies relied on a barter system.",
+        "correctAnswer": "currency",
+        "options": [
+          "currency",
+          "commodity",
+          "fiat",
+          "receipt"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Early human societies relied on a _____ system to exchange goods and services.",
+        "correctAnswer": "barter",
+        "options": [
+          "barter",
+          "financial",
+          "cashless",
+          "commercial"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "People wanted to _____ goods and services more easily.",
+        "correctAnswer": "exchange",
+        "options": [
+          "exchange",
+          "deposit",
+          "accumulate",
+          "mint"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Trading required a _____ of wants, which made a transaction slow.",
+        "correctAnswer": "coincidence",
+        "options": [
+          "coincidence",
+          "circulation",
+          "transfer",
+          "receipt"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "A basic _____ could take a long time to complete.",
+        "correctAnswer": "transaction",
+        "options": [
+          "transaction",
+          "transfer",
+          "payment",
+          "record"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Salt was a valuable _____ used as money in the past.",
+        "correctAnswer": "commodity",
+        "options": [
+          "commodity",
+          "currency",
+          "receipt",
+          "credit"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "_____ metals like gold and silver became popular for trade.",
+        "correctAnswer": "Precious",
+        "options": [
+          "Precious",
+          "Durable",
+          "Portable",
+          "Standard"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Gold is very _____ and does not rust over time.",
+        "correctAnswer": "durable",
+        "options": [
+          "durable",
+          "portable",
+          "volatile",
+          "transparent"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Paper money is more _____ than heavy metal coins.",
+        "correctAnswer": "portable",
+        "options": [
+          "portable",
+          "durable",
+          "precious",
+          "backed"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Governments began to _____ coins with official designs.",
+        "correctAnswer": "mint",
+        "options": [
+          "mint",
+          "deposit",
+          "purchase",
+          "redeem"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Standardized coins helped prevent _____ money from spreading.",
+        "correctAnswer": "counterfeit",
+        "options": [
+          "counterfeit",
+          "fiat",
+          "backed",
+          "legal"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Merchants would _____ their gold at a bank for safekeeping.",
+        "correctAnswer": "deposit",
+        "options": [
+          "deposit",
+          "exchange",
+          "divide",
+          "accumulate"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The goldsmith issued a paper _____ for the gold deposited.",
+        "correctAnswer": "receipt",
+        "options": [
+          "receipt",
+          "record",
+          "payment",
+          "credit"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "People could use receipts to _____ goods directly.",
+        "correctAnswer": "purchase",
+        "options": [
+          "purchase",
+          "barter",
+          "exchange",
+          "redeem"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "They did not need to _____ their physical gold for every purchase.",
+        "correctAnswer": "redeem",
+        "options": [
+          "redeem",
+          "deposit",
+          "mint",
+          "divide"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Paper money was _____ by actual gold reserves.",
+        "correctAnswer": "backed",
+        "options": [
+          "backed",
+          "fiat",
+          "legal",
+          "central"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Most countries now use _____ money instead of gold-backed currency.",
+        "correctAnswer": "fiat",
+        "options": [
+          "fiat",
+          "backed",
+          "counterfeit",
+          "commodity"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "A _____ bank controls the money supply of a nation.",
+        "correctAnswer": "central",
+        "options": [
+          "central",
+          "commercial",
+          "financial",
+          "decentralized"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Fiat currency is recognized as _____ payment.",
+        "correctAnswer": "legal",
+        "options": [
+          "legal",
+          "standard",
+          "central",
+          "financial"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The value of fiat money is based entirely on public _____.",
+        "correctAnswer": "trust",
+        "options": [
+          "trust",
+          "security",
+          "guarantee",
+          "receipt"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Printing too much money causes _____.",
+        "correctAnswer": "inflation",
+        "options": [
+          "inflation",
+          "circulation",
+          "transaction",
+          "transfer"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The amount of money in _____ affects inflation.",
+        "correctAnswer": "circulation",
+        "options": [
+          "circulation",
+          "inflation",
+          "transaction",
+          "transfer"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "People hold accounts in _____ banks for daily use.",
+        "correctAnswer": "commercial",
+        "options": [
+          "commercial",
+          "central",
+          "financial",
+          "legal"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Many people prefer using _____ cards to carrying cash.",
+        "correctAnswer": "credit",
+        "options": [
+          "credit",
+          "receipt",
+          "payment",
+          "record"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Electronic _____ systems make payments instant and secure.",
+        "correctAnswer": "transfer",
+        "options": [
+          "transfer",
+          "transaction",
+          "circulation",
+          "exchange"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "We are moving closer to a _____ society.",
+        "correctAnswer": "cashless",
+        "options": [
+          "cashless",
+          "commercial",
+          "financial",
+          "decentralized"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Bitcoin was the first successful _____.",
+        "correctAnswer": "cryptocurrency",
+        "options": [
+          "cryptocurrency",
+          "currency",
+          "commodity",
+          "blockchain"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Cryptocurrencies operate on a _____ network.",
+        "correctAnswer": "decentralized",
+        "options": [
+          "decentralized",
+          "central",
+          "commercial",
+          "financial"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "A _____ secures transactions across a network of computers.",
+        "correctAnswer": "blockchain",
+        "options": [
+          "blockchain",
+          "cryptocurrency",
+          "record",
+          "receipt"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Blockchain technology offers high _____ for transactions.",
+        "correctAnswer": "security",
+        "options": [
+          "security",
+          "trust",
+          "guarantee",
+          "standard"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The transaction history is _____ and cannot be altered.",
+        "correctAnswer": "transparent",
+        "options": [
+          "transparent",
+          "backed",
+          "legal",
+          "durable"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "All transactions are written on a permanent digital _____.",
+        "correctAnswer": "record",
+        "options": [
+          "record",
+          "receipt",
+          "payment",
+          "credit"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The value of cryptocurrency is highly _____.",
+        "correctAnswer": "volatile",
+        "options": [
+          "volatile",
+          "portable",
+          "durable",
+          "precious"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "It is now easy to _____ wealth digitally.",
+        "correctAnswer": "accumulate",
+        "options": [
+          "accumulate",
+          "deposit",
+          "purchase",
+          "exchange"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "It was easy to _____ precious metals into smaller pieces.",
+        "correctAnswer": "divide",
+        "options": [
+          "divide",
+          "mint",
+          "exchange",
+          "redeem"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Rulers created coins of a _____ weight to make trading fair.",
+        "correctAnswer": "standard",
+        "options": [
+          "standard",
+          "legal",
+          "central",
+          "precious"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Official stamps on coins _____ their weight and purity.",
+        "correctAnswer": "guarantee",
+        "options": [
+          "guarantee",
+          "deposit",
+          "redeem",
+          "mint"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The _____ kept the merchants' gold safe in a secure place.",
+        "correctAnswer": "bank",
+        "options": [
+          "bank",
+          "receipt",
+          "record",
+          "blockchain"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "The modern _____ system is very complex.",
+        "correctAnswer": "financial",
+        "options": [
+          "financial",
+          "commercial",
+          "central",
+          "legal"
+        ]
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Digital methods are now a common way to make a _____.",
+        "correctAnswer": "payment",
+        "options": [
+          "payment",
+          "transfer",
+          "transaction",
+          "deposit"
+        ]
+      }
+    ]
+  }
+}
