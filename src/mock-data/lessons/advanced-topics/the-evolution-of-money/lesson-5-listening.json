@@ -1,0 +1,128 @@
+{
+  "lesson-5-listening": {
+    "background": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+    "title": "The Evolution of Money",
+    "description": "Lesson 5: Listening",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "activity", "id": "flashcards" },
+      { "type": "embedPage", "id": "listening-exercise" }
+    ],
+    "externalContent": {
+      "videos": [
+        {
+          "id": "lesson-video",
+          "url": "https://youtu.be/aaaaaa",
+          "title": "Overview Video"
+        }
+      ],
+      "embedPages": [
+        {
+          "id": "listening-exercise",
+          "url": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/listening/index.html",
+          "title": "Listening Exercise"
+        }
+      ]
+    },
+    "vocab": [
+      {
+        "word": "barter",
+        "phonics": "/ˈbɑːrtər/",
+        "partOfSpeech": "v",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/barter.webp",
+        "vietnameseMeaning": "trao đổi hàng hóa",
+        "sampleSentence": "Early human societies relied on a barter system to exchange goods and services.",
+        "vietnameseTranslation": "Các xã hội loài người sơ khai phụ thuộc vào hệ thống trao đổi để trao đổi hàng hóa và dịch vụ.",
+        "wordPronunciation": "barter.wav",
+        "sentencePronunciation": "early-human-societies-relied-on-a-barter-system-to-exchange-goods-and-services.wav"
+      },
+      {
+        "word": "fiat",
+        "phonics": "/ˈfiːæt/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/fiat.webp",
+        "vietnameseMeaning": "pháp định",
+        "sampleSentence": "Most countries now use fiat money instead of gold-backed currency.",
+        "vietnameseTranslation": "Hầu hết các quốc gia hiện nay sử dụng tiền pháp định thay vì tiền tệ được bảo chứng bằng vàng.",
+        "wordPronunciation": "fiat.wav",
+        "sentencePronunciation": "most-countries-now-use-fiat-money-instead-of-gold-backed-currency.wav"
+      },
+      {
+        "word": "cashless",
+        "phonics": "/ˈkæʃləs/",
+        "partOfSpeech": "adj",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/cashless.webp",
+        "vietnameseMeaning": "không dùng tiền mặt",
+        "sampleSentence": "We are moving closer to a cashless society.",
+        "vietnameseTranslation": "Chúng ta đang tiến gần hơn đến một xã hội không dùng tiền mặt.",
+        "wordPronunciation": "cashless.wav",
+        "sentencePronunciation": "we-are-moving-closer-to-a-cashless-society.wav"
+      },
+      {
+        "word": "cryptocurrency",
+        "phonics": "/ˈkrɪptoʊkʌrənsi/",
+        "partOfSpeech": "n",
+        "image": "/src/mock-data/lessons/advanced-topics/the-evolution-of-money/images/cryptocurrency.webp",
+        "vietnameseMeaning": "tiền mã hóa",
+        "sampleSentence": "Bitcoin was the first successful cryptocurrency.",
+        "vietnameseTranslation": "Bitcoin là đồng tiền mã hóa thành công đầu tiên.",
+        "wordPronunciation": "cryptocurrency.wav",
+        "sentencePronunciation": "bitcoin-was-the-first-successful-cryptocurrency.wav"
+      }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "The Evolution of Money" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 5: Listening" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [{ "text": "Xem lại flashcards để nhớ từ vựng." }]
+              },
+              {
+                "tag": "li",
+                "children": [{ "text": "Làm bài tập nghe hiểu và điền từ." }]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      }
+    ]
+  }
+}
