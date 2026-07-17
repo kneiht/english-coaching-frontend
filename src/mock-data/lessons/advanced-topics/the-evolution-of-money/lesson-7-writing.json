@@ -1,0 +1,259 @@
+{
+  "lesson-7-writing": {
+    "background": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070",
+    "title": "The Evolution of Money",
+    "description": "Lesson 7: Writing",
+    "menu": [
+      { "type": "page", "id": "assignments" },
+      { "type": "page", "id": "writing-guide" }
+    ],
+    "pages": [
+      {
+        "id": "assignments",
+        "title": "Nhiệm vụ",
+        "scrollable": true,
+        "root": [
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 text-center"
+            },
+            "children": [{ "text": "The Evolution of Money" }]
+          },
+          {
+            "tag": "h1",
+            "attributes": {
+              "class": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+            },
+            "children": [{ "text": "Lesson 7: Writing" }]
+          },
+          {
+            "tag": "h3",
+            "attributes": {
+              "class": "text-3xl text-gray-800 mb-4 text-center"
+            },
+            "children": [{ "text": "Hãy hoàn thành các nhiệm vụ sau:" }]
+          },
+          {
+            "tag": "ol",
+            "attributes": {
+              "class": "text-3xl text-left text-gray-800 space-y-8 list-decimal list-inside"
+            },
+            "children": [
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Đọc kỹ bài viết mẫu và hướng dẫn trong phần Writing Guide."
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "children": [
+                  {
+                    "text": "Luyện viết một câu chuyện ngắn về một ngày trong xã hội trao đổi hàng hóa (Barter Society) khoảng 150-200 từ vào vở, sau đó chụp hình gửi thầy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attributes": {
+              "class": "text-xl text-gray-600 mt-6 italic text-center"
+            },
+            "children": [{ "text": "Chúc các em học tốt!" }]
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl"
+      },
+      {
+        "id": "writing-guide",
+        "title": "Writing Guide",
+        "scrollable": true,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "The Evolution of Money",
+            "className": "text-4xl font-bold text-indigo-700 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Lesson 7: Writing Guide",
+            "className": "text-4xl font-bold text-indigo-700 mb-6 text-center"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "GUIDE TO WRITING A STORY ABOUT A DAY IN A BARTER SOCIETY (Around 150-200 words)",
+            "className": "text-2xl font-bold text-blue-600"
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "HƯỚNG DẪN VIẾT TRUYỆN NGẮN VỀ MỘT NGÀY TRONG XÃ HỘI TRAO ĐỔI HÀNG HÓA (Khoảng 150-200 từ)",
+            "className": "text-2xl font-bold text-indigo-600 mb-4"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "1. Choose Your Character & Trade Goods (Chọn nhân vật & hàng hóa)",
+            "className": "text-xl font-semibold text-blue-600 pt-2"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Farmer (Nông dân): has wheat, needs tools or clothes (có lúa mì, cần công cụ hoặc quần áo)",
+              "Blacksmith (Thợ rèn): has iron plows, needs food (có cày sắt, cần đồ ăn)",
+              "Weaver (Thợ dệt): has woolen coats, needs meat or tools (có áo len, cần thịt hoặc công cụ)",
+              "Fisherman (Ngư dân): has fresh fish, needs firewood (có cá tươi, cần củi đốt)"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "2. Set the Scene (Thiết lập bối cảnh)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "paragraph",
+            "text": "Describe the ancient village marketplace. Emphasize the busy, noisy atmosphere, the sounds of animals, and people shouting to trade.",
+            "className": "text-gray-800"
+          },
+          {
+            "type": "paragraph",
+            "text": "Mô tả một khu chợ làng thời cổ đại. Nhấn mạnh không khí ồn ào nhộn nhịp, tiếng gia súc gia cầm, và tiếng người ta gọi nhau í ới để đổi đồ.",
+            "className": "text-gray-500 italic"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "3. Introduce the Problem: No Coincidence of Wants (Đưa ra khó khăn: Không trùng khớp nhu cầu)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Show your character trying to trade their product for what they need. (Mô tả nhân vật cố gắng đổi sản phẩm của mình lấy thứ mình cần.)",
+              "Describe the rejection because the other person does not want your item. (Mô tả cảnh bị từ chối vì người kia không có nhu cầu lấy đồ của em - không có 'coincidence of wants'.)",
+              "Show the frustration and slow pace of the transaction. (Thể hiện sự bất lực và chậm chạp của giao dịch.)"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "4. Describe the Solution: Commodity Money (Giải quyết vấn đề bằng tiền hàng hóa)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "paragraph",
+            "text": "Introduce an intermediate commodity that everyone accepts, such as salt, shells, or tea. Your character trades their goods for this commodity, then uses it to buy the actual item they need.",
+            "className": "text-gray-800"
+          },
+          {
+            "type": "paragraph",
+            "text": "Đưa vào một loại hàng hóa trung gian được mọi người chấp nhận rộng rãi như muối hoặc vỏ sò. Nhân vật đổi đồ của mình lấy vật trung gian này, sau đó dùng nó để đổi lấy món đồ thực sự cần.",
+            "className": "text-gray-500 italic"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "5. Vocabulary to Use (Từ vựng cần dùng)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "barter system (hệ thống trao đổi hàng hóa)",
+              "exchange (trao đổi)",
+              "coincidence of wants (sự trùng hợp về nhu cầu)",
+              "transaction (giao dịch)",
+              "commodity money (tiền hàng hóa)",
+              "valuable (giá trị)",
+              "goods and services (hàng hóa và dịch vụ)"
+            ],
+            "className": "list-disc list-inside ml-6 space-y-1 text-gray-700 font-semibold"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "6. Story Structure & Word Count (Dàn ý câu chuyện & Phân bổ số từ)",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-4"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Story Part (Phần truyện)",
+              "What to Include (Nội dung)",
+              "Word Count (Số từ)"
+            ],
+            "rows": [
+              [
+                "Beginning (Mở đầu)",
+                "Introduce character, job, and what they need to trade.\nGiới thiệu nhân vật, công việc và thứ họ cần đổi.",
+                "40-50 words"
+              ],
+              [
+                "Conflict (Thử thách)",
+                "Fail to trade due to no coincidence of wants.\nKhông đổi được đồ vì không trùng khớp nhu cầu.",
+                "50-60 words"
+              ],
+              [
+                "Resolution (Giải quyết)",
+                "Use commodity money (like salt) to complete the trade.\nDùng tiền hàng hóa (như muối) để hoàn tất giao dịch.",
+                "40-50 words"
+              ],
+              [
+                "Conclusion (Kết bài)",
+                "Reflection on the barter system.\nSuy ngẫm về hệ thống trao đổi.",
+                "20-30 words"
+              ]
+            ],
+            "className": "w-full border-collapse mt-2 text-gray-700"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "7. Sample Story: Marcus the Blacksmith's Long Day",
+            "className": "text-xl font-semibold text-blue-600 pt-2 mt-6"
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "text": "Truyện mẫu: Một ngày dài của người thợ rèn Marcus",
+            "className": "text-xl font-semibold text-indigo-600 pt-1"
+          },
+          {
+            "type": "paragraph",
+            "text": "Marcus was a skilled blacksmith in an ancient village. Today, he walked into the busy market carrying a heavy iron plow he had spent three days making. His family was hungry, and he desperately needed a sack of wheat to bake bread.",
+            "className": "text-gray-800 mt-4 font-medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "Marcus found Julia, the wheat farmer. Unfortunately, Julia did not need an iron plow; she already had one. She wanted a new woolen coat instead. Marcus felt extremely frustrated. Because there was no coincidence of wants, he could not complete the transaction. The barter system was proving to be slow and difficult.",
+            "className": "text-gray-800 mt-2 font-medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "Determined, Marcus decided to trade his plow for a bag of salt, a highly valuable commodity money in the village. Julia gladly accepted the salt in exchange for her wheat because she could use it to preserve her meat. Using salt as an intermediate commodity, Marcus finally got the wheat.",
+            "className": "text-gray-800 mt-2 font-medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "As he carried the wheat home, Marcus wished there was a simpler way to exchange goods. This long day showed him that a society needs standard money to make transactions easy.",
+            "className": "text-gray-800 mt-2 mb-4 font-medium"
+          }
+        ],
+        "containerClassName": "bg-white bg-opacity-90 rounded-xl p-10 shadow-2xl text-xl"
+      }
+    ]
+  }
+}
